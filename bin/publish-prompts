@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# publish-prompts — convenience wrapper around publish_prompts.py
+set -euo pipefail
+cd "$(dirname "$0")/.."
+exec python3 bin/publish_prompts.py "$@"
