@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "name": "GPT Image 2 Prompt Gallery",
   "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
-  "generated_at": "2026-05-15T09:15:06Z",
+  "generated_at": "2026-05-15T09:15:42Z",
   "default_model": "openai/gpt-image-2",
   "supported_aspect_ratios": [
     "1:1",
@@ -811,51 +811,6 @@
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/scifi-inventor-teaser-poster.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png"
-    },
-    {
-      "id": "smoke-test-isometric-room",
-      "title": "Isometric Cozy Room (Smoke Test)",
-      "title_zh": "等距迷你房间（冒烟测试）",
-      "category": "Illustrations",
-      "subcategory": "Isometric",
-      "tags": [
-        "isometric",
-        "room",
-        "cozy",
-        "smoke-test"
-      ],
-      "difficulty": "Intermediate",
-      "aspect_ratio": "1:1",
-      "prompt": "Highly detailed isometric illustration of a cozy tiny home office,\nwarm afternoon light streaming through window, indoor plants, vinyl records on shelf,\nsoft pastel palette, Studio Ghibli inspired props, sharp clean linework, white background.\n",
-      "negative_prompt": "",
-      "color_palette": [
-        "#F5E1C8",
-        "#A2C5AC",
-        "#6B7AB5",
-        "#222222"
-      ],
-      "style_keywords": [
-        "isometric",
-        "cozy",
-        "pastel",
-        "illustration"
-      ],
-      "use_cases": [
-        "app onboarding hero",
-        "blog post cover"
-      ],
-      "tip": "Specify time-of-day for predictable lighting.",
-      "tip_zh": "指定具体时间段更易控制氛围。",
-      "license": "Reference-only",
-      "featured": false,
-      "trending_score": 0.6,
-      "language": "en",
-      "mode": "text-to-image",
-      "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@97531a3e2dec0c62070a8c031fc27b67d76525ac/case-images/smoke-test-isometric-room.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/smoke-test-isometric-room.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/97531a3e2dec0c62070a8c031fc27b67d76525ac/case-images/smoke-test-isometric-room.png",
-      "preview_image_pinned_sha": "97531a3e2dec0c62070a8c031fc27b67d76525ac"
     }
   ],
   "image_host": {
