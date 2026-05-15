@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "name": "GPT Image 2 Prompt Gallery",
   "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
-  "generated_at": "2026-05-15T10:01:25Z",
+  "generated_at": "2026-05-15T10:01:27Z",
   "default_model": "openai/gpt-image-2",
   "supported_aspect_ratios": [
     "1:1",
@@ -861,10 +861,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/vintage-tokyo-jazz-club-poster.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
     },
     {
       "id": "minimalist-skincare-bottle-marble",
@@ -915,10 +915,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/minimalist-skincare-bottle-marble.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
     },
     {
       "id": "isometric-cozy-coffee-shop-3d",
@@ -969,10 +969,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/isometric-cozy-coffee-shop-3d.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
     },
     {
       "id": "cyberpunk-mech-pilot-character-sheet",
@@ -1023,10 +1023,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/cyberpunk-mech-pilot-character-sheet.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
     },
     {
       "id": "crypto-trading-app-dark-mode-ui",
@@ -1077,10 +1077,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/crypto-trading-app-dark-mode-ui.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
     }
   ],
   "image_host": {
