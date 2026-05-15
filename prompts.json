@@ -1,0 +1,812 @@
+{
+  "schema_version": "1.1",
+  "name": "GPT Image 2 Prompt Gallery",
+  "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
+  "generated_at": "2026-05-15T08:43:22Z",
+  "default_model": "openai/gpt-image-2",
+  "supported_aspect_ratios": [
+    "1:1",
+    "16:9",
+    "9:16",
+    "3:4",
+    "4:3",
+    "3:2",
+    "2:3"
+  ],
+  "stats": {
+    "total_prompts": 10,
+    "categories": 6,
+    "successful_renders": 10
+  },
+  "categories": [
+    {
+      "id": "posters",
+      "name": "Posters",
+      "name_zh": "海报",
+      "count": 3
+    },
+    {
+      "id": "portraits",
+      "name": "Portraits",
+      "name_zh": "人像",
+      "count": 2
+    },
+    {
+      "id": "ui-mockups",
+      "name": "UI Mockups",
+      "name_zh": "UI 设计",
+      "count": 2
+    },
+    {
+      "id": "character-design",
+      "name": "Character Design",
+      "name_zh": "角色设计",
+      "count": 1
+    },
+    {
+      "id": "product-photography",
+      "name": "Product Photography",
+      "name_zh": "产品图",
+      "count": 1
+    },
+    {
+      "id": "illustrations",
+      "name": "Illustrations",
+      "name_zh": "插画",
+      "count": 1
+    }
+  ],
+  "tags_index": [
+    {
+      "name": "poster",
+      "count": 3
+    },
+    {
+      "name": "neon",
+      "count": 2
+    },
+    {
+      "name": "typography",
+      "count": 2
+    },
+    {
+      "name": "ui",
+      "count": 2
+    },
+    {
+      "name": "portrait",
+      "count": 1
+    },
+    {
+      "name": "35mm film",
+      "count": 1
+    },
+    {
+      "name": "night",
+      "count": 1
+    },
+    {
+      "name": "editorial",
+      "count": 1
+    },
+    {
+      "name": "asian beauty",
+      "count": 1
+    },
+    {
+      "name": "city",
+      "count": 1
+    },
+    {
+      "name": "spring",
+      "count": 1
+    },
+    {
+      "name": "boston",
+      "count": 1
+    },
+    {
+      "name": "panoramic",
+      "count": 1
+    },
+    {
+      "name": "travel",
+      "count": 1
+    },
+    {
+      "name": "vintage",
+      "count": 1
+    },
+    {
+      "name": "screen print",
+      "count": 1
+    },
+    {
+      "name": "italy",
+      "count": 1
+    },
+    {
+      "name": "illustration",
+      "count": 1
+    },
+    {
+      "name": "character design",
+      "count": 1
+    },
+    {
+      "name": "turnaround",
+      "count": 1
+    },
+    {
+      "name": "concept art",
+      "count": 1
+    },
+    {
+      "name": "game art",
+      "count": 1
+    },
+    {
+      "name": "expression sheet",
+      "count": 1
+    },
+    {
+      "name": "product",
+      "count": 1
+    },
+    {
+      "name": "advertising",
+      "count": 1
+    },
+    {
+      "name": "beverage",
+      "count": 1
+    },
+    {
+      "name": "summer",
+      "count": 1
+    },
+    {
+      "name": "ctr-optimized",
+      "count": 1
+    },
+    {
+      "name": "dashboard",
+      "count": 1
+    },
+    {
+      "name": "dark mode",
+      "count": 1
+    },
+    {
+      "name": "saas",
+      "count": 1
+    },
+    {
+      "name": "data viz",
+      "count": 1
+    },
+    {
+      "name": "glassmorphism",
+      "count": 1
+    },
+    {
+      "name": "mobile",
+      "count": 1
+    },
+    {
+      "name": "onboarding",
+      "count": 1
+    },
+    {
+      "name": "wellness",
+      "count": 1
+    },
+    {
+      "name": "minimal",
+      "count": 1
+    },
+    {
+      "name": "candid",
+      "count": 1
+    },
+    {
+      "name": "iphone",
+      "count": 1
+    },
+    {
+      "name": "subway",
+      "count": 1
+    },
+    {
+      "name": "everyday",
+      "count": 1
+    },
+    {
+      "name": "raw",
+      "count": 1
+    },
+    {
+      "name": "mandala",
+      "count": 1
+    },
+    {
+      "name": "cyberpunk",
+      "count": 1
+    },
+    {
+      "name": "symmetric",
+      "count": 1
+    },
+    {
+      "name": "geometric",
+      "count": 1
+    },
+    {
+      "name": "sci-fi",
+      "count": 1
+    },
+    {
+      "name": "cinematic",
+      "count": 1
+    },
+    {
+      "name": "movie",
+      "count": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "EvoLinkAI awesome-gpt-image-2-prompts",
+      "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+    },
+    {
+      "name": "Anil-matcha Awesome-GPT-Image-2-API-Prompts",
+      "url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts"
+    },
+    {
+      "name": "ZeroLu awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image"
+    },
+    {
+      "name": "evolink.ai prompt gallery",
+      "url": "https://evolink.ai/gpt-image-2-prompts"
+    },
+    {
+      "name": "gptimage2ai.com prompts",
+      "url": "https://gptimage2ai.com/prompts"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "convenience-store-neon-portrait",
+      "title": "Convenience Store Neon Portrait",
+      "title_zh": "便利店霓虹光人像",
+      "category": "Portraits",
+      "subcategory": "35mm Film Photography",
+      "tags": [
+        "portrait",
+        "35mm film",
+        "neon",
+        "night",
+        "editorial",
+        "asian beauty"
+      ],
+      "difficulty": "Advanced",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "9:16",
+      "prompt": "35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s woman with ultra-realistic delicate features, seductive almond-shaped eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, long dark hair in a messy high ponytail with loose strands falling around face, wearing an oversized white button-up shirt loosely tied at the waist, paired with a tiny black pleated mini skirt, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior in background, authentic 35mm film color grading, no plastic skin, no watermark, no text",
+      "negative_prompt": "no plastic skin, no watermark, no text",
+      "preview_image": "https://iili.io/BmmGG6P.png",
+      "color_palette": [
+        "#0a0a0a",
+        "#ff6fb4",
+        "#5fb1ff",
+        "#f5f5f5"
+      ],
+      "style_keywords": [
+        "35mm film",
+        "fluorescent lighting",
+        "neon glow",
+        "high contrast",
+        "editorial"
+      ],
+      "use_cases": [
+        "fashion editorial",
+        "lookbook",
+        "social poster",
+        "magazine cover"
+      ],
+      "tip": "Best with 9:16 output. Keep fluorescent + neon contrast strong; avoid plastic-skin fixes.",
+      "tip_zh": "推荐 9:16 出图，保留荧光与霓虹对比，避免肌肤过度磨皮。",
+      "author": "@BubbleBrain",
+      "source_url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+      "license": "community-shared",
+      "featured": true,
+      "trending_score": 96,
+      "generation": {
+        "ok": true,
+        "duration_sec": 174.3
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmGG6P"
+    },
+    {
+      "id": "boston-spring-2026-city-poster",
+      "title": "Boston Spring 2026 City Poster",
+      "title_zh": "波士顿春日 2026 城市海报",
+      "category": "Posters",
+      "subcategory": "City Poster",
+      "tags": [
+        "poster",
+        "city",
+        "typography",
+        "spring",
+        "boston",
+        "panoramic"
+      ],
+      "difficulty": "Expert",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "9:16",
+      "prompt": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city's waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads 'SPRING 2026' with a vertical slogan 'BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION', text clear and beautifully composed, premium graphic design, 9:16",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmGauj.png",
+      "color_palette": [
+        "#f5efe6",
+        "#a01c2b",
+        "#caa05a",
+        "#3a4a5b"
+      ],
+      "style_keywords": [
+        "city poster",
+        "calligraphic flow",
+        "panoramic illustration",
+        "luxury typography"
+      ],
+      "use_cases": [
+        "tourism poster",
+        "event collateral",
+        "magazine spread",
+        "brand campaign"
+      ],
+      "tip": "Render at high quality so 'SPRING 2026' typography stays crisp. Keep negative space generous.",
+      "tip_zh": "高质量出图保证文字 'SPRING 2026' 清晰，留白要够大。",
+      "author": "@EvoLinkAI",
+      "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+      "license": "community-shared",
+      "featured": true,
+      "trending_score": 88,
+      "generation": {
+        "ok": true,
+        "duration_sec": 184.2
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmGauj"
+    },
+    {
+      "id": "amalfi-coast-vintage-travel-poster",
+      "title": "Vintage Amalfi Coast Travel Poster",
+      "title_zh": "复古阿马尔菲海岸旅行海报",
+      "category": "Posters",
+      "subcategory": "Travel Illustration",
+      "tags": [
+        "poster",
+        "travel",
+        "vintage",
+        "screen print",
+        "italy",
+        "illustration"
+      ],
+      "difficulty": "Intermediate",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "3:4",
+      "prompt": "Modern pencil illustration of a vintage travel poster depicting the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style with loose strokes and defined contours. High-contrast color palette, contemporary and decorative aesthetic.",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmGIGS.png",
+      "color_palette": [
+        "#f8d44a",
+        "#1f5fa8",
+        "#e8b58a",
+        "#0e7c4f"
+      ],
+      "style_keywords": [
+        "screen print",
+        "1950s travel poster",
+        "graphic illustration",
+        "Mediterranean palette"
+      ],
+      "use_cases": [
+        "wall art",
+        "travel brand",
+        "boutique hotel decor",
+        "social campaign"
+      ],
+      "tip": "Lock subject = 'Amalfi Coast' and reference '1950s travel poster' for the right gouache feel.",
+      "tip_zh": "强调 1950s travel poster + 丝网印质感，避免被现代插画覆盖。",
+      "author": "@EvoLinkAI",
+      "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+      "license": "community-shared",
+      "featured": false,
+      "trending_score": 78,
+      "generation": {
+        "ok": true,
+        "duration_sec": 153.7
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmGIGS"
+    },
+    {
+      "id": "adventure-character-design-sheet",
+      "title": "Adventure Character Design Sheet",
+      "title_zh": "冒险角色三视图设定稿",
+      "category": "Character Design",
+      "subcategory": "Turnaround Sheet",
+      "tags": [
+        "character design",
+        "turnaround",
+        "concept art",
+        "game art",
+        "expression sheet"
+      ],
+      "difficulty": "Expert",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "16:9",
+      "prompt": "Create a detailed character design sheet for Lira, a young female explorer-mechanic-inventor in her early 20s. Include front, side, and back turnaround views in T-pose. She wears an olive-green fur-lined parka with copper buckles, a golden hand-knit scarf, leather utility belt with brass tools and small gears, weathered cargo trousers, and worn brown leather boots. Add an array of six expressive facial expressions in a top row (curious, determined, surprised, thoughtful, mischievous, proud). Include an equipment breakdown panel: brass goggles, leather-bound journal, hand-cranked lantern, and a compact mechanical wing-pack. Bottom corner: small thumbnail of a snowy mountain village at dusk where she lives. Clean off-white parchment background with pencil grid guidelines, soft watercolor wash, refined ink linework, character sheet typography labels in elegant serif, professional concept art style, 16:9.",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmGF3X.png",
+      "color_palette": [
+        "#f3eadc",
+        "#5d6e3f",
+        "#b88245",
+        "#2a2a2a"
+      ],
+      "style_keywords": [
+        "concept art",
+        "watercolor wash",
+        "ink linework",
+        "character sheet"
+      ],
+      "use_cases": [
+        "game pre-production",
+        "animation",
+        "TTRPG art",
+        "portfolio"
+      ],
+      "tip": "Lock the spec lists (clothes, expressions, equipment) — gpt-image-2 follows them strictly.",
+      "tip_zh": "明确写出服装/表情/装备清单，gpt-image-2 会逐项渲染。",
+      "author": "@BubbleBrain",
+      "source_url": "https://evolink.ai/gpt-image-2-prompts",
+      "license": "community-shared",
+      "featured": true,
+      "trending_score": 91,
+      "generation": {
+        "ok": true,
+        "duration_sec": 223.9
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmGF3X"
+    },
+    {
+      "id": "summer-citrus-soda-ad",
+      "title": "Summer Citrus Soda Ad",
+      "title_zh": "夏日柑橘汽水广告",
+      "category": "Product Photography",
+      "subcategory": "Beverage",
+      "tags": [
+        "product",
+        "advertising",
+        "beverage",
+        "summer",
+        "ctr-optimized"
+      ],
+      "difficulty": "Beginner",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "3:4",
+      "prompt": "Product advertising photo, seasonal summer product, carbonated beverage, name='Summer Citrus SODA', shape=500ml plastic bottle, research 2025 high-CTR drink ad designs and generate accordingly, aspect ratio 3:4",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmMJNj.png",
+      "color_palette": [
+        "#ffb12d",
+        "#ff5b3a",
+        "#1bbf5e",
+        "#fff8de"
+      ],
+      "style_keywords": [
+        "product photography",
+        "splash",
+        "vivid color",
+        "marketing visual"
+      ],
+      "use_cases": [
+        "e-commerce hero",
+        "social ad",
+        "POS display",
+        "rapid concept"
+      ],
+      "tip": "Short prompt — the model researches its own composition. Iterate the bottle name to brand it.",
+      "tip_zh": "提示词极短，靠模型自己研究画面。改瓶身文字即可换品牌。",
+      "author": "@Anil-matcha",
+      "source_url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+      "license": "community-shared",
+      "featured": false,
+      "trending_score": 84,
+      "generation": {
+        "ok": true,
+        "duration_sec": 59.2
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmMJNj"
+    },
+    {
+      "id": "saas-dashboard-dark-mode",
+      "title": "SaaS Analytics Dashboard (Dark Mode)",
+      "title_zh": "SaaS 数据看板（深色）",
+      "category": "UI Mockups",
+      "subcategory": "Dashboard",
+      "tags": [
+        "ui",
+        "dashboard",
+        "dark mode",
+        "saas",
+        "data viz",
+        "glassmorphism"
+      ],
+      "difficulty": "Intermediate",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "16:9",
+      "prompt": "A SaaS analytics dashboard in dark mode. Charcoal background (#1a1a2e) with cards showing: a line chart of monthly revenue in gradient green, a donut chart of traffic sources, a data table of top products, and KPI cards with up/down trend arrows. Sidebar navigation on the left with icons. Subtle glass-morphism effect on cards, Inter font, 8px border radius throughout. High-fidelity UI mockup, pixel-clean rendering, accurate typography, 16:9.",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmG8PI.png",
+      "color_palette": [
+        "#1a1a2e",
+        "#22c58a",
+        "#7b8cff",
+        "#f5f5f7"
+      ],
+      "style_keywords": [
+        "dashboard ui",
+        "dark mode",
+        "glassmorphism",
+        "Inter font"
+      ],
+      "use_cases": [
+        "product mockup",
+        "design pitch",
+        "marketing site hero",
+        "case study"
+      ],
+      "tip": "Spell out font + radius + hex bg. gpt-image-2 renders crisper text than other models.",
+      "tip_zh": "明确字体、圆角、背景色。gpt-image-2 文字渲染特别清晰，写细一些就行。",
+      "author": "gptimage2ai.com",
+      "source_url": "https://gptimage2ai.com/prompts",
+      "license": "community-shared",
+      "featured": true,
+      "trending_score": 89,
+      "generation": {
+        "ok": true,
+        "duration_sec": 80.4
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmG8PI"
+    },
+    {
+      "id": "meditation-app-onboarding",
+      "title": "Meditation App Onboarding Screen",
+      "title_zh": "冥想 App 引导页",
+      "category": "UI Mockups",
+      "subcategory": "Mobile App",
+      "tags": [
+        "ui",
+        "mobile",
+        "onboarding",
+        "wellness",
+        "minimal"
+      ],
+      "difficulty": "Beginner",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "9:16",
+      "prompt": "A mobile app onboarding screen design for a meditation app. Clean, calming layout with a large illustration of a person meditating on a cloud at the top half. Below: a headline 'Find Your Inner Peace', a brief description in light gray text, pagination dots showing screen 2 of 4, and a rounded 'Continue' button in soft lavender. White background, ample whitespace, Inter font. Pixel-perfect mobile UI mockup, 9:16, iPhone 15 Pro device frame optional.",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmEBLB.png",
+      "color_palette": [
+        "#ffffff",
+        "#bfa6ff",
+        "#f4f0ff",
+        "#3a3a3a"
+      ],
+      "style_keywords": [
+        "minimal ui",
+        "wellness",
+        "soft lavender",
+        "whitespace"
+      ],
+      "use_cases": [
+        "app store screenshot",
+        "investor pitch",
+        "design portfolio"
+      ],
+      "tip": "Specify exact headline copy in single quotes — text rendering will follow.",
+      "tip_zh": "用单引号锁定标题文案，文字会被准确渲染。",
+      "author": "gptimage2ai.com",
+      "source_url": "https://gptimage2ai.com/prompts",
+      "license": "community-shared",
+      "featured": false,
+      "trending_score": 76,
+      "generation": {
+        "ok": true,
+        "duration_sec": 57.8
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmEBLB"
+    },
+    {
+      "id": "subway-candid-iphone",
+      "title": "Subway Candid iPhone Photo",
+      "title_zh": "地铁 iPhone 抓拍",
+      "category": "Portraits",
+      "subcategory": "Candid Photography",
+      "tags": [
+        "candid",
+        "iphone",
+        "subway",
+        "everyday",
+        "raw"
+      ],
+      "difficulty": "Beginner",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "4:3",
+      "prompt": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA at night, a beautiful young woman in a long black coat standing near the closing doors looking at her phone, slight motion blur, fluorescent ceiling lights, mild lens flare, natural skin tones, no beauty filter, candid composition, slight handheld tilt, authentic everyday atmosphere, 4:3.",
+      "negative_prompt": "no beauty filter, no over-saturation, no professional lighting",
+      "preview_image": "https://iili.io/BmmGtPS.png",
+      "color_palette": [
+        "#1f2230",
+        "#d8c6a8",
+        "#5b7290",
+        "#f0eee9"
+      ],
+      "style_keywords": [
+        "RAW iPhone",
+        "candid",
+        "subway",
+        "natural",
+        "documentary"
+      ],
+      "use_cases": [
+        "instagram",
+        "cinematic short",
+        "editorial b-roll",
+        "mood board"
+      ],
+      "tip": "Keywords 'RAW', 'unprocessed', 'no beauty filter' are what unlock the realistic look.",
+      "tip_zh": "关键词 RAW / unprocessed / no beauty filter 是出真实感的关键。",
+      "author": "@WolfRiccardo",
+      "source_url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "license": "community-shared",
+      "featured": false,
+      "trending_score": 81,
+      "generation": {
+        "ok": true,
+        "duration_sec": 58.5
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmGtPS"
+    },
+    {
+      "id": "futuristic-mandala-cyberpunk",
+      "title": "Futuristic Cyberpunk Mandala",
+      "title_zh": "未来赛博朋克曼陀罗",
+      "category": "Illustrations",
+      "subcategory": "Symmetric Pattern",
+      "tags": [
+        "mandala",
+        "cyberpunk",
+        "symmetric",
+        "neon",
+        "geometric"
+      ],
+      "difficulty": "Intermediate",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "1:1",
+      "prompt": "A near-future sci-fi version of a mandala — intricate geometric patterns mixed with holographic and cyberpunk aesthetics, glowing neon lines in cyan, magenta, and electric violet, deep starfield background with subtle nebula, ultra-detailed symmetrical design, fine line precision, faint hexagonal grid overlay, sacred-geometry-meets-tech feel, premium digital art, 1:1.",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmGwAJ.png",
+      "color_palette": [
+        "#0b0820",
+        "#22d3ee",
+        "#ec4899",
+        "#a855f7"
+      ],
+      "style_keywords": [
+        "sacred geometry",
+        "cyberpunk",
+        "neon",
+        "symmetric"
+      ],
+      "use_cases": [
+        "album art",
+        "wall poster",
+        "tattoo reference",
+        "music video loop"
+      ],
+      "tip": "Reinforce 'symmetrical' twice; gpt-image-2 still occasionally drifts on perfect mirror symmetry.",
+      "tip_zh": "重复强调 symmetrical，gpt-image-2 偶尔会偏对称。",
+      "author": "@EvoLinkAI",
+      "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+      "license": "community-shared",
+      "featured": false,
+      "trending_score": 72,
+      "generation": {
+        "ok": true,
+        "duration_sec": 83.7
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmGwAJ"
+    },
+    {
+      "id": "scifi-inventor-teaser-poster",
+      "title": "Sci-Fi Movie Teaser Poster: INVENTOR",
+      "title_zh": "科幻电影预告海报：INVENTOR",
+      "category": "Posters",
+      "subcategory": "Movie Poster",
+      "tags": [
+        "poster",
+        "sci-fi",
+        "cinematic",
+        "typography",
+        "movie"
+      ],
+      "difficulty": "Advanced",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
+      "aspect_ratio": "16:9",
+      "prompt": "Create a cinematic sci-fi movie teaser poster in 16:9 landscape format. A lone woman stands in silhouette at the edge of an enormous cubic chamber filled with hundreds of glowing holographic data screens that float in concentric rings around her. Cool cyan and amber rim light. A faint particle haze drifts through the air. Title 'INVENTOR' in wide-spaced uppercase serif typography across the top, with a tagline 'DISCOVERY IS JUST THE BEGINNING' below in small letter-spaced sans-serif. Bottom credits block in tiny condensed type. Premium movie-poster grading, deep blacks, cinematic key art quality, 16:9.",
+      "negative_prompt": null,
+      "preview_image": "https://iili.io/BmmG69s.png",
+      "color_palette": [
+        "#05070d",
+        "#22d3ee",
+        "#f6a35a",
+        "#e7e7e7"
+      ],
+      "style_keywords": [
+        "movie poster",
+        "cinematic",
+        "holographic",
+        "serif title"
+      ],
+      "use_cases": [
+        "concept poster",
+        "spec teaser",
+        "agency pitch",
+        "behance feature"
+      ],
+      "tip": "Wrap title and tagline in single quotes. gpt-image-2 nails letter-spacing when asked.",
+      "tip_zh": "标题和 tagline 用单引号包起来，字距能精确控制。",
+      "author": "@EvoLinkAI",
+      "source_url": "https://evolink.ai/gpt-image-2-prompts",
+      "license": "community-shared",
+      "featured": true,
+      "trending_score": 93,
+      "generation": {
+        "ok": true,
+        "duration_sec": 173.1
+      },
+      "preview_image_viewer": "https://freeimage.host/i/BmmG69s"
+    }
+  ],
+  "image_host": {
+    "provider": "freeimage.host",
+    "cdn_domain": "iili.io",
+    "persistence": "permanent (expiration=0)",
+    "note": "Public free image hosting; URLs stable as long as host operates."
+  }
+}
