@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "description": "Image URLs only, keyed by id. Maps 1:1 with prompts-text.json.",
+  "generated_at": "2026-05-15T10:02:12Z",
+  "count": 15,
+  "items": {
+    "convenience-store-neon-portrait": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/convenience-store-neon-portrait.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png"
+    },
+    "boston-spring-2026-city-poster": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/boston-spring-2026-city-poster.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png"
+    },
+    "amalfi-coast-vintage-travel-poster": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/amalfi-coast-vintage-travel-poster.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png"
+    },
+    "adventure-character-design-sheet": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/adventure-character-design-sheet.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png"
+    },
+    "summer-citrus-soda-ad": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/summer-citrus-soda-ad.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png"
+    },
+    "saas-dashboard-dark-mode": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/saas-dashboard-dark-mode.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png"
+    },
+    "meditation-app-onboarding": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/meditation-app-onboarding.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png"
+    },
+    "subway-candid-iphone": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/subway-candid-iphone.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png"
+    },
+    "futuristic-mandala-cyberpunk": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/futuristic-mandala-cyberpunk.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png"
+    },
+    "scifi-inventor-teaser-poster": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/scifi-inventor-teaser-poster.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png"
+    },
+    "vintage-tokyo-jazz-club-poster": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/vintage-tokyo-jazz-club-poster.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+    },
+    "minimalist-skincare-bottle-marble": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/minimalist-skincare-bottle-marble.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+    },
+    "isometric-cozy-coffee-shop-3d": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/isometric-cozy-coffee-shop-3d.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+    },
+    "cyberpunk-mech-pilot-character-sheet": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/cyberpunk-mech-pilot-character-sheet.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+    },
+    "crypto-trading-app-dark-mode-ui": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/crypto-trading-app-dark-mode-ui.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+    }
+  }
+}

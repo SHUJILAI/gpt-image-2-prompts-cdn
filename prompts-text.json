@@ -1,387 +1,10 @@
 {
-  "schema_version": "1.2",
-  "name": "GPT Image 2 Prompt Gallery",
-  "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
+  "schema_version": "1.0",
+  "description": "Prompt text and metadata only, keyed by id. Maps 1:1 with prompts-images.json.",
   "generated_at": "2026-05-15T10:02:12Z",
-  "default_model": "openai/gpt-image-2",
-  "supported_aspect_ratios": [
-    "1:1",
-    "16:9",
-    "9:16",
-    "3:4",
-    "4:3",
-    "3:2",
-    "2:3"
-  ],
-  "stats": {
-    "total_prompts": 15,
-    "categories": 6,
-    "tags": 76,
-    "successful_renders": 15
-  },
-  "categories": [
-    {
-      "id": "posters",
-      "name": "Posters",
-      "count": 4
-    },
-    {
-      "id": "ui-mockups",
-      "name": "UI Mockups",
-      "count": 3
-    },
-    {
-      "id": "portraits",
-      "name": "Portraits",
-      "count": 2
-    },
-    {
-      "id": "character-design",
-      "name": "Character Design",
-      "count": 2
-    },
-    {
-      "id": "product-photography",
-      "name": "Product Photography",
-      "count": 2
-    },
-    {
-      "id": "illustrations",
-      "name": "Illustrations",
-      "count": 2
-    }
-  ],
-  "tags_index": [
-    {
-      "name": "poster",
-      "count": 4
-    },
-    {
-      "name": "ui",
-      "count": 3
-    },
-    {
-      "name": "neon",
-      "count": 2
-    },
-    {
-      "name": "editorial",
-      "count": 2
-    },
-    {
-      "name": "typography",
-      "count": 2
-    },
-    {
-      "name": "vintage",
-      "count": 2
-    },
-    {
-      "name": "illustration",
-      "count": 2
-    },
-    {
-      "name": "character design",
-      "count": 2
-    },
-    {
-      "name": "turnaround",
-      "count": 2
-    },
-    {
-      "name": "concept art",
-      "count": 2
-    },
-    {
-      "name": "product",
-      "count": 2
-    },
-    {
-      "name": "dashboard",
-      "count": 2
-    },
-    {
-      "name": "dark mode",
-      "count": 2
-    },
-    {
-      "name": "cyberpunk",
-      "count": 2
-    },
-    {
-      "name": "sci-fi",
-      "count": 2
-    },
-    {
-      "name": "portrait",
-      "count": 1
-    },
-    {
-      "name": "35mm film",
-      "count": 1
-    },
-    {
-      "name": "night",
-      "count": 1
-    },
-    {
-      "name": "asian beauty",
-      "count": 1
-    },
-    {
-      "name": "city",
-      "count": 1
-    },
-    {
-      "name": "spring",
-      "count": 1
-    },
-    {
-      "name": "boston",
-      "count": 1
-    },
-    {
-      "name": "panoramic",
-      "count": 1
-    },
-    {
-      "name": "travel",
-      "count": 1
-    },
-    {
-      "name": "screen print",
-      "count": 1
-    },
-    {
-      "name": "italy",
-      "count": 1
-    },
-    {
-      "name": "game art",
-      "count": 1
-    },
-    {
-      "name": "expression sheet",
-      "count": 1
-    },
-    {
-      "name": "advertising",
-      "count": 1
-    },
-    {
-      "name": "beverage",
-      "count": 1
-    },
-    {
-      "name": "summer",
-      "count": 1
-    },
-    {
-      "name": "ctr-optimized",
-      "count": 1
-    },
-    {
-      "name": "saas",
-      "count": 1
-    },
-    {
-      "name": "data viz",
-      "count": 1
-    },
-    {
-      "name": "glassmorphism",
-      "count": 1
-    },
-    {
-      "name": "mobile",
-      "count": 1
-    },
-    {
-      "name": "onboarding",
-      "count": 1
-    },
-    {
-      "name": "wellness",
-      "count": 1
-    },
-    {
-      "name": "minimal",
-      "count": 1
-    },
-    {
-      "name": "candid",
-      "count": 1
-    },
-    {
-      "name": "iphone",
-      "count": 1
-    },
-    {
-      "name": "subway",
-      "count": 1
-    },
-    {
-      "name": "everyday",
-      "count": 1
-    },
-    {
-      "name": "raw",
-      "count": 1
-    },
-    {
-      "name": "mandala",
-      "count": 1
-    },
-    {
-      "name": "symmetric",
-      "count": 1
-    },
-    {
-      "name": "geometric",
-      "count": 1
-    },
-    {
-      "name": "cinematic",
-      "count": 1
-    },
-    {
-      "name": "movie",
-      "count": 1
-    },
-    {
-      "name": "jazz",
-      "count": 1
-    },
-    {
-      "name": "tokyo",
-      "count": 1
-    },
-    {
-      "name": "retro",
-      "count": 1
-    },
-    {
-      "name": "lithograph",
-      "count": 1
-    },
-    {
-      "name": "mid-century",
-      "count": 1
-    },
-    {
-      "name": "music",
-      "count": 1
-    },
-    {
-      "name": "skincare",
-      "count": 1
-    },
-    {
-      "name": "minimalist",
-      "count": 1
-    },
-    {
-      "name": "marble",
-      "count": 1
-    },
-    {
-      "name": "beauty",
-      "count": 1
-    },
-    {
-      "name": "soft light",
-      "count": 1
-    },
-    {
-      "name": "e-commerce",
-      "count": 1
-    },
-    {
-      "name": "isometric",
-      "count": 1
-    },
-    {
-      "name": "coffee shop",
-      "count": 1
-    },
-    {
-      "name": "cozy",
-      "count": 1
-    },
-    {
-      "name": "3d render",
-      "count": 1
-    },
-    {
-      "name": "pastel",
-      "count": 1
-    },
-    {
-      "name": "warm light",
-      "count": 1
-    },
-    {
-      "name": "interior",
-      "count": 1
-    },
-    {
-      "name": "mech",
-      "count": 1
-    },
-    {
-      "name": "sticker",
-      "count": 1
-    },
-    {
-      "name": "fullbody",
-      "count": 1
-    },
-    {
-      "name": "mobile app",
-      "count": 1
-    },
-    {
-      "name": "fintech",
-      "count": 1
-    },
-    {
-      "name": "crypto",
-      "count": 1
-    },
-    {
-      "name": "mockup",
-      "count": 1
-    },
-    {
-      "name": "ios",
-      "count": 1
-    }
-  ],
-  "sources": [
-    {
-      "name": "EvoLinkAI awesome-gpt-image-2-prompts",
-      "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
-    },
-    {
-      "name": "Anil-matcha Awesome-GPT-Image-2-API-Prompts",
-      "url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts"
-    },
-    {
-      "name": "ZeroLu awesome-gpt-image",
-      "url": "https://github.com/ZeroLu/awesome-gpt-image"
-    },
-    {
-      "name": "evolink.ai prompt gallery",
-      "url": "https://evolink.ai/gpt-image-2-prompts"
-    },
-    {
-      "name": "gptimage2ai.com prompts",
-      "url": "https://gptimage2ai.com/prompts"
-    }
-  ],
-  "prompts": [
-    {
-      "id": "convenience-store-neon-portrait",
+  "count": 15,
+  "items": {
+    "convenience-store-neon-portrait": {
       "title": "Convenience Store Neon Portrait",
       "title_zh": "便利店霓虹光人像",
       "category": "Portraits",
@@ -401,7 +24,6 @@
       "aspect_ratio": "9:16",
       "prompt": "35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s woman with ultra-realistic delicate features, seductive almond-shaped eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, long dark hair in a messy high ponytail with loose strands falling around face, wearing an oversized white button-up shirt loosely tied at the waist, paired with a tiny black pleated mini skirt, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior in background, authentic 35mm film color grading, no plastic skin, no watermark, no text",
       "negative_prompt": "no plastic skin, no watermark, no text",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png",
       "color_palette": [
         "#0a0a0a",
         "#ff6fb4",
@@ -427,16 +49,9 @@
       "source_url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
       "license": "community-shared",
       "featured": true,
-      "trending_score": 96,
-      "generation": {
-        "ok": true,
-        "duration_sec": 174.3
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/convenience-store-neon-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png"
+      "trending_score": 96
     },
-    {
-      "id": "boston-spring-2026-city-poster",
+    "boston-spring-2026-city-poster": {
       "title": "Boston Spring 2026 City Poster",
       "title_zh": "波士顿春日 2026 城市海报",
       "category": "Posters",
@@ -456,7 +71,6 @@
       "aspect_ratio": "9:16",
       "prompt": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city's waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads 'SPRING 2026' with a vertical slogan 'BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION', text clear and beautifully composed, premium graphic design, 9:16",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png",
       "color_palette": [
         "#f5efe6",
         "#a01c2b",
@@ -481,16 +95,9 @@
       "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "license": "community-shared",
       "featured": true,
-      "trending_score": 88,
-      "generation": {
-        "ok": true,
-        "duration_sec": 184.2
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/boston-spring-2026-city-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png"
+      "trending_score": 88
     },
-    {
-      "id": "amalfi-coast-vintage-travel-poster",
+    "amalfi-coast-vintage-travel-poster": {
       "title": "Vintage Amalfi Coast Travel Poster",
       "title_zh": "复古阿马尔菲海岸旅行海报",
       "category": "Posters",
@@ -510,7 +117,6 @@
       "aspect_ratio": "3:4",
       "prompt": "Modern pencil illustration of a vintage travel poster depicting the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style with loose strokes and defined contours. High-contrast color palette, contemporary and decorative aesthetic.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png",
       "color_palette": [
         "#f8d44a",
         "#1f5fa8",
@@ -535,16 +141,9 @@
       "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "license": "community-shared",
       "featured": false,
-      "trending_score": 78,
-      "generation": {
-        "ok": true,
-        "duration_sec": 153.7
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/amalfi-coast-vintage-travel-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png"
+      "trending_score": 78
     },
-    {
-      "id": "adventure-character-design-sheet",
+    "adventure-character-design-sheet": {
       "title": "Adventure Character Design Sheet",
       "title_zh": "冒险角色三视图设定稿",
       "category": "Character Design",
@@ -563,7 +162,6 @@
       "aspect_ratio": "16:9",
       "prompt": "Create a detailed character design sheet for Lira, a young female explorer-mechanic-inventor in her early 20s. Include front, side, and back turnaround views in T-pose. She wears an olive-green fur-lined parka with copper buckles, a golden hand-knit scarf, leather utility belt with brass tools and small gears, weathered cargo trousers, and worn brown leather boots. Add an array of six expressive facial expressions in a top row (curious, determined, surprised, thoughtful, mischievous, proud). Include an equipment breakdown panel: brass goggles, leather-bound journal, hand-cranked lantern, and a compact mechanical wing-pack. Bottom corner: small thumbnail of a snowy mountain village at dusk where she lives. Clean off-white parchment background with pencil grid guidelines, soft watercolor wash, refined ink linework, character sheet typography labels in elegant serif, professional concept art style, 16:9.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png",
       "color_palette": [
         "#f3eadc",
         "#5d6e3f",
@@ -588,16 +186,9 @@
       "source_url": "https://evolink.ai/gpt-image-2-prompts",
       "license": "community-shared",
       "featured": true,
-      "trending_score": 91,
-      "generation": {
-        "ok": true,
-        "duration_sec": 223.9
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/adventure-character-design-sheet.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png"
+      "trending_score": 91
     },
-    {
-      "id": "summer-citrus-soda-ad",
+    "summer-citrus-soda-ad": {
       "title": "Summer Citrus Soda Ad",
       "title_zh": "夏日柑橘汽水广告",
       "category": "Product Photography",
@@ -616,7 +207,6 @@
       "aspect_ratio": "3:4",
       "prompt": "Product advertising photo, seasonal summer product, carbonated beverage, name='Summer Citrus SODA', shape=500ml plastic bottle, research 2025 high-CTR drink ad designs and generate accordingly, aspect ratio 3:4",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png",
       "color_palette": [
         "#ffb12d",
         "#ff5b3a",
@@ -641,16 +231,9 @@
       "source_url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
       "license": "community-shared",
       "featured": false,
-      "trending_score": 84,
-      "generation": {
-        "ok": true,
-        "duration_sec": 59.2
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/summer-citrus-soda-ad.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png"
+      "trending_score": 84
     },
-    {
-      "id": "saas-dashboard-dark-mode",
+    "saas-dashboard-dark-mode": {
       "title": "SaaS Analytics Dashboard (Dark Mode)",
       "title_zh": "SaaS 数据看板（深色）",
       "category": "UI Mockups",
@@ -670,7 +253,6 @@
       "aspect_ratio": "16:9",
       "prompt": "A SaaS analytics dashboard in dark mode. Charcoal background (#1a1a2e) with cards showing: a line chart of monthly revenue in gradient green, a donut chart of traffic sources, a data table of top products, and KPI cards with up/down trend arrows. Sidebar navigation on the left with icons. Subtle glass-morphism effect on cards, Inter font, 8px border radius throughout. High-fidelity UI mockup, pixel-clean rendering, accurate typography, 16:9.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png",
       "color_palette": [
         "#1a1a2e",
         "#22c58a",
@@ -695,16 +277,9 @@
       "source_url": "https://gptimage2ai.com/prompts",
       "license": "community-shared",
       "featured": true,
-      "trending_score": 89,
-      "generation": {
-        "ok": true,
-        "duration_sec": 80.4
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/saas-dashboard-dark-mode.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png"
+      "trending_score": 89
     },
-    {
-      "id": "meditation-app-onboarding",
+    "meditation-app-onboarding": {
       "title": "Meditation App Onboarding Screen",
       "title_zh": "冥想 App 引导页",
       "category": "UI Mockups",
@@ -723,7 +298,6 @@
       "aspect_ratio": "9:16",
       "prompt": "A mobile app onboarding screen design for a meditation app. Clean, calming layout with a large illustration of a person meditating on a cloud at the top half. Below: a headline 'Find Your Inner Peace', a brief description in light gray text, pagination dots showing screen 2 of 4, and a rounded 'Continue' button in soft lavender. White background, ample whitespace, Inter font. Pixel-perfect mobile UI mockup, 9:16, iPhone 15 Pro device frame optional.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png",
       "color_palette": [
         "#ffffff",
         "#bfa6ff",
@@ -747,16 +321,9 @@
       "source_url": "https://gptimage2ai.com/prompts",
       "license": "community-shared",
       "featured": false,
-      "trending_score": 76,
-      "generation": {
-        "ok": true,
-        "duration_sec": 57.8
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/meditation-app-onboarding.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png"
+      "trending_score": 76
     },
-    {
-      "id": "subway-candid-iphone",
+    "subway-candid-iphone": {
       "title": "Subway Candid iPhone Photo",
       "title_zh": "地铁 iPhone 抓拍",
       "category": "Portraits",
@@ -775,7 +342,6 @@
       "aspect_ratio": "4:3",
       "prompt": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA at night, a beautiful young woman in a long black coat standing near the closing doors looking at her phone, slight motion blur, fluorescent ceiling lights, mild lens flare, natural skin tones, no beauty filter, candid composition, slight handheld tilt, authentic everyday atmosphere, 4:3.",
       "negative_prompt": "no beauty filter, no over-saturation, no professional lighting",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png",
       "color_palette": [
         "#1f2230",
         "#d8c6a8",
@@ -801,16 +367,9 @@
       "source_url": "https://github.com/ZeroLu/awesome-gpt-image",
       "license": "community-shared",
       "featured": false,
-      "trending_score": 81,
-      "generation": {
-        "ok": true,
-        "duration_sec": 58.5
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/subway-candid-iphone.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png"
+      "trending_score": 81
     },
-    {
-      "id": "futuristic-mandala-cyberpunk",
+    "futuristic-mandala-cyberpunk": {
       "title": "Futuristic Cyberpunk Mandala",
       "title_zh": "未来赛博朋克曼陀罗",
       "category": "Illustrations",
@@ -829,7 +388,6 @@
       "aspect_ratio": "1:1",
       "prompt": "A near-future sci-fi version of a mandala — intricate geometric patterns mixed with holographic and cyberpunk aesthetics, glowing neon lines in cyan, magenta, and electric violet, deep starfield background with subtle nebula, ultra-detailed symmetrical design, fine line precision, faint hexagonal grid overlay, sacred-geometry-meets-tech feel, premium digital art, 1:1.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png",
       "color_palette": [
         "#0b0820",
         "#22d3ee",
@@ -854,16 +412,9 @@
       "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "license": "community-shared",
       "featured": false,
-      "trending_score": 72,
-      "generation": {
-        "ok": true,
-        "duration_sec": 83.7
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/futuristic-mandala-cyberpunk.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png"
+      "trending_score": 72
     },
-    {
-      "id": "scifi-inventor-teaser-poster",
+    "scifi-inventor-teaser-poster": {
       "title": "Sci-Fi Movie Teaser Poster: INVENTOR",
       "title_zh": "科幻电影预告海报：INVENTOR",
       "category": "Posters",
@@ -882,7 +433,6 @@
       "aspect_ratio": "16:9",
       "prompt": "Create a cinematic sci-fi movie teaser poster in 16:9 landscape format. A lone woman stands in silhouette at the edge of an enormous cubic chamber filled with hundreds of glowing holographic data screens that float in concentric rings around her. Cool cyan and amber rim light. A faint particle haze drifts through the air. Title 'INVENTOR' in wide-spaced uppercase serif typography across the top, with a tagline 'DISCOVERY IS JUST THE BEGINNING' below in small letter-spaced sans-serif. Bottom credits block in tiny condensed type. Premium movie-poster grading, deep blacks, cinematic key art quality, 16:9.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png",
       "color_palette": [
         "#05070d",
         "#22d3ee",
@@ -907,16 +457,9 @@
       "source_url": "https://evolink.ai/gpt-image-2-prompts",
       "license": "community-shared",
       "featured": true,
-      "trending_score": 93,
-      "generation": {
-        "ok": true,
-        "duration_sec": 173.1
-      },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/scifi-inventor-teaser-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png"
+      "trending_score": 93
     },
-    {
-      "id": "vintage-tokyo-jazz-club-poster",
+    "vintage-tokyo-jazz-club-poster": {
       "title": "Vintage Tokyo Jazz Club Poster",
       "title_zh": "复古东京爵士俱乐部海报",
       "category": "Posters",
@@ -932,6 +475,9 @@
         "music"
       ],
       "difficulty": "Intermediate",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
       "aspect_ratio": "3:4",
       "prompt": "Vintage 1960s music poster for a Tokyo jazz club, hand-drawn lithograph style,\nsaxophone player silhouette against deep teal background, warm mustard accents,\nbold sans-serif Japanese-English bilingual title \"TOKYO BLUE NOTE\", visible paper grain,\nslight ink misregistration, off-white margins. No photorealism. High-contrast print look.\n",
       "negative_prompt": "no modern fonts, no gradients, no glossy finish",
@@ -960,17 +506,9 @@
       "source_url": "https://github.com/SHUJILAI/gpt-image-2-prompts-cdn",
       "license": "CC0",
       "featured": true,
-      "trending_score": 88,
-      "language": "en",
-      "mode": "text-to-image",
-      "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "trending_score": 88
     },
-    {
-      "id": "minimalist-skincare-bottle-marble",
+    "minimalist-skincare-bottle-marble": {
       "title": "Minimalist Skincare Bottle on Marble",
       "title_zh": "极简护肤品瓶大理石场景",
       "category": "Product Photography",
@@ -986,6 +524,9 @@
         "e-commerce"
       ],
       "difficulty": "Beginner",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
       "aspect_ratio": "1:1",
       "prompt": "Studio product photo of an unbranded matte ceramic skincare bottle on a polished white Carrara marble surface,\nsoft directional window light from upper-left casting a long subtle shadow,\nsingle sprig of fresh green eucalyptus leaning against the bottle, pure white seamless backdrop fading behind,\nshallow depth of field, hyper-clean editorial aesthetic, photographed with 100mm macro lens.\n",
       "negative_prompt": "no logo, no text, no harsh reflections, no glossy bottle",
@@ -1014,17 +555,9 @@
       "source_url": "https://github.com/SHUJILAI/gpt-image-2-prompts-cdn",
       "license": "CC0",
       "featured": true,
-      "trending_score": 92,
-      "language": "en",
-      "mode": "text-to-image",
-      "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "trending_score": 92
     },
-    {
-      "id": "isometric-cozy-coffee-shop-3d",
+    "isometric-cozy-coffee-shop-3d": {
       "title": "Isometric Cozy Coffee Shop",
       "title_zh": "等距视角温暖咖啡馆",
       "category": "Illustrations",
@@ -1040,6 +573,9 @@
         "interior"
       ],
       "difficulty": "Intermediate",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
       "aspect_ratio": "1:1",
       "prompt": "Isometric 3D illustration of a cozy two-story coffee shop cutaway, warm afternoon sunlight\nstreaming through bay windows, exposed brick walls, hanging Edison bulbs, espresso machine on the counter,\nbookshelf with potted plants, baristas working, two customers reading, second floor with a study nook,\nsoft pastel palette of cream / terracotta / sage green, sharp clean linework, subtle ambient occlusion.\n",
       "negative_prompt": "no photorealism, no harsh shadows, no signage text",
@@ -1068,17 +604,9 @@
       "source_url": "https://github.com/SHUJILAI/gpt-image-2-prompts-cdn",
       "license": "CC0",
       "featured": true,
-      "trending_score": 90,
-      "language": "en",
-      "mode": "text-to-image",
-      "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "trending_score": 90
     },
-    {
-      "id": "cyberpunk-mech-pilot-character-sheet",
+    "cyberpunk-mech-pilot-character-sheet": {
       "title": "Cyberpunk Mech Pilot Character Sheet",
       "title_zh": "赛博朋克机甲驾驶员角色设定",
       "category": "Character Design",
@@ -1094,6 +622,9 @@
         "fullbody"
       ],
       "difficulty": "Advanced",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
       "aspect_ratio": "3:4",
       "prompt": "Character design sheet for a young Asian female mech pilot, age 22, sharp facial features,\nundercut bob with neon teal streaks, full-body armored flightsuit with exposed joint cabling,\nglowing visor helmet held in one hand, holstered sidearm, scuffed boots,\nthree-pose turnaround on neutral mid-grey background (front / 3/4 / back),\nlabeled callouts pointing to gear details, soft studio key light, semi-realistic stylized rendering.\n",
       "negative_prompt": "no anime cuteness, no oversexualization, no realistic celebrity face",
@@ -1122,17 +653,9 @@
       "source_url": "https://github.com/SHUJILAI/gpt-image-2-prompts-cdn",
       "license": "CC0",
       "featured": false,
-      "trending_score": 86,
-      "language": "en",
-      "mode": "text-to-image",
-      "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "trending_score": 86
     },
-    {
-      "id": "crypto-trading-app-dark-mode-ui",
+    "crypto-trading-app-dark-mode-ui": {
       "title": "Crypto Trading App Dark Mode UI",
       "title_zh": "加密交易 App 深色模式界面",
       "category": "UI Mockups",
@@ -1148,6 +671,9 @@
         "ios"
       ],
       "difficulty": "Intermediate",
+      "model": "openai/gpt-image-2",
+      "mode": "text-to-image",
+      "language": "en",
       "aspect_ratio": "9:16",
       "prompt": "Mobile app UI screenshot for a crypto trading platform in dark mode, iPhone 15 Pro frame,\nportfolio screen at top showing total balance \"$28,450.32\" and 24h change \"+4.21%\" in mint green,\ncandlestick chart for BTC/USD, asset list below with rows for ETH, SOL, ADA each with sparkline,\nbottom tab bar with 5 icons (Home, Markets, Trade, Wallet, Profile),\nflat modern design, generous spacing, monospace numerals for prices, status bar showing 9:41,\nno gradients, sharp 1x rendering, high pixel fidelity.\n",
       "negative_prompt": "no Apple logo, no real exchange branding, no blurry text",
@@ -1176,24 +702,7 @@
       "source_url": "https://github.com/SHUJILAI/gpt-image-2-prompts-cdn",
       "license": "CC0",
       "featured": true,
-      "trending_score": 94,
-      "language": "en",
-      "mode": "text-to-image",
-      "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "trending_score": 94
     }
-  ],
-  "image_host": {
-    "provider": "GitHub + jsDelivr CDN",
-    "repository": "https://github.com/SHUJILAI/gpt-image-2-prompts-cdn",
-    "cdn_pattern_pinned": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@{sha}/case-images/{slug}.png",
-    "cdn_pattern_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/{slug}.png",
-    "raw_pattern": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/{sha}/case-images/{slug}.png",
-    "pinned_commit_sha": "e180f6836e6f60d175de47e48a82d162b99e7a80",
-    "persistence": "permanent (public GitHub repo, MIT-licensed) + global CDN via jsDelivr",
-    "note": "preview_image is SHA-pinned for immutability. preview_image_latest follows main branch and reflects future updates. preview_image_raw is the GitHub raw fallback if jsDelivr is unreachable."
   }
 }
