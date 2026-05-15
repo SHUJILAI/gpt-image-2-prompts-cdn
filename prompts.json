@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "name": "GPT Image 2 Prompt Gallery",
   "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
-  "generated_at": "2026-05-15T10:38:55Z",
+  "generated_at": "2026-05-15T10:39:12Z",
   "default_model": "openai/gpt-image-2",
   "supported_aspect_ratios": [
     "1:1",
@@ -1217,10 +1217,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-01-linkedin-executive-headshot.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-01-linkedin-executive-headshot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-01-linkedin-executive-headshot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-01-linkedin-executive-headshot.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-01-linkedin-executive-headshot.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-02-silicon-valley-founder-portrait",
@@ -1254,10 +1254,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-02-silicon-valley-founder-portrait.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-02-silicon-valley-founder-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-02-silicon-valley-founder-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-02-silicon-valley-founder-portrait.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-02-silicon-valley-founder-portrait.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-03-korean-haima-studio-portrait",
@@ -1291,10 +1291,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-03-korean-haima-studio-portrait.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-03-korean-haima-studio-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-03-korean-haima-studio-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-03-korean-haima-studio-portrait.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-03-korean-haima-studio-portrait.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-04-sporty-girlfriend-photoshoot",
@@ -1328,10 +1328,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-05-times-square-night-portrait",
@@ -1365,10 +1365,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-05-times-square-night-portrait.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-05-times-square-night-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-05-times-square-night-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-05-times-square-night-portrait.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-05-times-square-night-portrait.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-06-rainy-city-noir",
@@ -1402,10 +1402,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-06-rainy-city-noir.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-06-rainy-city-noir.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-06-rainy-city-noir.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-06-rainy-city-noir.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-06-rainy-city-noir.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-07-paris-fashion-week-runway",
@@ -1439,10 +1439,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-07-paris-fashion-week-runway.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-07-paris-fashion-week-runway.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-07-paris-fashion-week-runway.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-07-paris-fashion-week-runway.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-07-paris-fashion-week-runway.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-08-70s-polaroid-family-photo",
@@ -1476,10 +1476,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-08-70s-polaroid-family-photo.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-08-70s-polaroid-family-photo.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-08-70s-polaroid-family-photo.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-08-70s-polaroid-family-photo.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-08-70s-polaroid-family-photo.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-09-1990s-magazine-cover-look",
@@ -1513,10 +1513,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-09-1990s-magazine-cover-look.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-09-1990s-magazine-cover-look.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-09-1990s-magazine-cover-look.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-09-1990s-magazine-cover-look.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-09-1990s-magazine-cover-look.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-10-y2k-bedroom-mirror-selfie",
@@ -1550,10 +1550,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-11-victorian-daguerreotype-ghost",
@@ -1587,10 +1587,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-11-victorian-daguerreotype-ghost.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-11-victorian-daguerreotype-ghost.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-11-victorian-daguerreotype-ghost.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-11-victorian-daguerreotype-ghost.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-11-victorian-daguerreotype-ghost.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-12-1980s-arcade-hall-scene",
@@ -1624,10 +1624,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-12-1980s-arcade-hall-scene.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-12-1980s-arcade-hall-scene.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-12-1980s-arcade-hall-scene.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-12-1980s-arcade-hall-scene.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-12-1980s-arcade-hall-scene.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-13-1-7-scale-collectible-figure",
@@ -1661,10 +1661,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-13-1-7-scale-collectible-figure.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-13-1-7-scale-collectible-figure.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-13-1-7-scale-collectible-figure.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-13-1-7-scale-collectible-figure.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-13-1-7-scale-collectible-figure.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-14-knitted-plush-toy",
@@ -1698,10 +1698,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-14-knitted-plush-toy.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-14-knitted-plush-toy.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-14-knitted-plush-toy.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-14-knitted-plush-toy.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-14-knitted-plush-toy.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-15-bronze-trophy-statue",
@@ -1735,10 +1735,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-15-bronze-trophy-statue.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-15-bronze-trophy-statue.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-15-bronze-trophy-statue.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-15-bronze-trophy-statue.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-15-bronze-trophy-statue.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-16-marble-renaissance-sculpture",
@@ -1772,10 +1772,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-16-marble-renaissance-sculpture.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-16-marble-renaissance-sculpture.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-16-marble-renaissance-sculpture.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-16-marble-renaissance-sculpture.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-16-marble-renaissance-sculpture.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-17-3d-q-version-app-icon",
@@ -1809,10 +1809,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-17-3d-q-version-app-icon.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-17-3d-q-version-app-icon.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-17-3d-q-version-app-icon.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-17-3d-q-version-app-icon.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-17-3d-q-version-app-icon.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-18-studio-ghibli-anime-style",
@@ -1846,10 +1846,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-18-studio-ghibli-anime-style.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-18-studio-ghibli-anime-style.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-18-studio-ghibli-anime-style.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-18-studio-ghibli-anime-style.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-18-studio-ghibli-anime-style.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-19-origami-paper-sculpture",
@@ -1883,10 +1883,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-19-origami-paper-sculpture.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-19-origami-paper-sculpture.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-19-origami-paper-sculpture.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-19-origami-paper-sculpture.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-19-origami-paper-sculpture.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-20-street-graffiti-mural",
@@ -1920,10 +1920,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-20-street-graffiti-mural.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-20-street-graffiti-mural.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-20-street-graffiti-mural.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-20-street-graffiti-mural.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-20-street-graffiti-mural.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-21-holographic-y2k-effect",
@@ -1957,10 +1957,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-21-holographic-y2k-effect.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-21-holographic-y2k-effect.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-21-holographic-y2k-effect.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-21-holographic-y2k-effect.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-21-holographic-y2k-effect.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-22-architecture-cardboard-model",
@@ -1994,10 +1994,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-22-architecture-cardboard-model.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-22-architecture-cardboard-model.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-22-architecture-cardboard-model.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-22-architecture-cardboard-model.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-22-architecture-cardboard-model.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-23-phone-screen-3d-illusion",
@@ -2031,10 +2031,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-23-phone-screen-3d-illusion.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-23-phone-screen-3d-illusion.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-23-phone-screen-3d-illusion.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-23-phone-screen-3d-illusion.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-23-phone-screen-3d-illusion.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-24-worm-s-eye-group-selfie",
@@ -2068,10 +2068,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-24-worm-s-eye-group-selfie.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-24-worm-s-eye-group-selfie.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-24-worm-s-eye-group-selfie.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-24-worm-s-eye-group-selfie.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-24-worm-s-eye-group-selfie.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-25-music-player-ui-overlay",
@@ -2105,10 +2105,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-25-music-player-ui-overlay.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-25-music-player-ui-overlay.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-25-music-player-ui-overlay.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-25-music-player-ui-overlay.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-25-music-player-ui-overlay.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-26-cartoon-sticker-self",
@@ -2142,10 +2142,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-26-cartoon-sticker-self.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-26-cartoon-sticker-self.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-26-cartoon-sticker-self.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-26-cartoon-sticker-self.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-26-cartoon-sticker-self.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-27-shop-window-cartoon-reflection",
@@ -2179,10 +2179,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-27-shop-window-cartoon-reflection.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-27-shop-window-cartoon-reflection.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-27-shop-window-cartoon-reflection.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-27-shop-window-cartoon-reflection.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-27-shop-window-cartoon-reflection.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-28-outfit-swap-from-reference-photo-2",
@@ -2216,10 +2216,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-29-vogue-editorial-fashion",
@@ -2253,10 +2253,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-29-vogue-editorial-fashion.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-29-vogue-editorial-fashion.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-29-vogue-editorial-fashion.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-29-vogue-editorial-fashion.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-29-vogue-editorial-fashion.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-30-tailored-business-suit-swap",
@@ -2290,10 +2290,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-30-tailored-business-suit-swap.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-30-tailored-business-suit-swap.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-30-tailored-business-suit-swap.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-30-tailored-business-suit-swap.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-30-tailored-business-suit-swap.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-31-beach-wave-hair-transformation",
@@ -2327,10 +2327,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-31-beach-wave-hair-transformation.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-31-beach-wave-hair-transformation.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-31-beach-wave-hair-transformation.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-31-beach-wave-hair-transformation.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-31-beach-wave-hair-transformation.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-32-streetwear-style-conversion",
@@ -2364,10 +2364,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-32-streetwear-style-conversion.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-32-streetwear-style-conversion.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-32-streetwear-style-conversion.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-32-streetwear-style-conversion.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-32-streetwear-style-conversion.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-33-beach-jewelry-display",
@@ -2401,10 +2401,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-33-beach-jewelry-display.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-33-beach-jewelry-display.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-33-beach-jewelry-display.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-33-beach-jewelry-display.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-33-beach-jewelry-display.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-34-boho-tote-bag-lifestyle",
@@ -2438,10 +2438,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-34-boho-tote-bag-lifestyle.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-34-boho-tote-bag-lifestyle.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-34-boho-tote-bag-lifestyle.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-34-boho-tote-bag-lifestyle.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-34-boho-tote-bag-lifestyle.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-35-premium-3d-podium-product-shot",
@@ -2475,10 +2475,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-35-premium-3d-podium-product-shot.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-35-premium-3d-podium-product-shot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-35-premium-3d-podium-product-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-35-premium-3d-podium-product-shot.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-35-premium-3d-podium-product-shot.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-36-underwater-bottle-shot",
@@ -2512,10 +2512,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-36-underwater-bottle-shot.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-36-underwater-bottle-shot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-36-underwater-bottle-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-36-underwater-bottle-shot.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-36-underwater-bottle-shot.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-37-marble-countertop-skincare",
@@ -2549,10 +2549,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-37-marble-countertop-skincare.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-37-marble-countertop-skincare.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-37-marble-countertop-skincare.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-37-marble-countertop-skincare.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-37-marble-countertop-skincare.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-38-ecommerce-white-background",
@@ -2586,10 +2586,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-38-ecommerce-white-background.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-38-ecommerce-white-background.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-38-ecommerce-white-background.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-38-ecommerce-white-background.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-38-ecommerce-white-background.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-39-floating-hero-lipstick-shot",
@@ -2623,10 +2623,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-39-floating-hero-lipstick-shot.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-39-floating-hero-lipstick-shot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-39-floating-hero-lipstick-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-39-floating-hero-lipstick-shot.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-39-floating-hero-lipstick-shot.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-40-flatlay-kitchen-knife",
@@ -2660,10 +2660,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-40-flatlay-kitchen-knife.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-40-flatlay-kitchen-knife.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-40-flatlay-kitchen-knife.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-40-flatlay-kitchen-knife.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-40-flatlay-kitchen-knife.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-41-background-replacement-sunset-city",
@@ -2697,10 +2697,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-41-background-replacement-sunset-city.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-41-background-replacement-sunset-city.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-41-background-replacement-sunset-city.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-41-background-replacement-sunset-city.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-41-background-replacement-sunset-city.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-42-pure-white-studio-replace",
@@ -2734,10 +2734,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-42-pure-white-studio-replace.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-42-pure-white-studio-replace.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-42-pure-white-studio-replace.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-42-pure-white-studio-replace.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-42-pure-white-studio-replace.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-43-object-removal-cleanup",
@@ -2769,10 +2769,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-43-object-removal-cleanup.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-43-object-removal-cleanup.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-43-object-removal-cleanup.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-43-object-removal-cleanup.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-43-object-removal-cleanup.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-44-cinematic-teal-orange-grade",
@@ -2806,10 +2806,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-44-cinematic-teal-orange-grade.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-44-cinematic-teal-orange-grade.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-44-cinematic-teal-orange-grade.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-44-cinematic-teal-orange-grade.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-44-cinematic-teal-orange-grade.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-45-portrait-skin-eye-enhance",
@@ -2843,10 +2843,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-45-portrait-skin-eye-enhance.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-45-portrait-skin-eye-enhance.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-45-portrait-skin-eye-enhance.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-45-portrait-skin-eye-enhance.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-45-portrait-skin-eye-enhance.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-46-movie-poster-treatment",
@@ -2880,10 +2880,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-46-movie-poster-treatment.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-46-movie-poster-treatment.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-46-movie-poster-treatment.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-46-movie-poster-treatment.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-46-movie-poster-treatment.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-47-high-contrast-b-w-portrait",
@@ -2917,10 +2917,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-47-high-contrast-b-w-portrait.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-47-high-contrast-b-w-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-47-high-contrast-b-w-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-47-high-contrast-b-w-portrait.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-47-high-contrast-b-w-portrait.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-48-before-after-split-compare",
@@ -2954,10 +2954,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-48-before-after-split-compare.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-48-before-after-split-compare.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-48-before-after-split-compare.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-48-before-after-split-compare.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-48-before-after-split-compare.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-49-line-drawing-sketch-on-notebook",
@@ -2991,10 +2991,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     },
     {
       "id": "i2i-50-fantasy-magic-effect-aura",
@@ -3028,10 +3028,10 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@PENDING/case-images/i2i-50-fantasy-magic-effect-aura.png",
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-50-fantasy-magic-effect-aura.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-50-fantasy-magic-effect-aura.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/PENDING/case-images/i2i-50-fantasy-magic-effect-aura.png",
-      "preview_image_pinned_sha": "PENDING"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-50-fantasy-magic-effect-aura.png",
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
     }
   ],
   "image_host": {
