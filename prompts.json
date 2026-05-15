@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "name": "GPT Image 2 Prompt Gallery",
   "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
-  "generated_at": "2026-05-15T10:39:12Z",
+  "generated_at": "2026-05-15T10:39:47Z",
   "default_model": "openai/gpt-image-2",
   "supported_aspect_ratios": [
     "1:1",
@@ -14,15 +14,55 @@
     "2:3"
   ],
   "stats": {
-    "total_prompts": 15,
-    "categories": 6,
-    "tags": 76,
-    "successful_renders": 15
+    "total_prompts": 65,
+    "categories": 12,
+    "tags": 202,
+    "successful_renders": 65
   },
   "categories": [
     {
+      "id": "portraits",
+      "name": "Portraits",
+      "count": 13
+    },
+    {
+      "id": "product-photography",
+      "name": "Product Photography",
+      "count": 10
+    },
+    {
+      "id": "photo-editing",
+      "name": "Photo Editing",
+      "count": 8
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "count": 6
+    },
+    {
+      "id": "3d-render",
+      "name": "3D Render",
+      "count": 5
+    },
+    {
       "id": "posters",
       "name": "Posters",
+      "count": 4
+    },
+    {
+      "id": "style-transfer",
+      "name": "Style Transfer",
+      "count": 4
+    },
+    {
+      "id": "creative",
+      "name": "Creative",
+      "count": 4
+    },
+    {
+      "id": "viral-/-social",
+      "name": "Viral / Social",
       "count": 4
     },
     {
@@ -31,18 +71,8 @@
       "count": 3
     },
     {
-      "id": "portraits",
-      "name": "Portraits",
-      "count": 2
-    },
-    {
       "id": "character-design",
       "name": "Character Design",
-      "count": 2
-    },
-    {
-      "id": "product-photography",
-      "name": "Product Photography",
       "count": 2
     },
     {
@@ -53,27 +83,87 @@
   ],
   "tags_index": [
     {
+      "name": "img2img-source",
+      "count": 50
+    },
+    {
+      "name": "product",
+      "count": 10
+    },
+    {
+      "name": "portrait",
+      "count": 9
+    },
+    {
+      "name": "vintage",
+      "count": 7
+    },
+    {
+      "name": "fashion",
+      "count": 6
+    },
+    {
+      "name": "photo_enhance",
+      "count": 6
+    },
+    {
       "name": "poster",
+      "count": 5
+    },
+    {
+      "name": "studio",
+      "count": 5
+    },
+    {
+      "name": "3d_figure",
+      "count": 5
+    },
+    {
+      "name": "neon",
+      "count": 4
+    },
+    {
+      "name": "editorial",
       "count": 4
     },
     {
       "name": "ui",
+      "count": 4
+    },
+    {
+      "name": "cinematic",
+      "count": 4
+    },
+    {
+      "name": "style_transfer",
+      "count": 4
+    },
+    {
+      "name": "creative",
+      "count": 4
+    },
+    {
+      "name": "viral",
+      "count": 4
+    },
+    {
+      "name": "city",
       "count": 3
     },
     {
-      "name": "neon",
-      "count": 2
+      "name": "marble",
+      "count": 3
     },
     {
-      "name": "editorial",
+      "name": "lifestyle",
+      "count": 3
+    },
+    {
+      "name": "night",
       "count": 2
     },
     {
       "name": "typography",
-      "count": 2
-    },
-    {
-      "name": "vintage",
       "count": 2
     },
     {
@@ -93,15 +183,15 @@
       "count": 2
     },
     {
-      "name": "product",
-      "count": 2
-    },
-    {
       "name": "dashboard",
       "count": 2
     },
     {
       "name": "dark mode",
+      "count": 2
+    },
+    {
+      "name": "minimal",
       "count": 2
     },
     {
@@ -113,23 +203,47 @@
       "count": 2
     },
     {
-      "name": "portrait",
-      "count": 1
+      "name": "skincare",
+      "count": 2
+    },
+    {
+      "name": "sticker",
+      "count": 2
+    },
+    {
+      "name": "natural-light",
+      "count": 2
+    },
+    {
+      "name": "high-fashion",
+      "count": 2
+    },
+    {
+      "name": "y2k",
+      "count": 2
+    },
+    {
+      "name": "bw",
+      "count": 2
+    },
+    {
+      "name": "urban",
+      "count": 2
+    },
+    {
+      "name": "cartoon",
+      "count": 2
+    },
+    {
+      "name": "background_replace",
+      "count": 2
     },
     {
       "name": "35mm film",
       "count": 1
     },
     {
-      "name": "night",
-      "count": 1
-    },
-    {
       "name": "asian beauty",
-      "count": 1
-    },
-    {
-      "name": "city",
       "count": 1
     },
     {
@@ -205,10 +319,6 @@
       "count": 1
     },
     {
-      "name": "minimal",
-      "count": 1
-    },
-    {
       "name": "candid",
       "count": 1
     },
@@ -241,10 +351,6 @@
       "count": 1
     },
     {
-      "name": "cinematic",
-      "count": 1
-    },
-    {
       "name": "movie",
       "count": 1
     },
@@ -273,15 +379,7 @@
       "count": 1
     },
     {
-      "name": "skincare",
-      "count": 1
-    },
-    {
       "name": "minimalist",
-      "count": 1
-    },
-    {
-      "name": "marble",
       "count": 1
     },
     {
@@ -329,10 +427,6 @@
       "count": 1
     },
     {
-      "name": "sticker",
-      "count": 1
-    },
-    {
       "name": "fullbody",
       "count": 1
     },
@@ -354,6 +448,446 @@
     },
     {
       "name": "ios",
+      "count": 1
+    },
+    {
+      "name": "headshot",
+      "count": 1
+    },
+    {
+      "name": "professional",
+      "count": 1
+    },
+    {
+      "name": "business",
+      "count": 1
+    },
+    {
+      "name": "tech",
+      "count": 1
+    },
+    {
+      "name": "korean",
+      "count": 1
+    },
+    {
+      "name": "fresh",
+      "count": 1
+    },
+    {
+      "name": "fitness",
+      "count": 1
+    },
+    {
+      "name": "noir",
+      "count": 1
+    },
+    {
+      "name": "moody",
+      "count": 1
+    },
+    {
+      "name": "rain",
+      "count": 1
+    },
+    {
+      "name": "runway",
+      "count": 1
+    },
+    {
+      "name": "polaroid",
+      "count": 1
+    },
+    {
+      "name": "70s",
+      "count": 1
+    },
+    {
+      "name": "nostalgia",
+      "count": 1
+    },
+    {
+      "name": "90s",
+      "count": 1
+    },
+    {
+      "name": "magazine",
+      "count": 1
+    },
+    {
+      "name": "flash",
+      "count": 1
+    },
+    {
+      "name": "selfie",
+      "count": 1
+    },
+    {
+      "name": "bedroom",
+      "count": 1
+    },
+    {
+      "name": "victorian",
+      "count": 1
+    },
+    {
+      "name": "ghost",
+      "count": 1
+    },
+    {
+      "name": "80s",
+      "count": 1
+    },
+    {
+      "name": "arcade",
+      "count": 1
+    },
+    {
+      "name": "figure",
+      "count": 1
+    },
+    {
+      "name": "bandai",
+      "count": 1
+    },
+    {
+      "name": "collectible",
+      "count": 1
+    },
+    {
+      "name": "plush",
+      "count": 1
+    },
+    {
+      "name": "yarn",
+      "count": 1
+    },
+    {
+      "name": "cute",
+      "count": 1
+    },
+    {
+      "name": "bronze",
+      "count": 1
+    },
+    {
+      "name": "statue",
+      "count": 1
+    },
+    {
+      "name": "museum",
+      "count": 1
+    },
+    {
+      "name": "renaissance",
+      "count": 1
+    },
+    {
+      "name": "classical",
+      "count": 1
+    },
+    {
+      "name": "chibi",
+      "count": 1
+    },
+    {
+      "name": "app-icon",
+      "count": 1
+    },
+    {
+      "name": "3d",
+      "count": 1
+    },
+    {
+      "name": "ghibli",
+      "count": 1
+    },
+    {
+      "name": "anime",
+      "count": 1
+    },
+    {
+      "name": "watercolor",
+      "count": 1
+    },
+    {
+      "name": "origami",
+      "count": 1
+    },
+    {
+      "name": "paper",
+      "count": 1
+    },
+    {
+      "name": "graffiti",
+      "count": 1
+    },
+    {
+      "name": "street-art",
+      "count": 1
+    },
+    {
+      "name": "holographic",
+      "count": 1
+    },
+    {
+      "name": "iridescent",
+      "count": 1
+    },
+    {
+      "name": "model",
+      "count": 1
+    },
+    {
+      "name": "architecture",
+      "count": 1
+    },
+    {
+      "name": "miniature",
+      "count": 1
+    },
+    {
+      "name": "forced-perspective",
+      "count": 1
+    },
+    {
+      "name": "phone",
+      "count": 1
+    },
+    {
+      "name": "surreal",
+      "count": 1
+    },
+    {
+      "name": "fisheye",
+      "count": 1
+    },
+    {
+      "name": "group",
+      "count": 1
+    },
+    {
+      "name": "gen-z",
+      "count": 1
+    },
+    {
+      "name": "vertical",
+      "count": 1
+    },
+    {
+      "name": "die-cut",
+      "count": 1
+    },
+    {
+      "name": "reflection",
+      "count": 1
+    },
+    {
+      "name": "shop-window",
+      "count": 1
+    },
+    {
+      "name": "ootd",
+      "count": 1
+    },
+    {
+      "name": "outfit-swap",
+      "count": 1
+    },
+    {
+      "name": "multi-image",
+      "count": 1
+    },
+    {
+      "name": "vogue",
+      "count": 1
+    },
+    {
+      "name": "suit",
+      "count": 1
+    },
+    {
+      "name": "wardrobe-swap",
+      "count": 1
+    },
+    {
+      "name": "men",
+      "count": 1
+    },
+    {
+      "name": "hair",
+      "count": 1
+    },
+    {
+      "name": "beach-wave",
+      "count": 1
+    },
+    {
+      "name": "highlights",
+      "count": 1
+    },
+    {
+      "name": "streetwear",
+      "count": 1
+    },
+    {
+      "name": "casual",
+      "count": 1
+    },
+    {
+      "name": "jewelry",
+      "count": 1
+    },
+    {
+      "name": "beach",
+      "count": 1
+    },
+    {
+      "name": "bag",
+      "count": 1
+    },
+    {
+      "name": "boho",
+      "count": 1
+    },
+    {
+      "name": "podium",
+      "count": 1
+    },
+    {
+      "name": "ad",
+      "count": 1
+    },
+    {
+      "name": "underwater",
+      "count": 1
+    },
+    {
+      "name": "caustics",
+      "count": 1
+    },
+    {
+      "name": "splash",
+      "count": 1
+    },
+    {
+      "name": "ecommerce",
+      "count": 1
+    },
+    {
+      "name": "white-bg",
+      "count": 1
+    },
+    {
+      "name": "amazon",
+      "count": 1
+    },
+    {
+      "name": "floating",
+      "count": 1
+    },
+    {
+      "name": "cosmetics",
+      "count": 1
+    },
+    {
+      "name": "hero-shot",
+      "count": 1
+    },
+    {
+      "name": "flatlay",
+      "count": 1
+    },
+    {
+      "name": "kitchen",
+      "count": 1
+    },
+    {
+      "name": "top-down",
+      "count": 1
+    },
+    {
+      "name": "background",
+      "count": 1
+    },
+    {
+      "name": "sunset",
+      "count": 1
+    },
+    {
+      "name": "white",
+      "count": 1
+    },
+    {
+      "name": "cutout",
+      "count": 1
+    },
+    {
+      "name": "cleanup",
+      "count": 1
+    },
+    {
+      "name": "remove-objects",
+      "count": 1
+    },
+    {
+      "name": "color-grade",
+      "count": 1
+    },
+    {
+      "name": "teal-orange",
+      "count": 1
+    },
+    {
+      "name": "retouch",
+      "count": 1
+    },
+    {
+      "name": "natural",
+      "count": 1
+    },
+    {
+      "name": "letterbox",
+      "count": 1
+    },
+    {
+      "name": "monochrome",
+      "count": 1
+    },
+    {
+      "name": "before-after",
+      "count": 1
+    },
+    {
+      "name": "split",
+      "count": 1
+    },
+    {
+      "name": "compare",
+      "count": 1
+    },
+    {
+      "name": "sketch",
+      "count": 1
+    },
+    {
+      "name": "line-drawing",
+      "count": 1
+    },
+    {
+      "name": "notebook",
+      "count": 1
+    },
+    {
+      "name": "fantasy",
+      "count": 1
+    },
+    {
+      "name": "magic",
+      "count": 1
+    },
+    {
+      "name": "particles",
       "count": 1
     }
   ],
