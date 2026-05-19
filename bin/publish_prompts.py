@@ -40,6 +40,10 @@ Batch input schema (YAML or JSON):
       featured: false
       trending_score: 0.5
       image_path: null             # optional; if set, skip generation and upload local file
+      usage_category: marketing    # marketing|content|business|personal (top-level usage bucket)
+      primary_style: realistic     # realistic|illustration|3d_render|anime|pixel_art|minimal|vintage|cyberpunk|poster|sketch
+      tagline_en: ""               # one-sentence pitch (English)
+      tagline_zh: ""               # 一句话卖点（中文）
 """
 from __future__ import annotations
 import argparse, json, os, subprocess, sys, shutil, time, hashlib, urllib.request, base64
@@ -70,6 +74,12 @@ ASPECT_TO_SIZE = {
 }
 
 REQUIRED_FIELDS = ['id', 'title', 'category', 'prompt']
+
+USAGE_CATEGORIES = {'marketing', 'content', 'business', 'personal'}
+PRIMARY_STYLES = {
+    'realistic', 'illustration', '3d_render', 'anime', 'pixel_art',
+    'minimal', 'vintage', 'cyberpunk', 'poster', 'sketch',
+}
 
 # ---------- utilities ----------
 
@@ -221,6 +231,15 @@ def normalize_entry(e: dict) -> dict:
     e.setdefault('difficulty', 'Intermediate')
     e.setdefault('license', 'Reference-only')
     e.setdefault('featured', False)
+    # New fields (Manus-inspired)
+    e.setdefault('usage_category', 'content')
+    if e['usage_category'] not in USAGE_CATEGORIES:
+        sys.exit(f'ERROR: invalid usage_category "{e["usage_category"]}" (allowed: {sorted(USAGE_CATEGORIES)})')
+    e.setdefault('primary_style', 'realistic')
+    if e['primary_style'] not in PRIMARY_STYLES:
+        sys.exit(f'ERROR: invalid primary_style "{e["primary_style"]}" (allowed: {sorted(PRIMARY_STYLES)})')
+    e.setdefault('tagline_en', '')
+    e.setdefault('tagline_zh', '')
     return e
 
 def cmd_pull() -> None:
@@ -370,6 +389,118 @@ def remove_prompts(ids: list[str]) -> dict:
     log(f'removed {len(removed)} prompt(s); sha={sha}')
     return {'removed': len(removed), 'missing': missing, 'sha': sha, 'removed_ids': removed}
 
+def refresh_indexes(manifest: dict) -> dict:
+    """Recompute categories[], tags_index[], stats from prompts[]."""
+    from collections import Counter
+    cats   = Counter(p.get('category', 'Uncategorized') for p in manifest['prompts'])
+    tags   = Counter(t for p in manifest['prompts'] for t in p.get('tags', []))
+    usages = Counter(p.get('usage_category') for p in manifest['prompts'] if p.get('usage_category'))
+    styles = Counter(p.get('primary_style')  for p in manifest['prompts'] if p.get('primary_style'))
+
+    manifest['categories'] = [
+        {'id': k.lower().replace(' ', '-'), 'name': k, 'count': v}
+        for k, v in sorted(cats.items(), key=lambda x: -x[1])
+    ]
+    manifest['usage_categories'] = [
+        {'id': k, 'count': v} for k, v in sorted(usages.items(), key=lambda x: -x[1])
+    ]
+    manifest['primary_styles'] = [
+        {'id': k, 'count': v} for k, v in sorted(styles.items(), key=lambda x: -x[1])
+    ]
+    manifest['tags_index'] = [
+        {'name': k, 'count': v}
+        for k, v in sorted(tags.items(), key=lambda x: -x[1])
+    ]
+    manifest['stats'] = {
+        'total_prompts': len(manifest['prompts']),
+        'categories':       len(cats),
+        'usage_categories': len(usages),
+        'primary_styles':   len(styles),
+        'tags':              len(tags),
+        'successful_renders': sum(1 for p in manifest['prompts'] if p.get('preview_image', '').startswith('http')),
+    }
+    return manifest
+
+def cmd_refresh() -> None:
+    token = load_token()
+    ensure_repo(token)
+    m = load_manifest()
+    refresh_indexes(m)
+    save_manifest(m)
+    OUTPUTS_JSON.write_text((LOCAL_REPO / 'prompts.json').read_text())
+    run(['git', 'add', 'prompts.json'], cwd=LOCAL_REPO)
+    diff = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=LOCAL_REPO).returncode
+    if diff != 0:
+        run(['git', 'commit', '--quiet', '-m', 'refresh categories + tags_index + stats'], cwd=LOCAL_REPO)
+        sha = push()
+        log(f'pushed indexes refresh; sha={sha}')
+    else:
+        log('indexes already up-to-date')
+    scrub_remote()
+
+def split_manifest_to_dicts(manifest: dict) -> tuple[dict, dict]:
+    """Build the two id-keyed dict files: prompts-text and prompts-images."""
+    prompts_text = {
+        'schema_version': '1.0',
+        'description': 'Prompt text and metadata only, keyed by id. Maps 1:1 with prompts-images.json.',
+        'generated_at': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
+        'count': len(manifest['prompts']),
+        'items': {},
+    }
+    prompts_images = {
+        'schema_version': '1.0',
+        'description': 'Image URLs only, keyed by id. Maps 1:1 with prompts-text.json.',
+        'generated_at': prompts_text['generated_at'],
+        'count': len(manifest['prompts']),
+        'items': {},
+    }
+    text_fields = [
+        'title', 'title_zh', 'tagline_en', 'tagline_zh',
+        'usage_category', 'primary_style',
+        'category', 'subcategory', 'tags',
+        'difficulty', 'model', 'mode', 'language', 'aspect_ratio',
+        'prompt', 'negative_prompt',
+        'color_palette', 'style_keywords', 'use_cases',
+        'tip', 'tip_zh',
+        'author', 'source_url', 'license',
+        'featured', 'trending_score',
+    ]
+    image_fields = [
+        'preview_image', 'preview_image_latest', 'preview_image_raw', 'preview_image_pinned_sha',
+    ]
+    for p in manifest['prompts']:
+        pid = p['id']
+        prompts_text['items'][pid]   = {k: p[k] for k in text_fields  if k in p}
+        prompts_images['items'][pid] = {k: p[k] for k in image_fields if k in p}
+    return prompts_text, prompts_images
+
+def cmd_split() -> None:
+    token = load_token()
+    ensure_repo(token)
+    m = load_manifest()
+    refresh_indexes(m)
+    save_manifest(m)
+
+    pt, pi = split_manifest_to_dicts(m)
+    (LOCAL_REPO / 'prompts-text.json').write_text(json.dumps(pt,  indent=2, ensure_ascii=False) + '\n')
+    (LOCAL_REPO / 'prompts-images.json').write_text(json.dumps(pi, indent=2, ensure_ascii=False) + '\n')
+
+    # mirror to outputs/
+    OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+    OUTPUTS_JSON.write_text((LOCAL_REPO / 'prompts.json').read_text())
+    (OUTPUTS_DIR / 'prompts-text.json').write_text((LOCAL_REPO / 'prompts-text.json').read_text())
+    (OUTPUTS_DIR / 'prompts-images.json').write_text((LOCAL_REPO / 'prompts-images.json').read_text())
+
+    run(['git', 'add', 'prompts.json', 'prompts-text.json', 'prompts-images.json'], cwd=LOCAL_REPO)
+    diff = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=LOCAL_REPO).returncode
+    if diff != 0:
+        run(['git', 'commit', '--quiet', '-m', 'refresh + split: prompts-text.json + prompts-images.json'], cwd=LOCAL_REPO)
+        sha = push()
+        log(f'pushed split files; sha={sha}')
+    else:
+        log('split files already up-to-date')
+    scrub_remote()
+
 def cmd_remove(ids: list[str]) -> None:
     if not ids: sys.exit('ERROR: provide at least one id to remove')
     res = remove_prompts(ids)
@@ -407,15 +538,19 @@ def main() -> None:
     p_rm = sp.add_parser('remove', help='Remove one or more prompts by id')
     p_rm.add_argument('ids', nargs='+')
 
-    sp.add_parser('pull',   help='Sync local mirror from origin')
-    sp.add_parser('status', help='Print repo + manifest stats')
+    sp.add_parser('pull',    help='Sync local mirror from origin')
+    sp.add_parser('status',  help='Print repo + manifest stats')
+    sp.add_parser('refresh', help='Recompute categories, tags_index, stats from prompts[]')
+    sp.add_parser('split',   help='Generate prompts-text.json + prompts-images.json (id-keyed dicts)')
 
     args = ap.parse_args()
-    if   args.cmd == 'batch':  cmd_batch(args.input, force=args.force, concurrency=args.concurrency)
-    elif args.cmd == 'add':    cmd_add(args.input, force=args.force)
-    elif args.cmd == 'remove': cmd_remove(args.ids)
-    elif args.cmd == 'pull':   cmd_pull()
-    elif args.cmd == 'status': cmd_status()
+    if   args.cmd == 'batch':   cmd_batch(args.input, force=args.force, concurrency=args.concurrency)
+    elif args.cmd == 'add':     cmd_add(args.input, force=args.force)
+    elif args.cmd == 'remove':  cmd_remove(args.ids)
+    elif args.cmd == 'pull':    cmd_pull()
+    elif args.cmd == 'status':  cmd_status()
+    elif args.cmd == 'refresh': cmd_refresh()
+    elif args.cmd == 'split':   cmd_split()
 
 if __name__ == '__main__':
     main()
