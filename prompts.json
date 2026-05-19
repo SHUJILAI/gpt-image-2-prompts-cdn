@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "name": "GPT Image 2 Prompt Gallery",
   "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
-  "generated_at": "2026-05-19T06:39:23Z",
+  "generated_at": "2026-05-19T06:40:10Z",
   "default_model": "openai/gpt-image-2",
   "supported_aspect_ratios": [
     "1:1",
@@ -968,7 +968,7 @@
         "ok": true,
         "duration_sec": 174.3
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/convenience-store-neon-portrait.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/convenience-store-neon-portrait.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png",
       "usage_category": "personal",
       "primary_style": "realistic",
@@ -1026,7 +1026,7 @@
         "ok": true,
         "duration_sec": 184.2
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/boston-spring-2026-city-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/boston-spring-2026-city-poster.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png",
       "usage_category": "marketing",
       "primary_style": "poster",
@@ -1084,7 +1084,7 @@
         "ok": true,
         "duration_sec": 153.7
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/amalfi-coast-vintage-travel-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/amalfi-coast-vintage-travel-poster.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png",
       "usage_category": "marketing",
       "primary_style": "poster",
@@ -1141,7 +1141,7 @@
         "ok": true,
         "duration_sec": 223.9
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/adventure-character-design-sheet.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/adventure-character-design-sheet.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png",
       "usage_category": "content",
       "primary_style": "illustration",
@@ -1198,7 +1198,7 @@
         "ok": true,
         "duration_sec": 59.2
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/summer-citrus-soda-ad.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/summer-citrus-soda-ad.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png",
       "usage_category": "business",
       "primary_style": "realistic",
@@ -1256,7 +1256,7 @@
         "ok": true,
         "duration_sec": 80.4
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/saas-dashboard-dark-mode.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/saas-dashboard-dark-mode.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png",
       "usage_category": "business",
       "primary_style": "minimal",
@@ -1312,7 +1312,7 @@
         "ok": true,
         "duration_sec": 57.8
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/meditation-app-onboarding.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/meditation-app-onboarding.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png",
       "usage_category": "business",
       "primary_style": "minimal",
@@ -1370,7 +1370,7 @@
         "ok": true,
         "duration_sec": 58.5
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/subway-candid-iphone.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/subway-candid-iphone.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png",
       "usage_category": "personal",
       "primary_style": "realistic",
@@ -1427,7 +1427,7 @@
         "ok": true,
         "duration_sec": 83.7
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/futuristic-mandala-cyberpunk.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/futuristic-mandala-cyberpunk.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png",
       "usage_category": "content",
       "primary_style": "illustration",
@@ -1484,7 +1484,7 @@
         "ok": true,
         "duration_sec": 173.1
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/scifi-inventor-teaser-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/scifi-inventor-teaser-poster.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png",
       "usage_category": "marketing",
       "primary_style": "poster",
