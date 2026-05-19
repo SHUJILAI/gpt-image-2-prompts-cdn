@@ -1,12 +1,16 @@
 {
   "schema_version": "1.0",
   "description": "Prompt text and metadata only, keyed by id. Maps 1:1 with prompts-images.json.",
-  "generated_at": "2026-05-15T10:39:47Z",
+  "generated_at": "2026-05-19T05:57:54Z",
   "count": 65,
   "items": {
     "convenience-store-neon-portrait": {
       "title": "Convenience Store Neon Portrait",
       "title_zh": "便利店霓虹光人像",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "35mm Film Photography",
       "tags": [
@@ -54,6 +58,10 @@
     "boston-spring-2026-city-poster": {
       "title": "Boston Spring 2026 City Poster",
       "title_zh": "波士顿春日 2026 城市海报",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。",
+      "usage_category": "marketing",
+      "primary_style": "poster",
       "category": "Posters",
       "subcategory": "City Poster",
       "tags": [
@@ -100,6 +108,10 @@
     "amalfi-coast-vintage-travel-poster": {
       "title": "Vintage Amalfi Coast Travel Poster",
       "title_zh": "复古阿马尔菲海岸旅行海报",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。",
+      "usage_category": "marketing",
+      "primary_style": "poster",
       "category": "Posters",
       "subcategory": "Travel Illustration",
       "tags": [
@@ -146,6 +158,10 @@
     "adventure-character-design-sheet": {
       "title": "Adventure Character Design Sheet",
       "title_zh": "冒险角色三视图设定稿",
+      "tagline_en": "Original character concept ready for game, animation, or fiction.",
+      "tagline_zh": "原创角色设定，可用于游戏、动画或小说。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Character Design",
       "subcategory": "Turnaround Sheet",
       "tags": [
@@ -191,6 +207,10 @@
     "summer-citrus-soda-ad": {
       "title": "Summer Citrus Soda Ad",
       "title_zh": "夏日柑橘汽水广告",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Beverage",
       "tags": [
@@ -236,6 +256,10 @@
     "saas-dashboard-dark-mode": {
       "title": "SaaS Analytics Dashboard (Dark Mode)",
       "title_zh": "SaaS 数据看板（深色）",
+      "tagline_en": "Production-ready app or website screen for product showcases.",
+      "tagline_zh": "高保真 App / 网页样机，可直接用于产品展示。",
+      "usage_category": "business",
+      "primary_style": "minimal",
       "category": "UI Mockups",
       "subcategory": "Dashboard",
       "tags": [
@@ -282,6 +306,10 @@
     "meditation-app-onboarding": {
       "title": "Meditation App Onboarding Screen",
       "title_zh": "冥想 App 引导页",
+      "tagline_en": "Production-ready app or website screen for product showcases.",
+      "tagline_zh": "高保真 App / 网页样机，可直接用于产品展示。",
+      "usage_category": "business",
+      "primary_style": "minimal",
       "category": "UI Mockups",
       "subcategory": "Mobile App",
       "tags": [
@@ -326,6 +354,10 @@
     "subway-candid-iphone": {
       "title": "Subway Candid iPhone Photo",
       "title_zh": "地铁 iPhone 抓拍",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Candid Photography",
       "tags": [
@@ -372,6 +404,10 @@
     "futuristic-mandala-cyberpunk": {
       "title": "Futuristic Cyberpunk Mandala",
       "title_zh": "未来赛博朋克曼陀罗",
+      "tagline_en": "Distinctive illustrated artwork for editorial and content use.",
+      "tagline_zh": "风格化插画，适合编辑用图与内容创作。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Illustrations",
       "subcategory": "Symmetric Pattern",
       "tags": [
@@ -417,6 +453,10 @@
     "scifi-inventor-teaser-poster": {
       "title": "Sci-Fi Movie Teaser Poster: INVENTOR",
       "title_zh": "科幻电影预告海报：INVENTOR",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。",
+      "usage_category": "marketing",
+      "primary_style": "poster",
       "category": "Posters",
       "subcategory": "Movie Poster",
       "tags": [
@@ -462,6 +502,10 @@
     "vintage-tokyo-jazz-club-poster": {
       "title": "Vintage Tokyo Jazz Club Poster",
       "title_zh": "复古东京爵士俱乐部海报",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。",
+      "usage_category": "marketing",
+      "primary_style": "poster",
       "category": "Posters",
       "subcategory": "Music Event Poster",
       "tags": [
@@ -511,6 +555,10 @@
     "minimalist-skincare-bottle-marble": {
       "title": "Minimalist Skincare Bottle on Marble",
       "title_zh": "极简护肤品瓶大理石场景",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Beauty / Cosmetics",
       "tags": [
@@ -560,6 +608,10 @@
     "isometric-cozy-coffee-shop-3d": {
       "title": "Isometric Cozy Coffee Shop",
       "title_zh": "等距视角温暖咖啡馆",
+      "tagline_en": "Distinctive illustrated artwork for editorial and content use.",
+      "tagline_zh": "风格化插画，适合编辑用图与内容创作。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Illustrations",
       "subcategory": "Isometric 3D",
       "tags": [
@@ -609,6 +661,10 @@
     "cyberpunk-mech-pilot-character-sheet": {
       "title": "Cyberpunk Mech Pilot Character Sheet",
       "title_zh": "赛博朋克机甲驾驶员角色设定",
+      "tagline_en": "Original character concept ready for game, animation, or fiction.",
+      "tagline_zh": "原创角色设定，可用于游戏、动画或小说。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Character Design",
       "subcategory": "Concept Art / Character Sheet",
       "tags": [
@@ -658,6 +714,10 @@
     "crypto-trading-app-dark-mode-ui": {
       "title": "Crypto Trading App Dark Mode UI",
       "title_zh": "加密交易 App 深色模式界面",
+      "tagline_en": "Production-ready app or website screen for product showcases.",
+      "tagline_zh": "高保真 App / 网页样机，可直接用于产品展示。",
+      "usage_category": "business",
+      "primary_style": "minimal",
       "category": "UI Mockups",
       "subcategory": "Mobile App / Fintech",
       "tags": [
@@ -706,6 +766,10 @@
     },
     "i2i-01-linkedin-executive-headshot": {
       "title": "LinkedIn Executive Headshot",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Headshot / Portrait",
       "tags": [
@@ -738,6 +802,10 @@
     },
     "i2i-02-silicon-valley-founder-portrait": {
       "title": "Silicon Valley Founder Portrait",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Headshot / Portrait",
       "tags": [
@@ -770,6 +838,10 @@
     },
     "i2i-03-korean-haima-studio-portrait": {
       "title": "Korean Haima Studio Portrait",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Headshot / Portrait",
       "tags": [
@@ -802,6 +874,10 @@
     },
     "i2i-04-sporty-girlfriend-photoshoot": {
       "title": "Sporty Girlfriend Photoshoot",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Headshot / Portrait",
       "tags": [
@@ -834,6 +910,10 @@
     },
     "i2i-05-times-square-night-portrait": {
       "title": "Times Square Night Portrait",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Headshot / Portrait",
       "tags": [
@@ -866,6 +946,10 @@
     },
     "i2i-06-rainy-city-noir": {
       "title": "Rainy City Noir",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Headshot / Portrait",
       "tags": [
@@ -898,6 +982,10 @@
     },
     "i2i-07-paris-fashion-week-runway": {
       "title": "Paris Fashion Week Runway",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
       "category": "Fashion",
       "subcategory": "Fashion Editorial",
       "tags": [
@@ -930,6 +1018,10 @@
     },
     "i2i-08-70s-polaroid-family-photo": {
       "title": "70s Polaroid Family Photo",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Vintage Portrait",
       "tags": [
@@ -962,6 +1054,10 @@
     },
     "i2i-09-1990s-magazine-cover-look": {
       "title": "1990s Magazine Cover Look",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Vintage Portrait",
       "tags": [
@@ -994,6 +1090,10 @@
     },
     "i2i-10-y2k-bedroom-mirror-selfie": {
       "title": "Y2K Bedroom Mirror Selfie",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Vintage Portrait",
       "tags": [
@@ -1026,6 +1126,10 @@
     },
     "i2i-11-victorian-daguerreotype-ghost": {
       "title": "Victorian Daguerreotype Ghost",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Vintage Portrait",
       "tags": [
@@ -1058,6 +1162,10 @@
     },
     "i2i-12-1980s-arcade-hall-scene": {
       "title": "1980s Arcade Hall Scene",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Portraits",
       "subcategory": "Vintage Portrait",
       "tags": [
@@ -1090,6 +1198,10 @@
     },
     "i2i-13-1-7-scale-collectible-figure": {
       "title": "1/7 Scale Collectible Figure",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。",
+      "usage_category": "business",
+      "primary_style": "3d_render",
       "category": "3D Render",
       "subcategory": "3D Figure / Toy",
       "tags": [
@@ -1122,6 +1234,10 @@
     },
     "i2i-14-knitted-plush-toy": {
       "title": "Knitted Plush Toy",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。",
+      "usage_category": "business",
+      "primary_style": "3d_render",
       "category": "3D Render",
       "subcategory": "3D Figure / Toy",
       "tags": [
@@ -1154,6 +1270,10 @@
     },
     "i2i-15-bronze-trophy-statue": {
       "title": "Bronze Trophy Statue",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。",
+      "usage_category": "business",
+      "primary_style": "3d_render",
       "category": "3D Render",
       "subcategory": "3D Figure / Toy",
       "tags": [
@@ -1186,6 +1306,10 @@
     },
     "i2i-16-marble-renaissance-sculpture": {
       "title": "Marble Renaissance Sculpture",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。",
+      "usage_category": "business",
+      "primary_style": "3d_render",
       "category": "3D Render",
       "subcategory": "3D Figure / Toy",
       "tags": [
@@ -1218,6 +1342,10 @@
     },
     "i2i-17-3d-q-version-app-icon": {
       "title": "3D Q-Version App Icon",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。",
+      "usage_category": "business",
+      "primary_style": "3d_render",
       "category": "3D Render",
       "subcategory": "3D Figure / Toy",
       "tags": [
@@ -1250,6 +1378,10 @@
     },
     "i2i-18-studio-ghibli-anime-style": {
       "title": "Studio Ghibli Anime Style",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。",
+      "usage_category": "personal",
+      "primary_style": "illustration",
       "category": "Style Transfer",
       "subcategory": "Style Transfer",
       "tags": [
@@ -1282,6 +1414,10 @@
     },
     "i2i-19-origami-paper-sculpture": {
       "title": "Origami Paper Sculpture",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。",
+      "usage_category": "personal",
+      "primary_style": "illustration",
       "category": "Style Transfer",
       "subcategory": "Style Transfer",
       "tags": [
@@ -1314,6 +1450,10 @@
     },
     "i2i-20-street-graffiti-mural": {
       "title": "Street Graffiti Mural",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。",
+      "usage_category": "personal",
+      "primary_style": "illustration",
       "category": "Style Transfer",
       "subcategory": "Style Transfer",
       "tags": [
@@ -1346,6 +1486,10 @@
     },
     "i2i-21-holographic-y2k-effect": {
       "title": "Holographic Y2K Effect",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。",
+      "usage_category": "personal",
+      "primary_style": "illustration",
       "category": "Style Transfer",
       "subcategory": "Style Transfer",
       "tags": [
@@ -1378,6 +1522,10 @@
     },
     "i2i-22-architecture-cardboard-model": {
       "title": "Architecture Cardboard Model",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Creative",
       "subcategory": "Creative",
       "tags": [
@@ -1410,6 +1558,10 @@
     },
     "i2i-23-phone-screen-3d-illusion": {
       "title": "Phone Screen 3D Illusion",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Creative",
       "subcategory": "Creative",
       "tags": [
@@ -1442,6 +1594,10 @@
     },
     "i2i-24-worm-s-eye-group-selfie": {
       "title": "Worm's-Eye Group Selfie",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。",
+      "usage_category": "content",
+      "primary_style": "realistic",
       "category": "Viral / Social",
       "subcategory": "Viral Social",
       "tags": [
@@ -1474,6 +1630,10 @@
     },
     "i2i-25-music-player-ui-overlay": {
       "title": "Music Player UI Overlay",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。",
+      "usage_category": "content",
+      "primary_style": "realistic",
       "category": "Viral / Social",
       "subcategory": "Viral Social",
       "tags": [
@@ -1506,6 +1666,10 @@
     },
     "i2i-26-cartoon-sticker-self": {
       "title": "Cartoon Sticker Self",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。",
+      "usage_category": "content",
+      "primary_style": "realistic",
       "category": "Viral / Social",
       "subcategory": "Viral Social",
       "tags": [
@@ -1538,6 +1702,10 @@
     },
     "i2i-27-shop-window-cartoon-reflection": {
       "title": "Shop Window Cartoon Reflection",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。",
+      "usage_category": "content",
+      "primary_style": "realistic",
       "category": "Viral / Social",
       "subcategory": "Viral Social",
       "tags": [
@@ -1570,6 +1738,10 @@
     },
     "i2i-28-outfit-swap-from-reference-photo-2": {
       "title": "Outfit Swap from Reference Photo 2",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
       "category": "Fashion",
       "subcategory": "Fashion Editorial",
       "tags": [
@@ -1602,6 +1774,10 @@
     },
     "i2i-29-vogue-editorial-fashion": {
       "title": "Vogue Editorial Fashion",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
       "category": "Fashion",
       "subcategory": "Fashion Editorial",
       "tags": [
@@ -1634,6 +1810,10 @@
     },
     "i2i-30-tailored-business-suit-swap": {
       "title": "Tailored Business Suit Swap",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
       "category": "Fashion",
       "subcategory": "Fashion Editorial",
       "tags": [
@@ -1666,6 +1846,10 @@
     },
     "i2i-31-beach-wave-hair-transformation": {
       "title": "Beach Wave Hair Transformation",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
       "category": "Fashion",
       "subcategory": "Fashion Editorial",
       "tags": [
@@ -1698,6 +1882,10 @@
     },
     "i2i-32-streetwear-style-conversion": {
       "title": "Streetwear Style Conversion",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
       "category": "Fashion",
       "subcategory": "Fashion Editorial",
       "tags": [
@@ -1730,6 +1918,10 @@
     },
     "i2i-33-beach-jewelry-display": {
       "title": "Beach Jewelry Display",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1762,6 +1954,10 @@
     },
     "i2i-34-boho-tote-bag-lifestyle": {
       "title": "Boho Tote Bag Lifestyle",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1794,6 +1990,10 @@
     },
     "i2i-35-premium-3d-podium-product-shot": {
       "title": "Premium 3D Podium Product Shot",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1826,6 +2026,10 @@
     },
     "i2i-36-underwater-bottle-shot": {
       "title": "Underwater Bottle Shot",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1858,6 +2062,10 @@
     },
     "i2i-37-marble-countertop-skincare": {
       "title": "Marble Countertop Skincare",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1890,6 +2098,10 @@
     },
     "i2i-38-ecommerce-white-background": {
       "title": "Ecommerce White Background",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1922,6 +2134,10 @@
     },
     "i2i-39-floating-hero-lipstick-shot": {
       "title": "Floating Hero Lipstick Shot",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1954,6 +2170,10 @@
     },
     "i2i-40-flatlay-kitchen-knife": {
       "title": "Flatlay Kitchen Knife",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。",
+      "usage_category": "business",
+      "primary_style": "realistic",
       "category": "Product Photography",
       "subcategory": "Product",
       "tags": [
@@ -1986,6 +2206,10 @@
     },
     "i2i-41-background-replacement-sunset-city": {
       "title": "Background Replacement Sunset City",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Background Replace",
       "tags": [
@@ -2018,6 +2242,10 @@
     },
     "i2i-42-pure-white-studio-replace": {
       "title": "Pure White Studio Replace",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Background Replace",
       "tags": [
@@ -2050,6 +2278,10 @@
     },
     "i2i-43-object-removal-cleanup": {
       "title": "Object Removal & Cleanup",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Photo Enhance",
       "tags": [
@@ -2080,6 +2312,10 @@
     },
     "i2i-44-cinematic-teal-orange-grade": {
       "title": "Cinematic Teal-Orange Grade",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Photo Enhance",
       "tags": [
@@ -2112,6 +2348,10 @@
     },
     "i2i-45-portrait-skin-eye-enhance": {
       "title": "Portrait Skin & Eye Enhance",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Photo Enhance",
       "tags": [
@@ -2144,6 +2384,10 @@
     },
     "i2i-46-movie-poster-treatment": {
       "title": "Movie Poster Treatment",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Photo Enhance",
       "tags": [
@@ -2176,6 +2420,10 @@
     },
     "i2i-47-high-contrast-b-w-portrait": {
       "title": "High-Contrast B&W Portrait",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Photo Enhance",
       "tags": [
@@ -2208,6 +2456,10 @@
     },
     "i2i-48-before-after-split-compare": {
       "title": "Before / After Split Compare",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。",
+      "usage_category": "personal",
+      "primary_style": "realistic",
       "category": "Photo Editing",
       "subcategory": "Photo Enhance",
       "tags": [
@@ -2240,6 +2492,10 @@
     },
     "i2i-49-line-drawing-sketch-on-notebook": {
       "title": "Line Drawing Sketch on Notebook",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Creative",
       "subcategory": "Creative",
       "tags": [
@@ -2272,6 +2528,10 @@
     },
     "i2i-50-fantasy-magic-effect-aura": {
       "title": "Fantasy Magic Effect Aura",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。",
+      "usage_category": "content",
+      "primary_style": "illustration",
       "category": "Creative",
       "subcategory": "Creative",
       "tags": [
