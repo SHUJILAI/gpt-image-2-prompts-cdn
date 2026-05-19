@@ -162,9 +162,11 @@ def index_by_id(manifest: dict) -> dict:
     return {p['id']: p for p in manifest.get('prompts', [])}
 
 def make_urls(slug: str, sha: str) -> dict:
+    # Note: case-images/ live on the `assets` branch, NOT `main`. Main is the slim
+    # 2-JSON consumer surface. preview_image_latest must point to @assets.
     return {
         'preview_image':         f'https://cdn.jsdelivr.net/gh/{GH_USER}/{GH_REPO}@{sha}/case-images/{slug}.png',
-        'preview_image_latest':  f'https://cdn.jsdelivr.net/gh/{GH_USER}/{GH_REPO}@main/case-images/{slug}.png',
+        'preview_image_latest':  f'https://cdn.jsdelivr.net/gh/{GH_USER}/{GH_REPO}@assets/case-images/{slug}.png',
         'preview_image_raw':     f'https://raw.githubusercontent.com/{GH_USER}/{GH_REPO}/{sha}/case-images/{slug}.png',
         'preview_image_pinned_sha': sha,
     }
