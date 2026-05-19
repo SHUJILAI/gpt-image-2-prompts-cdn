@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "name": "GPT Image 2 Prompt Gallery",
   "description": "Curated, ready-to-use prompts for OpenAI gpt-image-2, with rendered case images.",
-  "generated_at": "2026-05-15T10:39:47Z",
+  "generated_at": "2026-05-19T05:57:54Z",
   "default_model": "openai/gpt-image-2",
   "supported_aspect_ratios": [
     "1:1",
@@ -16,6 +16,8 @@
   "stats": {
     "total_prompts": 65,
     "categories": 12,
+    "usage_categories": 4,
+    "primary_styles": 5,
     "tags": 202,
     "successful_renders": 65
   },
@@ -967,7 +969,11 @@
         "duration_sec": 174.3
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/convenience-store-neon-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "boston-spring-2026-city-poster",
@@ -1021,7 +1027,11 @@
         "duration_sec": 184.2
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/boston-spring-2026-city-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png",
+      "usage_category": "marketing",
+      "primary_style": "poster",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。"
     },
     {
       "id": "amalfi-coast-vintage-travel-poster",
@@ -1075,7 +1085,11 @@
         "duration_sec": 153.7
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/amalfi-coast-vintage-travel-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png",
+      "usage_category": "marketing",
+      "primary_style": "poster",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。"
     },
     {
       "id": "adventure-character-design-sheet",
@@ -1128,7 +1142,11 @@
         "duration_sec": 223.9
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/adventure-character-design-sheet.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Original character concept ready for game, animation, or fiction.",
+      "tagline_zh": "原创角色设定，可用于游戏、动画或小说。"
     },
     {
       "id": "summer-citrus-soda-ad",
@@ -1181,7 +1199,11 @@
         "duration_sec": 59.2
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/summer-citrus-soda-ad.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "saas-dashboard-dark-mode",
@@ -1235,7 +1257,11 @@
         "duration_sec": 80.4
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/saas-dashboard-dark-mode.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png",
+      "usage_category": "business",
+      "primary_style": "minimal",
+      "tagline_en": "Production-ready app or website screen for product showcases.",
+      "tagline_zh": "高保真 App / 网页样机，可直接用于产品展示。"
     },
     {
       "id": "meditation-app-onboarding",
@@ -1287,7 +1313,11 @@
         "duration_sec": 57.8
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/meditation-app-onboarding.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png",
+      "usage_category": "business",
+      "primary_style": "minimal",
+      "tagline_en": "Production-ready app or website screen for product showcases.",
+      "tagline_zh": "高保真 App / 网页样机，可直接用于产品展示。"
     },
     {
       "id": "subway-candid-iphone",
@@ -1341,7 +1371,11 @@
         "duration_sec": 58.5
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/subway-candid-iphone.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "futuristic-mandala-cyberpunk",
@@ -1394,7 +1428,11 @@
         "duration_sec": 83.7
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/futuristic-mandala-cyberpunk.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Distinctive illustrated artwork for editorial and content use.",
+      "tagline_zh": "风格化插画，适合编辑用图与内容创作。"
     },
     {
       "id": "scifi-inventor-teaser-poster",
@@ -1447,7 +1485,11 @@
         "duration_sec": 173.1
       },
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/scifi-inventor-teaser-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png"
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png",
+      "usage_category": "marketing",
+      "primary_style": "poster",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。"
     },
     {
       "id": "vintage-tokyo-jazz-club-poster",
@@ -1501,7 +1543,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/vintage-tokyo-jazz-club-poster.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "usage_category": "marketing",
+      "primary_style": "poster",
+      "tagline_en": "Eye-catching typographic poster for events and campaigns.",
+      "tagline_zh": "视觉冲击力强的海报设计，适合活动与品牌投放。"
     },
     {
       "id": "minimalist-skincare-bottle-marble",
@@ -1555,7 +1601,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/minimalist-skincare-bottle-marble.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "isometric-cozy-coffee-shop-3d",
@@ -1609,7 +1659,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/isometric-cozy-coffee-shop-3d.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Distinctive illustrated artwork for editorial and content use.",
+      "tagline_zh": "风格化插画，适合编辑用图与内容创作。"
     },
     {
       "id": "cyberpunk-mech-pilot-character-sheet",
@@ -1663,7 +1717,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/cyberpunk-mech-pilot-character-sheet.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Original character concept ready for game, animation, or fiction.",
+      "tagline_zh": "原创角色设定，可用于游戏、动画或小说。"
     },
     {
       "id": "crypto-trading-app-dark-mode-ui",
@@ -1717,7 +1775,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/crypto-trading-app-dark-mode-ui.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40"
+      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "usage_category": "business",
+      "primary_style": "minimal",
+      "tagline_en": "Production-ready app or website screen for product showcases.",
+      "tagline_zh": "高保真 App / 网页样机，可直接用于产品展示。"
     },
     {
       "id": "i2i-01-linkedin-executive-headshot",
@@ -1754,7 +1816,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-01-linkedin-executive-headshot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-01-linkedin-executive-headshot.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-01-linkedin-executive-headshot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-02-silicon-valley-founder-portrait",
@@ -1791,7 +1857,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-02-silicon-valley-founder-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-02-silicon-valley-founder-portrait.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-02-silicon-valley-founder-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-03-korean-haima-studio-portrait",
@@ -1828,7 +1898,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-03-korean-haima-studio-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-03-korean-haima-studio-portrait.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-03-korean-haima-studio-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-04-sporty-girlfriend-photoshoot",
@@ -1865,7 +1939,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-05-times-square-night-portrait",
@@ -1902,7 +1980,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-05-times-square-night-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-05-times-square-night-portrait.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-05-times-square-night-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-06-rainy-city-noir",
@@ -1939,7 +2021,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-06-rainy-city-noir.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-06-rainy-city-noir.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-06-rainy-city-noir.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-07-paris-fashion-week-runway",
@@ -1976,7 +2062,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-07-paris-fashion-week-runway.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-07-paris-fashion-week-runway.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-07-paris-fashion-week-runway.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。"
     },
     {
       "id": "i2i-08-70s-polaroid-family-photo",
@@ -2013,7 +2103,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-08-70s-polaroid-family-photo.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-08-70s-polaroid-family-photo.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-08-70s-polaroid-family-photo.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-09-1990s-magazine-cover-look",
@@ -2050,7 +2144,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-09-1990s-magazine-cover-look.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-09-1990s-magazine-cover-look.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-09-1990s-magazine-cover-look.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-10-y2k-bedroom-mirror-selfie",
@@ -2087,7 +2185,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-11-victorian-daguerreotype-ghost",
@@ -2124,7 +2226,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-11-victorian-daguerreotype-ghost.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-11-victorian-daguerreotype-ghost.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-11-victorian-daguerreotype-ghost.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-12-1980s-arcade-hall-scene",
@@ -2161,7 +2267,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-12-1980s-arcade-hall-scene.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-12-1980s-arcade-hall-scene.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-12-1980s-arcade-hall-scene.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
+      "tagline_zh": "杂志级人像，适合形象照、头像与生活方式内容。"
     },
     {
       "id": "i2i-13-1-7-scale-collectible-figure",
@@ -2198,7 +2308,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-13-1-7-scale-collectible-figure.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-13-1-7-scale-collectible-figure.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-13-1-7-scale-collectible-figure.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "3d_render",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。"
     },
     {
       "id": "i2i-14-knitted-plush-toy",
@@ -2235,7 +2349,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-14-knitted-plush-toy.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-14-knitted-plush-toy.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-14-knitted-plush-toy.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "3d_render",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。"
     },
     {
       "id": "i2i-15-bronze-trophy-statue",
@@ -2272,7 +2390,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-15-bronze-trophy-statue.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-15-bronze-trophy-statue.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-15-bronze-trophy-statue.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "3d_render",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。"
     },
     {
       "id": "i2i-16-marble-renaissance-sculpture",
@@ -2309,7 +2431,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-16-marble-renaissance-sculpture.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-16-marble-renaissance-sculpture.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-16-marble-renaissance-sculpture.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "3d_render",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。"
     },
     {
       "id": "i2i-17-3d-q-version-app-icon",
@@ -2346,7 +2472,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-17-3d-q-version-app-icon.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-17-3d-q-version-app-icon.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-17-3d-q-version-app-icon.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "3d_render",
+      "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
+      "tagline_zh": "高品质 3D 渲染，适合产品、周边、可视化展示。"
     },
     {
       "id": "i2i-18-studio-ghibli-anime-style",
@@ -2383,7 +2513,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-18-studio-ghibli-anime-style.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-18-studio-ghibli-anime-style.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-18-studio-ghibli-anime-style.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "illustration",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。"
     },
     {
       "id": "i2i-19-origami-paper-sculpture",
@@ -2420,7 +2554,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-19-origami-paper-sculpture.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-19-origami-paper-sculpture.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-19-origami-paper-sculpture.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "illustration",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。"
     },
     {
       "id": "i2i-20-street-graffiti-mural",
@@ -2457,7 +2595,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-20-street-graffiti-mural.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-20-street-graffiti-mural.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-20-street-graffiti-mural.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "illustration",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。"
     },
     {
       "id": "i2i-21-holographic-y2k-effect",
@@ -2494,7 +2636,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-21-holographic-y2k-effect.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-21-holographic-y2k-effect.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-21-holographic-y2k-effect.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "illustration",
+      "tagline_en": "Transform any photo into a distinctive artistic style.",
+      "tagline_zh": "把照片变成特定艺术风格的视觉转换。"
     },
     {
       "id": "i2i-22-architecture-cardboard-model",
@@ -2531,7 +2677,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-22-architecture-cardboard-model.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-22-architecture-cardboard-model.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-22-architecture-cardboard-model.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。"
     },
     {
       "id": "i2i-23-phone-screen-3d-illusion",
@@ -2568,7 +2718,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-23-phone-screen-3d-illusion.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-23-phone-screen-3d-illusion.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-23-phone-screen-3d-illusion.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。"
     },
     {
       "id": "i2i-24-worm-s-eye-group-selfie",
@@ -2605,7 +2759,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-24-worm-s-eye-group-selfie.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-24-worm-s-eye-group-selfie.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-24-worm-s-eye-group-selfie.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "realistic",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。"
     },
     {
       "id": "i2i-25-music-player-ui-overlay",
@@ -2642,7 +2800,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-25-music-player-ui-overlay.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-25-music-player-ui-overlay.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-25-music-player-ui-overlay.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "realistic",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。"
     },
     {
       "id": "i2i-26-cartoon-sticker-self",
@@ -2679,7 +2841,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-26-cartoon-sticker-self.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-26-cartoon-sticker-self.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-26-cartoon-sticker-self.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "realistic",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。"
     },
     {
       "id": "i2i-27-shop-window-cartoon-reflection",
@@ -2716,7 +2882,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-27-shop-window-cartoon-reflection.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-27-shop-window-cartoon-reflection.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-27-shop-window-cartoon-reflection.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "realistic",
+      "tagline_en": "Scroll-stopping visual designed to perform on social media.",
+      "tagline_zh": "自带传播力的社交视觉，专为信息流投放设计。"
     },
     {
       "id": "i2i-28-outfit-swap-from-reference-photo-2",
@@ -2753,7 +2923,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。"
     },
     {
       "id": "i2i-29-vogue-editorial-fashion",
@@ -2790,7 +2964,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-29-vogue-editorial-fashion.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-29-vogue-editorial-fashion.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-29-vogue-editorial-fashion.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。"
     },
     {
       "id": "i2i-30-tailored-business-suit-swap",
@@ -2827,7 +3005,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-30-tailored-business-suit-swap.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-30-tailored-business-suit-swap.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-30-tailored-business-suit-swap.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。"
     },
     {
       "id": "i2i-31-beach-wave-hair-transformation",
@@ -2864,7 +3046,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-31-beach-wave-hair-transformation.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-31-beach-wave-hair-transformation.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-31-beach-wave-hair-transformation.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。"
     },
     {
       "id": "i2i-32-streetwear-style-conversion",
@@ -2901,7 +3087,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-32-streetwear-style-conversion.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-32-streetwear-style-conversion.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-32-streetwear-style-conversion.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "marketing",
+      "primary_style": "realistic",
+      "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
+      "tagline_zh": "时尚编辑级视觉，可直接用于品牌活动与造型册。"
     },
     {
       "id": "i2i-33-beach-jewelry-display",
@@ -2938,7 +3128,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-33-beach-jewelry-display.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-33-beach-jewelry-display.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-33-beach-jewelry-display.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-34-boho-tote-bag-lifestyle",
@@ -2975,7 +3169,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-34-boho-tote-bag-lifestyle.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-34-boho-tote-bag-lifestyle.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-34-boho-tote-bag-lifestyle.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-35-premium-3d-podium-product-shot",
@@ -3012,7 +3210,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-35-premium-3d-podium-product-shot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-35-premium-3d-podium-product-shot.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-35-premium-3d-podium-product-shot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-36-underwater-bottle-shot",
@@ -3049,7 +3251,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-36-underwater-bottle-shot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-36-underwater-bottle-shot.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-36-underwater-bottle-shot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-37-marble-countertop-skincare",
@@ -3086,7 +3292,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-37-marble-countertop-skincare.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-37-marble-countertop-skincare.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-37-marble-countertop-skincare.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-38-ecommerce-white-background",
@@ -3123,7 +3333,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-38-ecommerce-white-background.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-38-ecommerce-white-background.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-38-ecommerce-white-background.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-39-floating-hero-lipstick-shot",
@@ -3160,7 +3374,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-39-floating-hero-lipstick-shot.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-39-floating-hero-lipstick-shot.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-39-floating-hero-lipstick-shot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-40-flatlay-kitchen-knife",
@@ -3197,7 +3415,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-40-flatlay-kitchen-knife.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-40-flatlay-kitchen-knife.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-40-flatlay-kitchen-knife.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "business",
+      "primary_style": "realistic",
+      "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
+      "tagline_zh": "电商级产品图，光线干净、构图利落。"
     },
     {
       "id": "i2i-41-background-replacement-sunset-city",
@@ -3234,7 +3456,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-41-background-replacement-sunset-city.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-41-background-replacement-sunset-city.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-41-background-replacement-sunset-city.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-42-pure-white-studio-replace",
@@ -3271,7 +3497,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-42-pure-white-studio-replace.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-42-pure-white-studio-replace.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-42-pure-white-studio-replace.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-43-object-removal-cleanup",
@@ -3306,7 +3536,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-43-object-removal-cleanup.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-43-object-removal-cleanup.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-43-object-removal-cleanup.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-44-cinematic-teal-orange-grade",
@@ -3343,7 +3577,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-44-cinematic-teal-orange-grade.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-44-cinematic-teal-orange-grade.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-44-cinematic-teal-orange-grade.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-45-portrait-skin-eye-enhance",
@@ -3380,7 +3618,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-45-portrait-skin-eye-enhance.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-45-portrait-skin-eye-enhance.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-45-portrait-skin-eye-enhance.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-46-movie-poster-treatment",
@@ -3417,7 +3659,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-46-movie-poster-treatment.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-46-movie-poster-treatment.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-46-movie-poster-treatment.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-47-high-contrast-b-w-portrait",
@@ -3454,7 +3700,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-47-high-contrast-b-w-portrait.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-47-high-contrast-b-w-portrait.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-47-high-contrast-b-w-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-48-before-after-split-compare",
@@ -3491,7 +3741,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-48-before-after-split-compare.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-48-before-after-split-compare.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-48-before-after-split-compare.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "personal",
+      "primary_style": "realistic",
+      "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
+      "tagline_zh": "专业级修图与增强，让普通照片立刻提升一档。"
     },
     {
       "id": "i2i-49-line-drawing-sketch-on-notebook",
@@ -3528,7 +3782,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。"
     },
     {
       "id": "i2i-50-fantasy-magic-effect-aura",
@@ -3565,7 +3823,11 @@
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-50-fantasy-magic-effect-aura.png",
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@main/case-images/i2i-50-fantasy-magic-effect-aura.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-50-fantasy-magic-effect-aura.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "usage_category": "content",
+      "primary_style": "illustration",
+      "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
+      "tagline_zh": "富有想象力的创意视觉，适合内容创作与社交分享。"
     }
   ],
   "image_host": {
@@ -3577,5 +3839,45 @@
     "pinned_commit_sha": "e180f6836e6f60d175de47e48a82d162b99e7a80",
     "persistence": "permanent (public GitHub repo, MIT-licensed) + global CDN via jsDelivr",
     "note": "preview_image is SHA-pinned for immutability. preview_image_latest follows main branch and reflects future updates. preview_image_raw is the GitHub raw fallback if jsDelivr is unreachable."
-  }
+  },
+  "usage_categories": [
+    {
+      "id": "personal",
+      "count": 25
+    },
+    {
+      "id": "business",
+      "count": 18
+    },
+    {
+      "id": "content",
+      "count": 12
+    },
+    {
+      "id": "marketing",
+      "count": 10
+    }
+  ],
+  "primary_styles": [
+    {
+      "id": "realistic",
+      "count": 41
+    },
+    {
+      "id": "illustration",
+      "count": 12
+    },
+    {
+      "id": "3d_render",
+      "count": 5
+    },
+    {
+      "id": "poster",
+      "count": 4
+    },
+    {
+      "id": "minimal",
+      "count": 3
+    }
+  ]
 }
