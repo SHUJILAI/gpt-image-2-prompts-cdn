@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "convenience-store-neon-portrait",
+    "category": "portraits-photography",
+    "title": "Convenience Store Neon Portrait",
+    "description": "Late-night convenience store film portrait with mixed fluorescent and neon lighting, cinematic 35mm grain.",
+    "prompt": "35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, cinematic street editorial style, intimate medium shot, late-night convenience store atmosphere, realistic reflections on glass, natural skin texture, oversized white shirt, black mini skirt, messy high ponytail, seductive but grounded urban portrait energy, no watermark, no text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/01-convenience-store-neon.webp"
+  },
+  {
+    "id": "sci-fi-movie-teaser-poster",
+    "category": "movie-cinematic",
+    "title": "Sci-Fi Movie Teaser Poster — INVENTOR",
+    "description": "16:9 cinematic teaser with a lone silhouette facing a massive holographic chamber, golden volumetric light, serif title typography.",
+    "prompt": "Create a cinematic sci-fi movie teaser poster in 16:9 landscape format. A lone woman stands in silhouette at the center, viewed from behind, facing an enormous cubic chamber filled with thousands of glowing holographic screens and data panels stretching in every direction. The screens display fragments of landscapes, cities, galaxies, and abstract data. A bright golden-white light source emanates from the center of the chamber, casting volumetric rays and lens flare. The title 'INVENTOR' is displayed in wide-spaced uppercase serif typography at the bottom center. Below it, the tagline 'DISCOVERY IS JUST THE BEGINNING' in smaller caps, and 'COMING SOON' at the very bottom. Dark moody atmosphere, deep blues and warm amber highlights, photorealistic lighting, epic sense of scale, no other characters visible.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/02-sci-fi-teaser.webp"
+  },
+  {
+    "id": "soft-airy-35mm-portrait",
+    "category": "portraits-photography",
+    "title": "Soft Airy 35mm Portrait",
+    "description": "Pastel-toned, airy Japanese-style portrait near a window with soft diffused daylight.",
+    "prompt": "Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head), young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair, oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling, standing naturally with relaxed posture, arms loosely at sides, facing camera, gentle soft smile, subtle stillness, focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/03-airy-35mm.webp"
+  },
+  {
+    "id": "vintage-amalfi-travel-poster",
+    "category": "travel-poster",
+    "title": "Vintage Amalfi Travel Poster",
+    "description": "Retro 1950s screen-print travel poster of the Amalfi Coast with classic white car and lemon trees.",
+    "prompt": "Modern pencil illustration of a vintage travel poster for the Amalfi Coast, Italy. Panoramic coastal cliff road scene, a classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, pastel hillside village, bright blue sky, and lemon tree branches framing the foreground. Warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, screen print texture, hand-drawn contours, and a decorative editorial finish.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/04-amalfi-travel.webp"
+  },
+  {
+    "id": "vintage-newspaper-front-page",
+    "category": "poster-flyer",
+    "title": "Vintage Newspaper Front Page",
+    "description": "Hyper-real B&W newspaper front page with masthead, columns, headline and aged paper texture.",
+    "prompt": "Create the most realistic front page design of a vintage newspaper. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic. The main photo should be prominently placed in the center, framed like an editorial article header. Create a bold, attention-grabbing headline at the top with a smaller subtitle underneath. Add realistic newspaper elements: columns of small text, a fictitious publication name at the top, date, issue number and location, decorative lines, dividers, and vintage typography, small additional articles or captions. Style: black and white or slightly faded monochrome paper, fine paper texture, grain, and ink defects, small shadows and creases that mimic real printed paper. The aesthetics of a clean but slightly worn vintage newspaper. Aspect ratio: 4:5, high-detail, ultra-realistic hybrid of editorial photography and print design.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/05-newspaper.webp"
+  },
+  {
+    "id": "adventure-character-design-sheet",
+    "category": "character-design",
+    "title": "Adventure Character Design Sheet — Lira",
+    "description": "Production-ready character turnaround with expressions, equipment breakdown, palette and silhouette poses.",
+    "prompt": "Create a detailed character design sheet for 'Lira', a young female explorer-mechanic-inventor who travels across frozen lands in search of forgotten technology. Include front, side, and back turnaround views showing her full outfit: olive-green fur-lined parka with hood, golden knit scarf, brown utility belt with brass buckle, cargo pants, and insulated boots. Add a row of six facial expressions (default, happy, determined, surprised, angry, sad). Include an equipment breakdown section showing gloves, tool pouch, belt and buckle, and boots as separate items. Add a warm earth-tone color palette strip, three silhouette poses, and a small 'World' thumbnail showing a snowy mountain village. Clean off-white background, thin layout guides, semi-realistic painterly illustration style with soft lighting and visible brushwork.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/06-character-sheet.webp"
+  },
+  {
+    "id": "browser-game-ad-creative-poster",
+    "category": "poster-flyer",
+    "title": "Pro Browser Game Ad Poster",
+    "description": "1:1 polished promo poster with strong hierarchy and modern campaign typography.",
+    "prompt": "Create a 1:1 promotional poster that feels like it was designed by a professional ad designer. Make it suitable for books, courses, events, or browser-game promotion. Use strong visual hierarchy, polished typography, bold but modern composition, clear callout text blocks, and premium campaign-level finishing.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/07-game-ad.webp"
+  },
+  {
+    "id": "fujifilm-strawberry-school-portrait",
+    "category": "portraits-photography",
+    "title": "Fujifilm Strawberry School Portrait",
+    "description": "9:16 Fuji Pro 400H school-uniform portrait with halation, soft daylight and a strawberry held to lips.",
+    "prompt": "9:16 vertical – Japanese Fuji film style portrait, single subject. Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette. Bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere. Young female idol, natural minimal makeup, fresh glowing skin, realistic texture. Outfit: Japanese school uniform (sailor-style or blazer), neatly styled, youthful and clean. Hair: natural dark hair, straight or softly flowing, a few loose strands. Pose: front-facing, relaxed posture, one hand gently holding a strawberry near lips, mid-action as if about to take a bite. Expression: soft playful gaze, light smile, gentle eye contact with camera. Setting: minimal indoor near window, clean background, everyday atmosphere. Mood: fresh, youthful, sweet everyday moment, understated charm.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/09-fuji-strawberry.webp"
+  },
+  {
+    "id": "starfall-reserve-gacha-banner",
+    "category": "gaming-ui",
+    "title": "STARFALL RESERVE Gacha Banner",
+    "description": "Premium fictional gacha lootbox banner with rarity tiers, cosmic palette and event countdown layout.",
+    "prompt": "Create a premium, highly believable Lootbox / Capsule Drop Ad for an imaginary drop called 'STARFALL RESERVE'. Design as a vertical gacha banner: featured character lineup at the top with glowing aura, rarity tier system (common, rare, epic, legendary, mythic) with distinct iconography, event duration countdown ('LIMITED — ENDS IN 7D 12H'), drop rate table at the bottom, sparkling particles and cosmic nebula background. Color palette: midnight blue, deep purple, silver, with violet accent glow. Typography: ornate metallic gold serif title, clean white body, neon-edged buttons. Mood: prestige, anticipation, premium gacha monetization aesthetic.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/10-gacha-banner.webp"
+  },
+  {
+    "id": "astra-loop-console-ad",
+    "category": "product-photography",
+    "title": "ASTRA LOOP Handheld Console Ad",
+    "description": "Minimalist Apple-style launch poster for a fictional handheld gaming device.",
+    "prompt": "Create a premium, highly believable fictional handheld game console launch ad for a device called 'ASTRA LOOP'. Design language: minimalist futurist, soft industrial curves, matte white front bezel, charcoal back, recessed thumbsticks, circular accent OLED. Studio lighting on a soft gradient background (warm gray to off-white), subtle floor reflection. Layout: oversized device hero shot left, clean serif logotype 'ASTRA LOOP' top right, tagline 'Carry the loop. Carry the future.' below, three feature bullet rows with monoline icons (display, battery, haptics), and a small 'LAUNCHING SOON' chip. Apple/Sony product launch poster aesthetic. Aspect ratio 16:9.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/11-astra-loop.webp"
+  },
+  {
+    "id": "zenleaf-wellness-tea-poster",
+    "category": "product-photography",
+    "title": "ZENLEAF Wellness Tea Poster",
+    "description": "Premium spa-mood tea brand campaign with sage palette and fresh ingredients.",
+    "prompt": "Create a premium wellness advertising poster for an imaginary tea brand called 'ZENLEAF'. Hero composition: a steaming ceramic cup beside an opened tea box, surrounded by fresh herbs, ginger root, dried citrus and loose leaves, soft morning sunlight on a pale linen surface. Color palette: soft sage green, cream, warm beige, with accents of gold foil. Typography: refined modern serif for the brand name, lowercase friendly sans for the tagline 'A quieter morning.' Add small ingredient callouts in italic, a 'ORGANIC · SLOW CRAFTED' lockup at bottom. Style: editorial wellness ad, spa-like calm, premium commercial photography. 4:5 vertical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/12-zenleaf-tea.webp"
+  },
+  {
+    "id": "black-reliquary-boss-fight-screen",
+    "category": "gaming-ui",
+    "title": "BLACK RELIQUARY Boss Fight Screen",
+    "description": "Soulslike-style boss reveal UI with gothic cathedral framing and HP encounter hierarchy.",
+    "prompt": "Create a premium, highly believable soulslike boss-fight intro screen UI. Boss name 'MOTHER VEYR — THE HOLLOW MATRIARCH' rendered in tall narrow blackletter at the lower-third, with a thin animated HP bar beneath broken into 3 phase segments. Background: a silhouette of a towering robed figure inside a ruined gothic cathedral, broken stained glass shafts of cold blue light, particle ash drifting upward. UI ornaments at the corners: filigree gothic frames, a small relic-icon at top center. Color: bone white, cold cyan, deep burgundy. 16:9 in-game UI mockup, photorealistic environment with crisp diegetic UI.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/14-boss-fight.webp"
+  },
+  {
+    "id": "k-fashion-editorial-poster",
+    "category": "fashion-editorial",
+    "title": "K-Fashion Editorial Poster",
+    "description": "Hyper-stylized fashion editorial cover with pop-art typography and holographic effects.",
+    "prompt": "Ultra-stylized high-fashion editorial poster of a confident young Asian female model, retro pop-art magazine aesthetics combined with iridescent holographic effects, 2000s Y2K-meets-modern luxury styling, oversized sunglasses, chrome accessories. Composition: full body slightly low angle on a colored seamless backdrop, magazine masthead 'NEON / SEOUL' top in bold display type, issue date and barcode bottom right, scattered editorial captions in tiny serif italic, glossy magazine paper finish. 8K hyper-detailed, fashion editorial cover energy. 4:5 vertical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/15-kfashion.webp"
+  },
+  {
+    "id": "baskin-robbins-campaign-poster",
+    "category": "food-drink",
+    "title": "Surreal Ice Cream Fantasy Campaign",
+    "description": "Brand campaign visual with oversized typography and a dreamlike ice-cream universe.",
+    "prompt": "Create a surreal ice-cream fantasy world campaign visual for an imaginary fictional ice-cream brand. A colossal sundae mountain rises from a candy ocean, oversized scoops rendered with hyper-real texture, sprinkles falling like rain, floating waffle-cone islands. Oversized statement typography: '31 FLAVORS. ONE FANTASY.' set in a chunky display serif, cracked ice texture on the letters. Color palette: bubblegum pink, cream, mint, butter yellow. Mood: joyful, magical realism, premium FMCG advertising. 4:5 vertical campaign poster.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/16-icecream.webp"
+  },
+  {
+    "id": "spring-mineral-water-ad",
+    "category": "product-photography",
+    "title": "SPRING Mineral Water Ad",
+    "description": "Crystal-clean beverage ad with droplets and forest-green palette.",
+    "prompt": "Premium mineral water advertisement poster featuring a fresh-faced young man beside a crystal-clear glass bottle covered in chilled water droplets, splashes frozen mid-air around the bottle. Background: minimalist gradient of arctic white to forest green, soft fog, hint of pine silhouettes. Typography: clean modern sans serif brand name 'SPRING' large and centered above the bottle, tagline 'Pure since the first stone.' below, small certification icons at bottom. Premium beverage advertising style, hyper-real macro detail. 4:5 vertical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/17-water-ad.webp"
+  },
+  {
+    "id": "golden-morn-cereal-campaign",
+    "category": "food-drink",
+    "title": "GOLDEN MORN Cereal Campaign",
+    "description": "Viral FMCG breakfast poster with retro-modern typography and floating ingredients.",
+    "prompt": "Create a viral FMCG poster campaign for a breakfast cereal brand 'GOLDEN MORN'. Hero: a ceramic bowl of golden cereal flakes with milk splash mid-pour, oversized retro-modern condensed display typography 'GOOD MORNINGS START LOUD', floating breakfast ingredients (oats, honey drizzle, blueberries, almonds) suspended around the bowl on a sunlit kitchen counter, bright golden hour lighting, warm pastel kitchen background. Premium commercial food photography, vibrant healthy energy, 1:1 social-first format.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/18-cereal.webp"
+  },
+  {
+    "id": "high-contrast-bw-portrait",
+    "category": "portraits-photography",
+    "title": "High-Contrast B&W Studio Portrait",
+    "description": "85mm cinematic black-and-white portrait with deep shadow falloff and razor-sharp skin detail.",
+    "prompt": "High-contrast black and white portrait shot on an 85mm prime lens with shallow depth of field, dramatic cinematic key light from upper left, deep dark out-of-focus area on the right of frame, highly detailed skin texture and individual hair strands, subtle catchlights in the eyes, charcoal-gray seamless backdrop, subject wearing a black turtleneck. Mood: pensive, classic editorial. 4:5 portrait crop, no text or watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/19-bw-portrait.webp"
+  },
+  {
+    "id": "consistent-2x2-grid-poses",
+    "category": "social-media",
+    "title": "Consistent Character 2×2 Grid",
+    "description": "Identity-locked 2×2 grid showing the same character in four poses for storyboarding and merch.",
+    "prompt": "Create a 2×2 grid (2 rows × 2 columns) of four vertical full-body images of the SAME subject. Maintain identical face, hair, body proportions, outfit and lighting across all four panels. Vary only the pose: (1) standing relaxed front view, (2) hands-in-pockets three-quarter, (3) walking side profile, (4) leaning casually back-against-wall. Soft neutral studio backdrop, consistent shadow direction, photoreal. Use thin white gutters between panels. 1:1 final canvas.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/20-2x2-grid.webp"
+  },
+  {
+    "id": "miniature-diorama-skincare-ad",
+    "category": "product-photography",
+    "title": "Miniature Diorama Skincare Ad",
+    "description": "Tilt-shift hyper-real ad with construction-worker figurines scaling a giant skincare bottle.",
+    "prompt": "Hyper-realistic miniature diorama product advertisement. Hero: an oversized luxury skincare pump bottle labeled 'LUXEVEIL Skin Science — Radiance Nourishing Body Lotion'. Tiny construction-worker figurines climb scaffolding around the bottle, polishing the glass and pumping cream onto a giant cotton pad. Tilt-shift focus, soft daylight, pale pink seamless background, exaggerated scale contrast, photoreal CGI craftsmanship. Add a small product hero shot bottom-right with serif-modern brand wordmark. 4:5 vertical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/21-diorama-skincare.webp"
+  },
+  {
+    "id": "3d-liquid-art-poster",
+    "category": "illustration-3d",
+    "title": "3D Liquid Art Poster",
+    "description": "Vertical poster with giant glossy liquid blobs in saturated neon palette.",
+    "prompt": "Mesmerizing vertical poster featuring giant 3D liquid fluid sculpture forms — enormous glossy morphing blob shapes intertwined in mid-air, ultra-glossy chrome and translucent wax-like surfaces with subsurface scattering, splashes and droplets frozen at peak motion. Saturated neon palette: hot magenta, cyan, lime, with a soft black studio backdrop and rim lighting. No text. Ultra-high-resolution CGI render, 3:4 vertical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/22-liquid.webp"
+  },
+  {
+    "id": "3d-typography-travel-poster",
+    "category": "travel-poster",
+    "title": "3D Typography Travel Poster",
+    "description": "Each letter of a destination name is sculpted from that city's iconic landmarks.",
+    "prompt": "Create a 3:2 premium 3D typography-based travel poster for [CITY]. Each letter of the destination name is built from realistic sculptural architecture and textures specific to that city — landmarks, vegetation, transit, materials. Cinematic hour lighting, soft shadows on a creamy paper background, small editorial lockup at the bottom: 'VISIT [CITY] · SINCE [YEAR]'. Hybrid of CGI sculpture and luxury travel ad. No watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/23-3d-typography.webp"
+  },
+  {
+    "id": "ink-etched-family-portrait",
+    "category": "illustration-3d",
+    "title": "Ink-Etched Family Portrait",
+    "description": "Hand-drawn pen-and-ink crosshatching family portrait on textured paper.",
+    "prompt": "A black-and-white hand-drawn family portrait in the style of detailed pen-and-ink crosshatching on textured warm-white paper, showing 4 people in a formal compositional arrangement (two parents seated, two children standing behind). Etching aesthetic, fine line detail, subtle stippling for shadows, slight paper grain and ink bleed. Small engraved-style nameplate at the bottom: 'THE FAMILY · EST. [YEAR]'. 4:5 vertical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/24-ink-family.webp"
+  },
+  {
+    "id": "chibi-3d-mini-me",
+    "category": "illustration-3d",
+    "title": "Chibi 3D Mini Me Photo Effect",
+    "description": "Multiple tiny chibi 3D versions of the same person interact across the original photo.",
+    "prompt": "Take the uploaded photo. Composite multiple miniature 'chibi 3D' versions of the same person around the scene: sitting on the shoulder, climbing the arm, playing with a coffee cup, peeking from a pocket. Each mini-me has the same face likeness, hairstyle and outfit as the original subject but rendered in toy-like rounded 3D. Soft volumetric lighting, slight contact shadows, magical realism. Keep the original photo untouched as the background. 1:1 square.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/25-chibi-3d.webp"
+  },
+  {
+    "id": "luxury-chocolate-campaign",
+    "category": "product-photography",
+    "title": "Noirvelle Chocolat Luxury Campaign",
+    "description": "Square premium chocolate ad with gold-foil typography and editorial product photography.",
+    "prompt": "Create a premium square (1:1) product advertisement for a fictional luxury chocolate brand 'Noirvelle Chocolat'. Hero composition: a row of three chocolate bars with sculpted facets, fragments breaking off mid-air, cocoa nibs and gold leaf scattered on a dark slate surface. Lighting: low-key directional with warm rim. Typography: tall serif wordmark 'NOIRVELLE' in gold foil at top, subtitle 'CHOCOLAT · CRAFTED IN PARIS' below, small percentage badges (70%, 80%, 90%) under each bar. Editorial luxury food photography. Premium dark mood.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/26-chocolate.webp"
+  },
+  {
+    "id": "istanbul-line-art-poster",
+    "category": "travel-poster",
+    "title": "Istanbul Line-Art Travel Poster",
+    "description": "Minimalist line-art travel poster portraying Istanbul as a stylish urban scene.",
+    "prompt": "Create a minimalist ultra-high-resolution travel poster in line-art style for ISTANBUL. Portray the city as a stylish everyday urban scene: silhouettes of minarets and the Bosphorus on the horizon, a tram, a tea seller, pedestrians with umbrellas, and a single seagull, all rendered in clean architectural pen lines on warm cream paper. Hand-lettered title 'ISTANBUL' top, subtitle 'BETWEEN TWO SEAS' below. Negative space dominant. 9:16 vertical poster.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/27-istanbul.webp"
+  },
+  {
+    "id": "vr-headset-exploded-view",
+    "category": "infographic-educational",
+    "title": "VR Headset Exploded-View Infographic",
+    "description": "9-layer exploded-view tech diagram with labeled callouts and gradient studio lighting.",
+    "prompt": "Clean high-tech 3D render exploded-view product diagram poster of a VR headset (Meta Quest 3 style). Studio lighting, glowing accents, soft purple and blue gradient background. Show a 9-layer internal component stack — outer shell, sensors array, lenses, display panels, mainboard, battery, foam, strap, controllers — separated vertically with thin guide lines. Labeled callouts on left and right sides with technical specs. Bilingual labels: large English component names, smaller Japanese subtitles. 4:5 vertical infographic.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/28-vr-exploded.webp"
+  },
+  {
+    "id": "anime-martial-arts-battle",
+    "category": "illustration-3d",
+    "title": "Anime Martial Arts Battle",
+    "description": "Dynamic anime cel illustration of a high-impact dojo duel with speed lines and chromatic light.",
+    "prompt": "Anime-style illustration of a high-impact martial arts battle between two young female fighters in a traditional wooden dojo. Dynamic action poses captured mid-strike, speed lines radiating outward, splintered wooden floor, dust and cherry blossoms swirling, dramatic backlight through shoji screens. Cel-shaded line work with bold linework, vibrant rim lights in pink and cyan. 16:9 cinematic anime key visual.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/29-anime-battle.webp"
+  },
+  {
+    "id": "watercolor-city-food-map",
+    "category": "illustration-3d",
+    "title": "Illustrated City Food Map",
+    "description": "Hand-drawn watercolor and ink food map of a city on aged parchment paper.",
+    "prompt": "Hand-drawn watercolor and ink food map illustration on vintage parchment paper. Bird's-eye view of a city's food district with stylized streets and landmarks, dotted with illustrated food icons (ramen bowl, dumplings, croissants, espresso, sushi, tacos) at their respective restaurants, hand-lettered restaurant names beside each icon, decorative compass rose and inset legend. Soft watercolor washes, sepia ink lines, slightly aged paper texture. 3:4 vertical poster, no photographic elements.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/30-food-map.webp"
+  },
+  {
+    "id": "iphone-app-store-mockup",
+    "category": "ui-app-mockup",
+    "title": "iPhone App Store Lifestyle Mockup",
+    "description": "Realistic warm wooden-desk iPhone mockup for App Store screenshots and product launches.",
+    "prompt": "Realistic lifestyle mockup of a black iPhone resting on a warm wooden desk in golden afternoon sunlight. The screen displays a clean app UI mockup (replace with your design) with a status bar, hero card, and action buttons. Soft shadow under the device, blurred objects in the background (notebook, coffee cup, plant) for context. Shot from a 30° overhead angle, 4:5 vertical, photoreal commercial product photography quality.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/31-iphone-mockup.webp"
+  },
+  {
+    "id": "fashion-collage-9panel",
+    "category": "social-media",
+    "title": "Multi-Panel Fashion Collage",
+    "description": "Vertical 9:16 five-panel fashion collage with neon-themed pose, hair and outfit variations.",
+    "prompt": "Vertical 9:16 five-panel fashion editorial collage of the same model. Each panel features a different outfit, hairstyle, accessory and pose, all unified by a neon palette (electric blue, magenta, lime). Thin white gutters between panels. Background: textured concrete with chromatic lighting gels. Full-body framing, dynamic editorial energy, magazine-cover aesthetic, glossy finish.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/32-fashion-collage.webp"
+  },
+  {
+    "id": "stone-staircase-evolution-infographic",
+    "category": "infographic-educational",
+    "title": "Stone-Staircase Evolution Infographic",
+    "description": "3D realistic infographic with a stone-stepped evolutionary timeline of organisms.",
+    "prompt": "Realistic 3D infographic showing a stone-stepped evolutionary timeline. Each step is a chiselled stone block ascending diagonally across the frame, and on each block stands a different organism — single cell, fish, amphibian, reptile, early mammal, primate, modern human. Cinematic side lighting, dust motes in air, mossy textures, subtle scientific labels in serif type beside each step (era name, million-years-ago value). Soft warm sunset background. 16:9 widescreen poster.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/33-evolution.webp"
+  },
+  {
+    "id": "youtube-thumbnail-mrbeast",
+    "category": "social-media",
+    "title": "Viral YouTube Thumbnail",
+    "description": "High-CTR MrBeast-style thumbnail with shocked face, big block text, and arrow callouts.",
+    "prompt": "Viral YouTube thumbnail in MrBeast / high-CTR style. Composition: a shocked face on the left looking off-frame, oversized 3D chunky block text on the right reading '$1,000,000 IN 24H', red arrow pointing at a mysterious silver briefcase, bright saturated colors (yellow, red, electric blue), thick black outline on every element, soft drop shadows, slight tilt for energy. 16:9, 1280×720 thumbnail layout, no watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/34-yt-thumbnail.webp"
+  },
+  {
+    "id": "linkedin-pro-headshot",
+    "category": "portraits-photography",
+    "title": "Studio LinkedIn Pro Headshot",
+    "description": "Polished business headshot with soft beauty dish lighting and neutral backdrop.",
+    "prompt": "Professional LinkedIn headshot, soft beauty-dish key light from camera-right, subtle hair light, light grey gradient backdrop, tight chest-up framing, subject in a charcoal blazer over a white shirt, calm confident expression, sharp focus on the eyes, retouched but natural skin, slight contrast lift. 4:5 portrait, no text or watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/35-linkedin.webp"
+  },
+  {
+    "id": "v2-02-boston-spring-2026-city-poster",
+    "category": "travel-poster",
+    "title": "Boston Spring 2026 City Poster",
+    "description": "Striking Spring 2026 city poster for Boston with elegant celebratory mood and bold contemporary design.",
+    "prompt": "Striking Spring 2026 city poster for Boston with elegant celebratory mood and bold contemporary design. On clean off-white textured background with generous negative space, place a miniature single sculler in the lower-right corner rowing across a narrow ribbon of reflective water. Let the wake curve upward and gradually transform into the Charles River, then into a dreamlike hand-painted panorama of Boston featuring the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, the Zakim Bridge, harbor ferries, and historic brick architecture. Add soft morning fog, golden spring light, subtle crimson and gold festive accents, layered depth, and premium editorial typography reading \"SPRING 2026\" with a vertical slogan \"BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION\". Vertical poster ratio, polished graphic-design finish.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/boston-spring-2026-city-poster.webp"
+  },
+  {
+    "id": "v2-03-build-2026-tech-conference-banner",
+    "category": "poster-flyer",
+    "title": "BUILD 2026 Tech Conference Banner",
+    "description": "A digital event banner for a tech conference called \"BUILD 2026\".",
+    "prompt": "A digital event banner for a tech conference called \"BUILD 2026\". Dark grey background with a subtle geometric grid pattern, faint scan lines and a soft cyan glow in the top-right. Title \"BUILD 2026\" in oversized white bold sans-serif, left-aligned, 60% of the banner width. Subtitle \"THE FUTURE OF AGENTIC SOFTWARE\" in thin uppercase, kerned wide, in cyan. Lower-right: dates \"OCT 14 – 16 · SAN FRANCISCO\" and a small registration QR code. 16:9 aspect ratio. Crisp text, no logo drift.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-03-build-2026-tech-conference-banner.webp"
+  },
+  {
+    "id": "v2-04-coffee-shop-a2-qr-poster",
+    "category": "poster-flyer",
+    "title": "Coffee Shop A2 QR Poster",
+    "description": "A modern minimalist coffee shop poster, A2 portrait.",
+    "prompt": "A modern minimalist coffee shop poster, A2 portrait. Cream background, single hand-drawn line illustration of a pour-over kettle and dripper centered upper third. Headline \"SLOW POUR / SLOW MORNING\" in mixed serif and italic, two lines. Mid-poster body text in small sans: \"Single origin Ethiopia Yirgacheffe — bright, floral, citrus. Brewed every morning from 7:30.\" Bottom-right corner: a real scannable QR code labeled \"MENU\". Subtle paper grain. No watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-04-coffee-shop-a2-qr-poster.webp"
+  },
+  {
+    "id": "v2-05-detective-investigation-board",
+    "category": "movie-cinematic",
+    "title": "Detective Investigation Board",
+    "description": "A cinematic photograph of a 1970s detective's investigation board pinned to a dim office wall.",
+    "prompt": "A cinematic photograph of a 1970s detective's investigation board pinned to a dim office wall. Cork board, red and black yarn connecting Polaroid photos of suspects, handwritten index cards reading \"MOTIVE?\", \"ALIBI 22:14\", \"GREEN SEDAN\", a folded newspaper headline \"TOWN SHAKEN BY MURDER\", a coffee-stained map of the city with a circled location, a desk lamp casting harsh side light, smoke drifting from an ashtray, shallow depth of field. Slight film grain, warm tungsten color cast. All handwritten text legible.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-05-detective-investigation-board.webp"
+  },
+  {
+    "id": "v2-06-crypto-trading-dashboard-mockup",
+    "category": "ui-app-mockup",
+    "title": "Crypto Trading Dashboard Mockup",
+    "description": "A photorealistic screenshot mockup of a dark-mode crypto trading dashboard at 1440p.",
+    "prompt": "A photorealistic screenshot mockup of a dark-mode crypto trading dashboard at 1440p. Left sidebar with 8 navigation items (\"Dashboard\", \"Markets\", \"Portfolio\", \"Orders\", \"Funding\", \"Pro\", \"News\", \"Settings\"), each with a small monochrome icon. Top header: search bar, BTC ticker showing \"$74,218.40 +2.13%\", account avatar. Main panel: candlestick chart \"BTC / USDT — 1h\" with green/red wicks, volume bars below, technical overlays (EMA 50, EMA 200), order book on the right with bids in green and asks in red, recent trades feed at the bottom. All numbers consistent. Crisp UI typography, real shadows, no logo drift.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-06-crypto-trading-dashboard-mockup.webp"
+  },
+  {
+    "id": "v2-07-personal-finance-app-luma",
+    "category": "ui-app-mockup",
+    "title": "Personal Finance App — Luma",
+    "description": "A mobile UI mockup of a personal finance iOS app called \"Luma\", shown inside an iPhone 15 device frame.",
+    "prompt": "A mobile UI mockup of a personal finance iOS app called \"Luma\", shown inside an iPhone 15 device frame. Status bar 9:41, full battery, 5G. Top: greeting \"Good morning, Maya\" with a small profile pill. Hero card with rounded corners showing \"Total Balance · $12,840.27\" and a subtle gradient. Below: a 7-day spending sparkline. Three quick-action chips: \"Transfer\", \"Pay\", \"Invest\". Section \"Recent activity\" listing 4 realistic transactions (e.g. \"Whole Foods · -$48.12\", \"Spotify · -$10.99\", \"Stripe Payout · +$1,200.00\"). Bottom tab bar: Home / Transactions / Cards / Goals / Profile. Soft drop shadows, system font, generous whitespace.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-07-personal-finance-app-luma.webp"
+  },
+  {
+    "id": "v2-08-e-commerce-analytics-dashboard",
+    "category": "ui-app-mockup",
+    "title": "E-commerce Analytics Dashboard",
+    "description": "A photorealistic screenshot of a SaaS e-commerce analytics dashboard in light mode at 1440p.",
+    "prompt": "A photorealistic screenshot of a SaaS e-commerce analytics dashboard in light mode at 1440p. Top KPI row of four cards: \"Revenue · $84,210 · +12.4%\", \"Orders · 1,238 · +8.1%\", \"Avg Order · $68.02\", \"Conversion · 3.42%\". Center: a smooth multi-line area chart titled \"Revenue, last 30 days\" with two series (this period, previous period) and a tooltip pinned on a peak. Right column: \"Top products\" table with thumbnails, names, units sold and revenue. Bottom: traffic source donut chart with legend (Direct, Organic, Paid, Email, Social). Inter typeface, subtle shadows, 8px grid alignment.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-08-e-commerce-analytics-dashboard.webp"
+  },
+  {
+    "id": "v2-13-holographic-trading-card",
+    "category": "illustration-3d",
+    "title": "Holographic Trading Card",
+    "description": "A premium holographic trading card, vertical 3:4 layout.",
+    "prompt": "A premium holographic trading card, vertical 3:4 layout. Center: a cyberpunk samurai in a dynamic forward-leaning pose, vibrant cinematic backlighting in cyan and magenta. Border: ornate gold filigree with rune-like icons in the four corners. Top banner reads \"LEGENDARY\" in bold serif caps. Bottom panel: name plate \"REI · NIGHTBLADE\", three small stat icons (Power 92 / Speed 88 / Magic 71) with numeric values. Holographic foil effect with iridescent rainbow streaks, slight grain, soft studio backdrop. Crisp text, no logo drift.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-13-holographic-trading-card.webp"
+  },
+  {
+    "id": "v2-14-action-figure-blister-pack",
+    "category": "illustration-3d",
+    "title": "Action Figure Blister Pack",
+    "description": "A stylized 6-inch action figure of a young female astronaut, sealed inside a premium plastic blister pack, photographed straight-on.",
+    "prompt": "A stylized 6-inch action figure of a young female astronaut, sealed inside a premium plastic blister pack, photographed straight-on. The figure stands in a confident pose with a cracked helmet under one arm and a small flag in the other hand. Cardboard backing with the headline \"COSMIC EXPLORERS · WAVE 02\" in retro space-age font, character name plaque \"CDR. NOVA\" in the lower band, three accessory cutouts on the right (helmet, flag, mini rover). Studio softbox lighting, high-detail plastic texture, glossy bubble reflections, clean white background.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-14-action-figure-blister-pack.webp"
+  },
+  {
+    "id": "v2-15-isometric-miniature-workshop",
+    "category": "illustration-3d",
+    "title": "Isometric Miniature Workshop",
+    "description": "A 45° top-down isometric miniature 3D scene of a tiny indie-developer workshop diorama on a wooden display base.",
+    "prompt": "A 45° top-down isometric miniature 3D scene of a tiny indie-developer workshop diorama on a wooden display base. Soft refined PBR textures, realistic materials, clean unified composition, minimalist aesthetic. Tiny props integrated into the architecture: a glowing laptop with a deploy progress bar, a stack of books labelled \"AGENTS\", \"SDK\" and \"DESIGN\", a coffee mug, a plant. Studio softbox lighting, subtle ambient occlusion, pastel palette dominated by sage green and warm cream. Square 1:1 frame, centered subject, plenty of negative space.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-15-isometric-miniature-workshop.webp"
+  },
+  {
+    "id": "v2-16-6-panel-retro-superhero-comic",
+    "category": "character-design",
+    "title": "6-Panel Retro Superhero Comic",
+    "description": "A 6-panel retro American superhero comic page in a 2×3 grid, drawn in 1980s Marvel/DC style: bold black outlines, flat primary colors (red, blue, y…",
+    "prompt": "A 6-panel retro American superhero comic page in a 2×3 grid, drawn in 1980s Marvel/DC style: bold black outlines, flat primary colors (red, blue, yellow), Ben-Day halftone shading, slight aged paper texture, thin black panel borders with white gutters. Panel 1: female hero STARDUST in red cape and blue suit stands heroically. Caption: \"METRO CITY — DUSK.\" Speech: \"Trouble in the East District… time to fly!\" Panel 2: villain PROFESSOR GRIM beside a glowing doomsday device. Caption: \"MEANWHILE…\" Speech: \"In sixty seconds, this city will BOW to me!\" Panel 3: Stardust bursts through a window. Large SFX: \"KRA-KOOM!\" Panel 4: Stardust punches the villain. Speech: \"Not on my watch, Professor!\" Panel 5: villain tied up, small robot dog beside Stardust. Speech: \"Looks like class is dismissed, Doc.\" Panel 6: Stardust on a skyscraper overlooking the city. Caption: \"CONTINUED NEXT ISSUE!\" Consistent character design, classic all-caps comic lettering, vibrant inks. 16:9. No watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-16-6-panel-retro-superhero-comic.webp"
+  },
+  {
+    "id": "v2-17-cyberpunk-noir-manga-page",
+    "category": "character-design",
+    "title": "Cyberpunk Noir Manga Page",
+    "description": "A 2x2 black-and-white manga page in the style of late-90s seinen noir, screen-tone shading, sharp ink linework, dramatic angles.",
+    "prompt": "A 2x2 black-and-white manga page in the style of late-90s seinen noir, screen-tone shading, sharp ink linework, dramatic angles. Panel 1 (wide top): rain-soaked neon-lit alley, lone detective in a long coat, narration box \"Tokyo, 03:14. The case wasn't supposed to find me.\" Panel 2: close-up of detective's eyes under a wet brim hat, speech bubble \"…So why is it on my desk?\". Panel 3: he kicks open a metal door, SFX \"DON!\". Panel 4 (wide bottom): silhouette of a corporate suit at a window overlooking a megacity, speech bubble \"You should have stayed asleep, detective.\" Right-to-left reading order, vertical sound effects in katakana, deep blacks, fine halftone.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-17-cyberpunk-noir-manga-page.webp"
+  },
+  {
+    "id": "v2-18-hitman-in-openai-hq",
+    "category": "gaming-ui",
+    "title": "Hitman in OpenAI HQ",
+    "description": "An in-game screenshot from a Hitman-style stealth game.",
+    "prompt": "An in-game screenshot from a Hitman-style stealth game. The level is set inside the OpenAI HQ in San Francisco, sleek glass walls, exposed concrete, branded meeting rooms named \"GPT-6\", \"Sora\", \"Voice\". Agent 47 in a dark suit and red tie is hiding behind a meeting room glass partition watching two engineers walk past with laptops. Top-left HUD: minimap, mission objective \"STEAL GPT-6 WEIGHTS · NO WITNESSES\", suspicion meter low. Bottom-right: silenced pistol icon, fiber wire icon. Cinematic teal-and-orange grade, depth of field on the foreground plant, console-game look.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-18-hitman-in-openai-hq.webp"
+  },
+  {
+    "id": "v2-19-gta-6-beach-walk-screenshot",
+    "category": "gaming-ui",
+    "title": "GTA 6 Beach Walk Screenshot",
+    "description": "GTA 6 in-game footage, very detailed, very realistic.",
+    "prompt": "GTA 6 in-game footage, very detailed, very realistic. Close-up tracking shot taken from a stationary 4K monitor of a young woman in a tank top and shorts walking along a Vice City beach with her golden retriever on a leash. Bright morning light, palm trees, neon hotel signs in the soft-focus background, jet-skis in the bay. Top-left HUD: minimap, health bar, weapon wheel hint. Bottom-right ammo counter \"9mm · 12/120\". Subtle film grain, faint chromatic aberration, modern open-world realism.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-19-gta-6-beach-walk-screenshot.webp"
+  },
+  {
+    "id": "v2-21-sam-altman-skatepark-snapshot",
+    "category": "portraits-photography",
+    "title": "Sam Altman Skatepark Snapshot",
+    "description": "Sam Altman on a skateboard at an empty skatepark, late afternoon.",
+    "prompt": "Sam Altman on a skateboard at an empty skatepark, late afternoon. Casual dad-vibe outfit: gray hoodie, blue jeans, white sneakers. Mid-roll on a mellow ramp, slightly off-balance, half-grin. Shot with an iPhone, slight motion blur, no people in the background, harsh sun shadows. Looks like a real candid photo someone took on the way home, not a posed editorial.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-21-sam-altman-skatepark-snapshot.webp"
+  },
+  {
+    "id": "v2-22-tim-cook-apple-park-crowd-shot",
+    "category": "portraits-photography",
+    "title": "Tim Cook Apple Park Crowd Shot",
+    "description": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook on the Steve Jobs Theater stage in front of a giant title slide reading \"…",
+    "prompt": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook on the Steve Jobs Theater stage in front of a giant title slide reading \"INTRODUCING IPHONE 20\". Shot from the middle of the crowd at a distance, slightly tilted, raised hands and other phones in the foreground partially blocking the view. Dim auditorium, bright stage, slight glare on the lens, jpeg compression artifacts. No professional staging.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-22-tim-cook-apple-park-crowd-shot.webp"
+  },
+  {
+    "id": "v2-23-raw-iphone-subway-blur",
+    "category": "portraits-photography",
+    "title": "RAW iPhone Subway Blur",
+    "description": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality.",
+    "prompt": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in NYC, a momentary motion blur as the train enters. In front of the train, an elderly woman and an elderly man waiting near the yellow line, both wearing winter coats. Tile walls, fluorescent overhead lights, faint reflections on the platform floor. No HDR pop, no AI sharpening, just an honest snapshot.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-23-raw-iphone-subway-blur.webp"
+  },
+  {
+    "id": "v2-24-2003-digital-camera-family-snapshot",
+    "category": "portraits-photography",
+    "title": "2003 Digital Camera Family Snapshot",
+    "description": "Generate a photo from 2003, shot with a low-resolution digital camera, of a five-year-old child with their mom and dad in the courtyard of a reside…",
+    "prompt": "Generate a photo from 2003, shot with a low-resolution digital camera, of a five-year-old child with their mom and dad in the courtyard of a residential compound in China. Slight overexposure, harsh on-camera flash, red-eye effect, low dynamic range, bottom-right yellow date stamp \"2003 07 18\". Clothing typical of early-2000s mainland China: father in a polo shirt, mother in a floral blouse, child in shorts holding a popsicle. Concrete buildings, parked bicycles, a green tarp shade in the back.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-24-2003-digital-camera-family-snapshot.webp"
+  },
+  {
+    "id": "v2-25-90s-point-and-shoot-bedroom",
+    "category": "portraits-photography",
+    "title": "90s Point-and-Shoot Bedroom",
+    "description": "A 1990s point-and-shoot 35mm film snapshot of a teenage girl sitting on her bed, holding a portable CD player, headphones around her neck.",
+    "prompt": "A 1990s point-and-shoot 35mm film snapshot of a teenage girl sitting on her bed, holding a portable CD player, headphones around her neck. Posters of indie bands taped to the wall, a stack of magazines, fairy lights. Direct on-camera flash with hard shadow against the wall, slight red-eye, soft yellow-cyan color cast, heavy film grain, a small white date stamp \"08 14 99\" in the bottom-right corner. Composition slightly off-center, like a real personal photo.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-25-90s-point-and-shoot-bedroom.webp"
+  },
+  {
+    "id": "v2-26-convenience-store-night-group",
+    "category": "portraits-photography",
+    "title": "Convenience Store Night Group",
+    "description": "Create an ultra-realistic urban street group photo at a convenience store entrance at 10 PM, summer night.",
+    "prompt": "Create an ultra-realistic urban street group photo at a convenience store entrance at 10 PM, summer night. 3-4 young people briefly chatting, one holding a drink, one sitting on a plastic chair, one looking at their phone. Bright cool white light streaming through the glass doors and windows, warm yellow streetlights and distant car headlights outside. Everyday clothes: T-shirts, shorts, jeans, sneakers — no influencer styling. Faces and postures must look like real pedestrians, not overly polished. Real convenience-store details: freezer stickers, promo posters, a trash can, an entrance mat, glass reflections, a shared bike on the curb, water droplets from cold drink bottles on the ground. Looks like a candid photographer's slice-of-life shot.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-26-convenience-store-night-group.webp"
+  },
+  {
+    "id": "v2-27-35mm-cafe-window-portrait",
+    "category": "portraits-photography",
+    "title": "35mm Cafe Window Portrait",
+    "description": "A young woman by a rain-streaked café window at dusk, reading a worn paperback.",
+    "prompt": "A young woman by a rain-streaked café window at dusk, reading a worn paperback. 35mm film aesthetic, soft window light from the left, warm tungsten fill from the café interior, rain droplets in sharp focus on the glass, the city outside in soft bokeh with red and amber bus lights. Quiet, contemplative mood. Visible film grain, slight halation in highlights, gentle desaturation in shadows. No phones, no logos.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-27-35mm-cafe-window-portrait.webp"
+  },
+  {
+    "id": "v2-29-hands-kneading-bread-dough",
+    "category": "portraits-photography",
+    "title": "Hands Kneading Bread Dough",
+    "description": "A close-up photograph of weathered hands kneading bread dough on a floured wooden surface.",
+    "prompt": "A close-up photograph of weathered hands kneading bread dough on a floured wooden surface. Soft directional window light from the upper-left, fine flour dust caught in the beam, visible skin texture and small flour smears, dough showing realistic stretch and surface tension. Background slightly out of focus showing a linen towel and a vintage scale. Warm earthy tones, shallow depth of field, square 1:1 crop, editorial cookbook feel.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-29-hands-kneading-bread-dough.webp"
+  },
+  {
+    "id": "v2-30-rice-grain-micro-typography",
+    "category": "food-drink",
+    "title": "Rice Grain Micro Typography",
+    "description": "A massive pile of white rice grains, photographed with extreme macro lens at f/8.",
+    "prompt": "A massive pile of white rice grains, photographed with extreme macro lens at f/8. Shallow depth of field on a single grain near the center which has tiny, perfectly legible black engraved text reading \"wOw\". Soft daylight from above, gentle shadows between grains, no other text or markings on any other grain. Clean, almost scientific look. Aspect ratio 1:1.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-30-rice-grain-micro-typography.webp"
+  },
+  {
+    "id": "v2-31-caustic-whiskey-glass-study",
+    "category": "product-photography",
+    "title": "Caustic Whiskey Glass Study",
+    "description": "A cinematic still-life photograph of a cut-crystal whiskey tumbler with two ice cubes and amber whiskey, sitting on a polished black walnut surface.",
+    "prompt": "A cinematic still-life photograph of a cut-crystal whiskey tumbler with two ice cubes and amber whiskey, sitting on a polished black walnut surface. A single hard backlight produces sharp caustic light patterns through the crystal onto the wood. Tiny condensation droplets cling to the glass exterior, one slow drip running down. Dark moody background, slight smoke drifting through the beam. 100mm macro lens, f/5.6, no logos, no text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-31-caustic-whiskey-glass-study.webp"
+  },
+  {
+    "id": "v2-32-floating-sneaker-hero-shot",
+    "category": "product-photography",
+    "title": "Floating Sneaker Hero Shot",
+    "description": "A high-end sneaker (clean white runner with mint accents) photographed floating in front of a deep matte black background.",
+    "prompt": "A high-end sneaker (clean white runner with mint accents) photographed floating in front of a deep matte black background. Hard rim light from the upper-right outlining the silhouette, soft fill from below, realistic suspended shadow on an invisible surface. Tiny dust particles drifting in the light. Glossy laces with realistic tension and individual fiber detail. Subtle motion-blur drag on a shoelace tip. Studio commercial look, no brand logos.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-32-floating-sneaker-hero-shot.webp"
+  },
+  {
+    "id": "v2-33-artisan-honey-jar-label",
+    "category": "food-drink",
+    "title": "Artisan Honey Jar Label",
+    "description": "Product photography of a single artisan honey jar on a soft cream paper background with a faint linen texture.",
+    "prompt": "Product photography of a single artisan honey jar on a soft cream paper background with a faint linen texture. The jar has a hexagonal silhouette, raw cork lid, twine wrap, and a label that reads \"WILDFLOWER HONEY\" in serif uppercase, beneath it \"Harvest 2026 · 340g · raw / unfiltered\" in small italic. Subtle illustration of a honeycomb and a single bee on the label. Slow honey drip down the side, soft top-down side light, gentle shadow on the right. No other text, label perfectly aligned and legible.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-33-artisan-honey-jar-label.webp"
+  },
+  {
+    "id": "v2-34-watch-on-navy-velvet-macro",
+    "category": "product-photography",
+    "title": "Watch on Navy Velvet Macro",
+    "description": "A close-up macro photograph of a luxury automatic watch resting on dark navy velvet.",
+    "prompt": "A close-up macro photograph of a luxury automatic watch resting on dark navy velvet. Stainless steel case with brushed and polished surfaces, blue sunburst dial, applied silver indices, slim sword hands at 10:08. Shallow depth of field on the crown, fine fabric texture of the velvet, soft directional reflection on the polished bezel, faint warm reflection on the sapphire crystal. No brand logo on the dial — keep dial center clean. 100mm macro, f/4.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-34-watch-on-navy-velvet-macro.webp"
+  },
+  {
+    "id": "v2-35-solar-panel-infographic",
+    "category": "infographic-educational",
+    "title": "Solar Panel Infographic",
+    "description": "A clean editorial infographic titled \"HOW SOLAR PANELS WORK\" with five labeled horizontal flow steps from left to right, each in its own rounded ca…",
+    "prompt": "A clean editorial infographic titled \"HOW SOLAR PANELS WORK\" with five labeled horizontal flow steps from left to right, each in its own rounded card with a simple line icon: 1) \"SUNLIGHT HITS PANEL\" (sun + panel icon), 2) \"PHOTONS EXCITE ELECTRONS\" (atom icon), 3) \"DC ELECTRICITY GENERATED\" (battery icon), 4) \"INVERTER CONVERTS TO AC\" (wave icon), 5) \"POWERS YOUR HOME / GRID\" (house icon). Soft pastel palette: sage, sand, cream, soft yellow. Light off-white background, thin connecting arrows, small footnote text \"Source: U.S. DOE, 2025\". Crisp readable typography, no watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-35-solar-panel-infographic.webp"
+  },
+  {
+    "id": "v2-36-earth-layers-educational-diagram",
+    "category": "infographic-educational",
+    "title": "Earth Layers Educational Diagram",
+    "description": "A clean educational diagram of Earth's interior layers shown as a quartered cross-section.",
+    "prompt": "A clean educational diagram of Earth's interior layers shown as a quartered cross-section. From outside in: \"CRUST\" (thin grey-brown), \"UPPER MANTLE\" (warm orange), \"LOWER MANTLE\" (deep red-orange), \"OUTER CORE\" (bright molten yellow), \"INNER CORE\" (white-hot). Each layer labeled with its name, depth range in km (e.g. \"0–35 km\", \"35–660 km\", \"660–2900 km\", \"2900–5150 km\", \"5150–6371 km\") and a one-line description. Thin leader lines, soft pastel sky background, sans-serif labels, textbook style, all numbers correct.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-36-earth-layers-educational-diagram.webp"
+  },
+  {
+    "id": "v2-38-coffee-vs-tea-comparison",
+    "category": "food-drink",
+    "title": "Coffee vs Tea Comparison",
+    "description": "A two-column comparison infographic titled \"COFFEE vs TEA\".",
+    "prompt": "A two-column comparison infographic titled \"COFFEE vs TEA\". Left column header \"COFFEE\" in espresso brown with a steaming cup icon. Right column \"TEA\" in matcha green with a teacup icon. Six metric rows, each with an icon and clear values for both sides: \"CAFFEINE (mg / 8oz)\" 95 vs 47, \"ANTIOXIDANTS\" High vs Very High, \"AVG SERVE TIME\" 4 min vs 3 min, \"GLOBAL CONSUMERS\" 1.0B vs 2.0B, \"BEST PAIRS WITH\" Croissant vs Mochi, \"MOOD\" Sharp focus vs Calm focus. Off-white background, thin dividers, friendly rounded sans-serif, small footnote \"Illustrative figures, 2026\".",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-38-coffee-vs-tea-comparison.webp"
+  },
+  {
+    "id": "v2-39-orin-coffee-brand-logo-set",
+    "category": "poster-flyer",
+    "title": "ORIN Coffee Brand Logo Set",
+    "description": "A logo system for a specialty coffee brand called \"ORIN\" presented on a single off-white sheet.",
+    "prompt": "A logo system for a specialty coffee brand called \"ORIN\" presented on a single off-white sheet. Top-left: primary wordmark — \"ORIN\" in a confident geometric sans-serif, the letter O subtly formed by an abstract flame-leaf curl. Top-right: secondary monogram — just the stylized O on its own. Bottom-left: monochrome version (deep espresso brown). Bottom-right: small tagline lockup \"ORIN — slow roasted, slow lived.\" Hairline grid guidelines barely visible. Crisp vector look, no watermark, no other extra text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-39-orin-coffee-brand-logo-set.webp"
+  },
+  {
+    "id": "v2-40-ridge-outdoor-brand-mark",
+    "category": "poster-flyer",
+    "title": "RIDGE Outdoor Brand Mark",
+    "description": "A circular badge logo for an outdoor adventure brand called \"RIDGE\".",
+    "prompt": "A circular badge logo for an outdoor adventure brand called \"RIDGE\". Inside the circle: a stylized two-mountain silhouette with a small pine row at the base and a thin sunrise arc behind the peaks. Around the inside of the circle border, the text \"RIDGE · ESTABLISHED 2026 · WANDER WELL\" set in confident uppercase serif, kerned widely so it reads cleanly. Color: deep forest green on cream. Subtle linen paper texture beneath. No other elements, no watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-40-ridge-outdoor-brand-mark.webp"
+  },
+  {
+    "id": "v2-41-premium-water-bottle-hiking-ad",
+    "category": "product-photography",
+    "title": "Premium Water Bottle Hiking Ad",
+    "description": "A premium lifestyle ad for an insulated stainless-steel water bottle.",
+    "prompt": "A premium lifestyle ad for an insulated stainless-steel water bottle. A young woman hikes along a high-alpine ridge at golden hour, mountains receding into haze behind her, holding the bottle naturally at her side. The bottle is matte sage green with no visible logos. Top of frame: bold serif headline \"BUILT FOR THE LONG WAY\". Bottom: small sans-serif tagline \"Hydration that goes the distance. — Vessel Co.\" and a small product shot in the corner with the line \"24oz · 24h cold · 12h hot\". Cinematic warm color grade, slight grain. 4:5 aspect.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-41-premium-water-bottle-hiking-ad.webp"
+  },
+  {
+    "id": "v2-42-skincare-minimal-square-ad",
+    "category": "social-media",
+    "title": "Skincare Minimal Square Ad",
+    "description": "A square minimalist skincare ad.",
+    "prompt": "A square minimalist skincare ad. Pale blush pink background with a soft top-down shadow, a single frosted-glass serum bottle centered with a subtle dropper. Top-third headline in modern serif: \"YOUR SKIN. SIMPLIFIED.\" Below it in thin uppercase sans: \"ONE BOTTLE · FIVE STEPS REPLACED\". Bottom-right small product info \"30ml · niacinamide · hyaluronic acid · ceramides\" and a tiny brand mark \"AERA\". Crisp legible text, ample whitespace, magazine-grade composition.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-42-skincare-minimal-square-ad.webp"
+  },
+  {
+    "id": "v2-43-summer-sale-social-graphic",
+    "category": "social-media",
+    "title": "Summer Sale Social Graphic",
+    "description": "A vibrant summer sale Instagram graphic.",
+    "prompt": "A vibrant summer sale Instagram graphic. Sunset gradient background (peach to coral), giant playful display headline \"UP TO 50% OFF\" in chunky rounded sans, slight bouncing baseline. Below in tighter sans: \"SUMMER SALE — ENDS JULY 31\". Three floating product cutouts (sunglasses, straw hat, tote bag) casting soft realistic shadows. Bottom-left CTA pill button: \"SHOP NOW →\". Bottom-right small handle: \"@solstice.studio\". Crisp text, square 1:1.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-43-summer-sale-social-graphic.webp"
+  },
+  {
+    "id": "v2-44-surreal-koi-nebula",
+    "category": "illustration-3d",
+    "title": "Surreal Koi Nebula",
+    "description": "A surrealist digital illustration with a low-angle upward perspective.",
+    "prompt": "A surrealist digital illustration with a low-angle upward perspective. A giant translucent koi fish with iridescent scales swims through a dreamlike nebula, surrounded by vivid star clusters, drifting bubbles and faint orbital rings. A tiny silhouette of a human figure stands on a calm reflective water surface in the lower third, gazing up at the massive koi looming overhead. Soft watercolor blending into painterly digital brushwork, deep indigo to magenta sky, warm golden highlights on the koi. Vertical 9:16 composition, awe-inspiring scale, no text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-44-surreal-koi-nebula.webp"
+  },
+  {
+    "id": "v2-45-watercolor-editorial-illustration",
+    "category": "illustration-3d",
+    "title": "Watercolor Editorial Illustration",
+    "description": "A dreamy watercolor illustration of a young woman walking a long-haired dog along a quiet European canal in autumn.",
+    "prompt": "A dreamy watercolor illustration of a young woman walking a long-haired dog along a quiet European canal in autumn. Light impressionist aesthetic, loose visible brushstrokes and translucent washes in tones of dusty teal, ochre and faded rose. Soft blur on the edges, delicate morning light, falling leaves, minimalist approach with deliberate empty space. No text, no watermark. 3:4 portrait.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-45-watercolor-editorial-illustration.webp"
+  },
+  {
+    "id": "v2-46-epic-silhouette-world-poster",
+    "category": "travel-poster",
+    "title": "Epic Silhouette World Poster",
+    "description": "Collectible epic poster featuring a young swordsman's side-profile silhouette as the main canvas.",
+    "prompt": "Collectible epic poster featuring a young swordsman's side-profile silhouette as the main canvas. Inside the silhouette grows a complete fantasy world: floating islands, a winding river, distant temple ruins, drifting cherry blossoms, a small dragon coiled in the eye, and the swordsman's allies as tiny figures along the cheekbone path. Outside the silhouette: a deep indigo sky with constellations and ink-wash clouds. Cinematic poster meets dreamlike watercolor illustration, high-density detail, strong chiaroscuro, sacred-yet-ominous mood. Bottom: title \"THE LAST INK\" in elegant serif and a small tagline \"a story drawn in one breath\".",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-46-epic-silhouette-world-poster.webp"
+  },
+  {
+    "id": "v2-47-impossible-escher-library",
+    "category": "illustration-3d",
+    "title": "Impossible Escher Library",
+    "description": "A surreal architectural illustration of an impossible library inspired by M.C.",
+    "prompt": "A surreal architectural illustration of an impossible library inspired by M.C. Escher: staircases that connect at right angles defying gravity, bookshelves on every plane including the ceiling, tiny robed figures climbing in multiple impossible orientations, soft warm lantern light from countless reading nooks, deep shadows in the unreachable corners. Subtle pencil-line architectural overlays, sepia and ink palette, fine cross-hatching, surreal but mathematically convincing perspective. Square format, no text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-47-impossible-escher-library.webp"
+  },
+  {
+    "id": "v2-48-korean-idol-33-grid-portrait",
+    "category": "fashion-editorial",
+    "title": "Korean Idol 3×3 Grid Portrait",
+    "description": "9:16 vertical, Korean idol portrait photoshoot, 3×3 grid (nine frames) of the same young woman, perfectly consistent facial features, hairstyle and…",
+    "prompt": "9:16 vertical, Korean idol portrait photoshoot, 3×3 grid (nine frames) of the same young woman, perfectly consistent facial features, hairstyle and styling across all nine frames. Soft black-mist filter effect, slightly lowered contrast, blooming highlights, gentle film grain. Each frame has a distinct pose: looking down, side profile, hand near jaw, looking up, candid laugh, hair flip, soft smile, eyes closed, direct gaze. Outfit: cream knit cardigan over thin white tee. Studio with off-white seamless backdrop. Thin black frame separators between cells. No watermark, no text on the image.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-48-korean-idol-33-grid-portrait.webp"
+  },
+  {
+    "id": "v2-49-ccd-flash-candid-snapshot",
+    "category": "portraits-photography",
+    "title": "CCD Flash Candid Snapshot",
+    "description": "Mobile phone photo using a digital CCD camera aesthetic.",
+    "prompt": "Mobile phone photo using a digital CCD camera aesthetic. Harsh on-camera flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, slightly green-yellow color cast typical of early-2000s CCD sensors. Subject: a young Asian woman mid-laugh holding a slice of pizza, sitting on the floor of a crowded apartment party with mismatched furniture and string lights. Date stamp \"2025 11 04\" small in the bottom-right. Looks like a real friend's phone photo, not editorial.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-49-ccd-flash-candid-snapshot.webp"
+  },
+  {
+    "id": "v2-50-detectives-investigation-slide-deck",
+    "category": "movie-cinematic",
+    "title": "Detective's Investigation Slide Deck",
+    "description": "A professional boardroom presentation slide rendered as if shown on a 16:9 monitor.",
+    "prompt": "A professional boardroom presentation slide rendered as if shown on a 16:9 monitor. Slide title in bold sans: \"FY2026 MARKET OUTLOOK — AI INFRASTRUCTURE\". Three KPI tiles across the top: \"TAM · $42B\", \"SAM · $8.7B\", \"SOM · $340M\". Below: a clean bar chart titled \"Market growth 2021–2026\" with subtle upward trend, value labels on top of each bar (3.1B, 6.4B, 11.2B, 18.9B, 28.4B, 42.0B), Y-axis labelled \"USD (B)\", X-axis years. To the right of the chart, three short bullet takeaways. Bottom-left footnote: \"Source: AGI Research, 2026\". Bottom-right slide number \"04 / 22\". Calm corporate palette of navy, white and amber. Crisp legible text, accurate numbers.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/v2-50-detectives-investigation-slide-deck.webp"
+  },
+  {
+    "id": "i2i-01-linkedin-executive-headshot",
+    "category": "portraits-photography",
+    "title": "LinkedIn Executive Headshot",
+    "description": "Originally curated as an img2img prompt for nano-banana-2, seedream-4, flux-kontext. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "LinkedIn-style executive headshot, half body (chest up), face directly to camera with body slightly turned. Calm confident smile, wavy hair, sleeveless black dress, minimal professional aesthetic. Soft directional key light from 45 degrees, light gray smooth gradient background, clean separation. 50mm lens simulation, shallow depth of field. Keep facial features 100% identical to the reference image.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-01-linkedin-executive-headshot.webp"
+  },
+  {
+    "id": "i2i-02-silicon-valley-founder-portrait",
+    "category": "portraits-photography",
+    "title": "Silicon Valley Founder Portrait",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Convert this casual photo into a studio business headshot in Silicon Valley founder style. 85mm f/1.8 lens, three-point lighting setup with soft key light, fill light, and rim light. Charcoal slim-fit blazer over white tee, neutral seamless backdrop. Subtle confident expression. Preserve the exact face, hairstyle and skin texture from the reference. Sharp eye catchlights, natural skin pores, no plastic smoothing.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-02-silicon-valley-founder-portrait.webp"
+  },
+  {
+    "id": "i2i-03-korean-haima-studio-portrait",
+    "category": "portraits-photography",
+    "title": "Korean Haima Studio Portrait",
+    "description": "Originally curated as an img2img prompt for nano-banana-2, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Young East Asian woman, long black hair, off-shoulder cream top, holding a strawberry and a grapefruit slice as props. Soft natural light, clean white seamless background, shallow depth of field. 8K hyperrealistic, delicate makeup with pink blush and glossy lips, cinematic color grade, minimalist composition. Keep the subject's identity and facial features identical to the reference image.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-03-korean-haima-studio-portrait.webp"
+  },
+  {
+    "id": "i2i-04-sporty-girlfriend-photoshoot",
+    "category": "portraits-photography",
+    "title": "Sporty Girlfriend Photoshoot",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Young woman with high ponytail, white tight sports tank, gray yoga pants, white dad sneakers. Sitting on the edge of a white table, body twisted slightly, holding a glass cup, soft confident gaze. Pure white photography studio, high-key bright natural light, diffused window light from the left, reflector fill from the right, window-grid shadow adds depth. 85mm prime lens, slightly lifted contrast, preserving pores and fine hair. Light film grain. 3:4 aspect ratio. Keep the same person as in the reference.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-04-sporty-girlfriend-photoshoot.webp"
+  },
+  {
+    "id": "i2i-05-times-square-night-portrait",
+    "category": "portraits-photography",
+    "title": "Times Square Night Portrait",
+    "description": "Originally curated as an img2img prompt for nano-banana-2, flux-kontext. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Photorealistic portrait of the reference person standing in the heart of Times Square at night in New York City. Wears a black turtleneck, gray wool coat, and white sneakers. Massive billboards, neon signs, yellow taxi cabs, light bokeh and faint motion blur from passing traffic. Cinematic composition, low ISO clean shadows, 35mm lens. Keep the facial identity unchanged.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-05-times-square-night-portrait.webp"
+  },
+  {
+    "id": "i2i-06-rainy-city-noir",
+    "category": "portraits-photography",
+    "title": "Rainy City Noir",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Ultra-realistic cinematic photograph of the subject in a rainy city at night, noir aesthetic, moody urban streets with glowing streetlights and neon bokeh, wet asphalt reflections, heavy rain falling, intense expression, wet hair, water droplets on jacket. Anamorphic lens flare, teal-and-orange grade, 2.39:1 letterbox. Maintain the same person as in the reference image.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-06-rainy-city-noir.webp"
+  },
+  {
+    "id": "i2i-07-paris-fashion-week-runway",
+    "category": "fashion-editorial",
+    "title": "Paris Fashion Week Runway",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Cinematic high-fashion runway photograph of the reference subject walking at Paris Fashion Week. Captured mid-stride with confident walk, intense forward gaze, strong posture, commanding presence. Designer black tailored suit, glossy leather boots, dramatic side lighting, audience seated in shadow on both sides, slight motion blur on the legs. Vogue editorial aesthetic. Keep the face and hairstyle identical to the reference.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-07-paris-fashion-week-runway.webp"
+  },
+  {
+    "id": "i2i-08-70s-polaroid-family-photo",
+    "category": "portraits-photography",
+    "title": "70s Polaroid Family Photo",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "1970s vintage family photo style transformation. Polaroid SX-70 frame with characteristic white edges, slight yellowing, minor creases. Place the reference subject in a 70s living room with wood-paneled walls, brown corduroy sofa, mustard curtains, vinyl records on a shelf. Warm amber tungsten lighting, soft focus, heavy film grain, faded color cast. Keep the subject's face identity unchanged.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-08-70s-polaroid-family-photo.webp"
+  },
+  {
+    "id": "i2i-09-1990s-magazine-cover-look",
+    "category": "portraits-photography",
+    "title": "1990s Magazine Cover Look",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Convert the reference into a 1990s magazine cover portrait. Direct on-camera flash with hard shadows, slightly oversaturated colors, magazine poster background with bold typography blurred behind, denim jacket and choker. Heavy 35mm film grain, slightly washed-out blacks, cyan tint in shadows. Keep the original face, eyes and lips identical to the reference.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-09-1990s-magazine-cover-look.webp"
+  },
+  {
+    "id": "i2i-10-y2k-bedroom-mirror-selfie",
+    "category": "portraits-photography",
+    "title": "Y2K Bedroom Mirror Selfie",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "{\"edit_type\":\"casual_mirror_selfie\",\"era\":\"early_2000s\",\"camera\":\"compact_digital_with_flash\",\"setting\":\"teenager_bedroom\",\"props\":[\"lava_lamp\",\"translucent_flip_phone\",\"butterfly_clips\",\"posters\"],\"outfit\":\"low_rise_jeans_cropped_tank\",\"lighting\":\"harsh_direct_flash\",\"film_look\":\"heavy_grain_blue_shadows\",\"preserve\":[\"face\",\"hair\",\"body_proportions\"]}",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-10-y2k-bedroom-mirror-selfie.webp"
+  },
+  {
+    "id": "i2i-11-victorian-daguerreotype-ghost",
+    "category": "portraits-photography",
+    "title": "Victorian Daguerreotype Ghost",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Convert the reference subject to a black-and-white daguerreotype ghost. Semi-transparent Victorian mourning clothes, lace veil, faded edges. Wet plate photography effect, silver tarnish, slight blur, scratches and dust on the plate. Period-accurate 1870s parlor with heavy curtains and oil lamps. Solemn expression, long exposure motion blur. Keep the original facial structure recognizable.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-11-victorian-daguerreotype-ghost.webp"
+  },
+  {
+    "id": "i2i-12-1980s-arcade-hall-scene",
+    "category": "portraits-photography",
+    "title": "1980s Arcade Hall Scene",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Place the reference subject in a vibrant 1980s arcade scene. Standing before glowing arcade cabinets, neon pink and cyan light wash, oversized windbreaker with bold geometric pattern, mullet hair, white sneakers. Pac-Man and Galaga screens visible, faint smoke in the air, VHS aesthetic, strong on-camera flash with hard shadows. Slight chromatic aberration. Keep the face exactly as in the reference.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-12-1980s-arcade-hall-scene.webp"
+  },
+  {
+    "id": "i2i-13-1-7-scale-collectible-figure",
+    "category": "illustration-3d",
+    "title": "1/7 Scale Collectible Figure",
+    "description": "Originally curated as an img2img prompt for nano-banana-2, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Turn the reference subject into a 1/7 scale collectible PVC figure displayed on a wooden desk. Behind the figure, a computer monitor shows a ZBrush sculpting wireframe of the same character. To the side, a BANDAI-style packaging box with printed art of the figure. Soft product photography lighting, shallow depth of field, realistic plastic shading, fine paint detail on face and clothes.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-13-1-7-scale-collectible-figure.webp"
+  },
+  {
+    "id": "i2i-14-knitted-plush-toy",
+    "category": "illustration-3d",
+    "title": "Knitted Plush Toy",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Transform the reference person into a hand-crocheted yarn plush toy held in cupped hands. Q-version chibi proportions, vibrant yarn texture with visible stitches, button eyes, embroidered smile. Cozy home environment background, warm window light, slight depth of field. Preserve the recognizable hairstyle and outfit colors from the reference.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-14-knitted-plush-toy.webp"
+  },
+  {
+    "id": "i2i-15-bronze-trophy-statue",
+    "category": "illustration-3d",
+    "title": "Bronze Trophy Statue",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Transform the reference subject into a polished bronze trophy statue on a marble base. Single-arm victory pose, metallic patina, mirror-bright highlights and deep shadows. Museum gallery lighting, dark velvet background, classical sculpture aesthetic. Engraved name plate on the base reading 'CHAMPION'. Keep the face features clearly recognizable as the reference.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-15-bronze-trophy-statue.webp"
+  },
+  {
+    "id": "i2i-16-marble-renaissance-sculpture",
+    "category": "illustration-3d",
+    "title": "Marble Renaissance Sculpture",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Convert the reference into a classical Carrara marble sculpture on a white marble pedestal. Polished surfaces with mirror highlights, fine veining detail, Renaissance contrapposto pose, drapery folds, cracked patina at the base. Dark gallery background, single warm spotlight from above-left. Preserve the original facial features carved into the marble.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-16-marble-renaissance-sculpture.webp"
+  },
+  {
+    "id": "i2i-17-3d-q-version-app-icon",
+    "category": "illustration-3d",
+    "title": "3D Q-Version App Icon",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Transform the reference person into a 3D chibi Q-version app icon, similar to a mini clay figurine. Adorable proportions with oversized head, tiny body, large sparkling eyes. Soft vivid lighting, the character slightly breaks out of the rounded square icon frame to enhance the 3D pop-out feeling. Pastel gradient background. Keep recognizable facial features and clothing colors from the reference.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-17-3d-q-version-app-icon.webp"
+  },
+  {
+    "id": "i2i-18-studio-ghibli-anime-style",
+    "category": "illustration-3d",
+    "title": "Studio Ghibli Anime Style",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Convert the reference photo to hand-drawn Studio Ghibli style anime art. Large expressive eyes, flowing hair with light streaks, soft watercolor palette, simple gradients, cherry blossom petals floating, distant rolling green hills, fluffy cumulus clouds. Soft outline, warm afternoon light. Keep the original hair color and outfit colors recognizable.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-18-studio-ghibli-anime-style.webp"
+  },
+  {
+    "id": "i2i-19-origami-paper-sculpture",
+    "category": "illustration-3d",
+    "title": "Origami Paper Sculpture",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Transform the reference subject into an intricate white paper origami sculpture. Visible creases, layered geometric folds, fine paper texture, 45-degree studio lighting casting dramatic fold shadows. Plain dark gradient backdrop. Maintain the silhouette and pose of the original photo.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-19-origami-paper-sculpture.webp"
+  },
+  {
+    "id": "i2i-20-street-graffiti-mural",
+    "category": "illustration-3d",
+    "title": "Street Graffiti Mural",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Transform the reference into a vibrant street graffiti mural on a worn brick wall. Bold black outlines, neon spray colors (electric blue, hot pink, lime green), paint drips and over-spray texture. Recognizable face features stylized with graphic flat shading. Urban alley background with graffiti tags around. Slight wide-angle perspective.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-20-street-graffiti-mural.webp"
+  },
+  {
+    "id": "i2i-21-holographic-y2k-effect",
+    "category": "illustration-3d",
+    "title": "Holographic Y2K Effect",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Apply a rainbow holographic shimmer across the entire reference image. Iridescent skin, hair and clothing with chromatic aberration, prism lens flares, Y2K holographic atmosphere, high saturation. Pearlescent silver background with subtle gradient. Keep the subject's identity and pose intact.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-21-holographic-y2k-effect.webp"
+  },
+  {
+    "id": "i2i-22-architecture-cardboard-model",
+    "category": "illustration-3d",
+    "title": "Architecture Cardboard Model",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Convert this photo into an architecture model on a desk. Behind the model, place a cardboard box with a printed image of the architecture from the photo on it. Add a computer to the side, with the screen showing the original photograph. Warm desk lamp lighting, blueprints and sketch tools scattered nearby. Realistic miniature scale and shadows.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-22-architecture-cardboard-model.webp"
+  },
+  {
+    "id": "i2i-23-phone-screen-3d-illusion",
+    "category": "illustration-3d",
+    "title": "Phone Screen 3D Illusion",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Create a forced-perspective image where a tiny version of the reference person appears to stand on top of a smartphone screen held in a giant hand. Dramatic size contrast, accurate cast shadow on the phone glass, screen UI faintly visible, surreal photography effect. Soft window light, neutral cafe background. Maintain the original facial identity at miniature scale.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-23-phone-screen-3d-illusion.webp"
+  },
+  {
+    "id": "i2i-24-worm-s-eye-group-selfie",
+    "category": "social-media",
+    "title": "Worm's-Eye Group Selfie",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "A dramatic ultra-wide, low-angle group shot taken from ground level looking straight up (worm's-eye view). 6-8 people including the reference subject form a loose circle around the camera, leaning in and looking down into the lens. Faces and hands are close, slightly stretched fisheye effect. Some reach toward the camera with playful hand signs, others laugh. Energetic carefree Gen-Z street-style mood. 10-14mm wide-angle lens distortion, bright saturated colors, high contrast, punchy sunlight, slight overexposure on skin highlights. Keep the reference person's face identical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-24-worm-s-eye-group-selfie.webp"
+  },
+  {
+    "id": "i2i-25-music-player-ui-overlay",
+    "category": "social-media",
+    "title": "Music Player UI Overlay",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Place the reference subject on a moody neon-lit street at night. Overlay a glass-morphism music player UI in the lower third with frosted blur, rounded corners, song title 'Midnight Drive', artist name, progress bar, play button. Purple and pink neon reflections on wet pavement. 9:16 vertical format, cinematic teal-and-magenta grade.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-25-music-player-ui-overlay.webp"
+  },
+  {
+    "id": "i2i-26-cartoon-sticker-self",
+    "category": "social-media",
+    "title": "Cartoon Sticker Self",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Transform the reference person into a cute Q-version cartoon sticker. Exaggerated expression, thick black outline, solid flat colors, glossy die-cut sticker edge with white border, small drop shadow. Speech bubble that says 'VIBE CHECK!'. Place on a transparent or pastel background. Recognizable hairstyle and outfit colors.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-26-cartoon-sticker-self.webp"
+  },
+  {
+    "id": "i2i-27-shop-window-cartoon-reflection",
+    "category": "social-media",
+    "title": "Shop Window Cartoon Reflection",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "{\"edit_type\":\"shop_window_cartoon_reflection\",\"camera\":\"phone_extreme_wide_angle\",\"scene\":\"city_street_storefront\",\"reflection_style\":\"flat_2d_cartoon_version_of_subject\",\"preserve\":[\"subject_face\",\"clothing\",\"pose\"],\"swap\":[\"reflection_only\"],\"lighting\":\"daylight_neutral\",\"mood\":\"playful\"}",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-27-shop-window-cartoon-reflection.webp"
+  },
+  {
+    "id": "i2i-28-outfit-swap-from-reference-photo-2",
+    "category": "fashion-editorial",
+    "title": "Outfit Swap from Reference Photo 2",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro, flux-kontext. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Take the person from image 1 and dress them in all the clothing and accessories from image 2. Outdoor natural daylight, fashion street style, full-body shot, clear focus. Maintain the person's identity and pose continuity from image 1. Adjust fabric folds and shadows realistically to fit the new body.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-28-outfit-swap-from-reference-photo-2.webp"
+  },
+  {
+    "id": "i2i-29-vogue-editorial-fashion",
+    "category": "fashion-editorial",
+    "title": "Vogue Editorial Fashion",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Position the reference subject as a high-end fashion editorial. Sleek black turtleneck, oversized beige blazer, gold layered jewelry, slicked-back ponytail, dramatic contoured makeup with bold red lips. Vogue-style cover composition with copy space at the top. Studio lighting with hard shadow on a beige paper backdrop. Keep facial structure identical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-29-vogue-editorial-fashion.webp"
+  },
+  {
+    "id": "i2i-30-tailored-business-suit-swap",
+    "category": "fashion-editorial",
+    "title": "Tailored Business Suit Swap",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Replace the reference subject's clothing with a perfectly tailored charcoal suit, crisp white dress shirt, navy striped tie, silver watch, black leather oxford shoes, 1/4 inch shirt cuff showing. Maintain the original pose, body proportions, and facial features. Realistic fabric texture, natural shadow folds at the elbows and knees.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-30-tailored-business-suit-swap.webp"
+  },
+  {
+    "id": "i2i-31-beach-wave-hair-transformation",
+    "category": "fashion-editorial",
+    "title": "Beach Wave Hair Transformation",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Change the reference subject's hairstyle to long beachy waves with caramel and honey highlights blended into a darker base, sun-kissed effect, tousled sea-wind texture, healthy gloss, face-framing layers, natural appearance. Keep face, makeup, eyes, and outfit unchanged.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-31-beach-wave-hair-transformation.webp"
+  },
+  {
+    "id": "i2i-32-streetwear-style-conversion",
+    "category": "fashion-editorial",
+    "title": "Streetwear Style Conversion",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Restyle the reference subject in oversized black hoodie, layered white tee, black cargo pants with multiple pockets, white chunky sneakers, backwards baseball cap, silver chain, crossbody bag. Urban concrete background with graffiti, slight wide-angle. Preserve the face exactly, adjust pose to a relaxed slouched stance.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-32-streetwear-style-conversion.webp"
+  },
+  {
+    "id": "i2i-33-beach-jewelry-display",
+    "category": "product-photography",
+    "title": "Beach Jewelry Display",
+    "description": "Originally curated as an img2img prompt for nano-banana-2, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Show this gold necklace on a sandy beach with gentle morning light and soft shadows, scattered seashells, wet sand reflections, slight defocus on the horizon. Macro detail on the engraving, golden hour warmth. Keep the product's exact shape, engraving, and color from the reference image.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-33-beach-jewelry-display.webp"
+  },
+  {
+    "id": "i2i-34-boho-tote-bag-lifestyle",
+    "category": "product-photography",
+    "title": "Boho Tote Bag Lifestyle",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Add a soft boho-style living-room background behind this linen tote bag, with warm sunlight streaming through sheer curtains, rattan textures, neutral beige tones, dried pampas grass in a vase. Slight depth of field, casual editorial composition. Preserve the bag's exact texture, color and logo.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-34-boho-tote-bag-lifestyle.webp"
+  },
+  {
+    "id": "i2i-35-premium-3d-podium-product-shot",
+    "category": "product-photography",
+    "title": "Premium 3D Podium Product Shot",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Place this product on a premium 3D podium with soft studio lighting, subtle gradient background (light gray to white), and a clean shadow beneath it. Add abstract floating geometric shapes in pastel tones around the podium. Hero advertising composition, centered. Keep the product completely unchanged.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-35-premium-3d-podium-product-shot.webp"
+  },
+  {
+    "id": "i2i-36-underwater-bottle-shot",
+    "category": "product-photography",
+    "title": "Underwater Bottle Shot",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Show this bottle submerged in clear turquoise ocean water, with caustic light reflections shimmering on the surface, tiny air bubbles rising, soft sandy seafloor far below, sunbeams cutting through the water column. Glossy water droplets on the label. Keep the product label readable and unchanged.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-36-underwater-bottle-shot.webp"
+  },
+  {
+    "id": "i2i-37-marble-countertop-skincare",
+    "category": "product-photography",
+    "title": "Marble Countertop Skincare",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Place this skincare jar on a white marble countertop with natural window light from the left and soft depth of field. Add a single eucalyptus sprig and a folded linen cloth. Subtle reflection of the jar on the polished marble. Clean, premium skincare ad aesthetic. Preserve the product exactly.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-37-marble-countertop-skincare.webp"
+  },
+  {
+    "id": "i2i-38-ecommerce-white-background",
+    "category": "product-photography",
+    "title": "Ecommerce White Background",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Create a clean ecommerce-ready pure white seamless background for this product. Crisp natural shadow under the product, sharp edges including hair and fine details, edge rim lighting for separation, professional Amazon/Shopify product standard. Keep the product's exact shape, color, label and proportions.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-38-ecommerce-white-background.webp"
+  },
+  {
+    "id": "i2i-39-floating-hero-lipstick-shot",
+    "category": "product-photography",
+    "title": "Floating Hero Lipstick Shot",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Turn this lipstick into a floating hero shot with suspended particles (powder, petals, glitter dust) orbiting around it, minimal monochrome backdrop in deep red. Sharp focus on the lipstick, motion blur on the orbiting particles, dramatic side light. Keep the lipstick design and color identical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-39-floating-hero-lipstick-shot.webp"
+  },
+  {
+    "id": "i2i-40-flatlay-kitchen-knife",
+    "category": "product-photography",
+    "title": "Flatlay Kitchen Knife",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Place this chef's knife in a top-down flatlay with matching kitchen props: cutting board, scattered herbs, garlic cloves, sea salt, linen napkin, copper pot in the corner. Wooden table textures, balanced color harmony with warm and earthy tones, soft natural light from above-left. Preserve the knife exactly.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-40-flatlay-kitchen-knife.webp"
+  },
+  {
+    "id": "i2i-41-background-replacement-sunset-city",
+    "category": "social-media",
+    "title": "Background Replacement Sunset City",
+    "description": "Originally curated as an img2img prompt for nano-banana-2, flux-kontext. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Replace the background of this subject with a realistic urban sunset skyline showing skyscraper silhouettes, warm orange and magenta sky, distant haze, scattered clouds. Maintain proper rim light on the subject matching the sunset direction, ambient sky color reflected on the skin, accurate shadows on the ground. Keep the subject 100% identical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-41-background-replacement-sunset-city.webp"
+  },
+  {
+    "id": "i2i-42-pure-white-studio-replace",
+    "category": "social-media",
+    "title": "Pure White Studio Replace",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Replace the background with a pure white seamless studio backdrop. Preserve all subject detail including individual strands of hair, fabric edges and accessories. Add a soft natural contact shadow at the feet, subtle edge rim lighting. Professional ecommerce / catalog standard. Do not alter the subject.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-42-pure-white-studio-replace.webp"
+  },
+  {
+    "id": "i2i-43-object-removal-cleanup",
+    "category": "social-media",
+    "title": "Object Removal & Cleanup",
+    "description": "Originally curated as an img2img prompt for nano-banana-2, flux-kontext. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Remove all background distractions from this photo, including wires, litter, signs, parked cars and pedestrians, while seamlessly blending the surrounding environment. Preserve the original lighting, perspective and color balance. Do not alter the main subject in any way.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-43-object-removal-cleanup.webp"
+  },
+  {
+    "id": "i2i-44-cinematic-teal-orange-grade",
+    "category": "social-media",
+    "title": "Cinematic Teal-Orange Grade",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Apply a moody cinematic teal-and-orange color grade to this outdoor scene. Increase contrast, enhance sunlight highlights toward warm orange, deepen shadows toward teal, slight S-curve, lifted blacks for film feel. Add fine 35mm film grain. Keep composition, subject and details exactly the same.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-44-cinematic-teal-orange-grade.webp"
+  },
+  {
+    "id": "i2i-45-portrait-skin-eye-enhance",
+    "category": "social-media",
+    "title": "Portrait Skin & Eye Enhance",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Enhance this portrait by smoothing skin while keeping pores and natural texture, brightening eyes and adding subtle catchlights, whitening teeth slightly, evening out skin tone, adding soft cinematic lighting. Avoid plastic or doll-like effects. Do not change the face shape or identity.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-45-portrait-skin-eye-enhance.webp"
+  },
+  {
+    "id": "i2i-46-movie-poster-treatment",
+    "category": "social-media",
+    "title": "Movie Poster Treatment",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Apply a movie poster treatment to this image: letterbox 2.39:1, cyan-orange color grading, volumetric light beams cutting through the air, high contrast, fine film grain, lens flare top-right, heroic centered composition. Add subtle dust particles in the light. Preserve subject identity.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-46-movie-poster-treatment.webp"
+  },
+  {
+    "id": "i2i-47-high-contrast-b-w-portrait",
+    "category": "social-media",
+    "title": "High-Contrast B&W Portrait",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Convert this portrait to a high-contrast black-and-white photograph. Enhanced detail and texture in skin and fabric, dodge-and-burn dimensional lighting on the face, grainy film aesthetic, sharp eyes with strong catchlights. Deep blacks and clean highlights. Keep facial features and pose identical.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-47-high-contrast-b-w-portrait.webp"
+  },
+  {
+    "id": "i2i-48-before-after-split-compare",
+    "category": "social-media",
+    "title": "Before / After Split Compare",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Create a vertical split-screen comparison of this image. Left half labeled 'BEFORE' in muted desaturated tone with the original input. Right half labeled 'AFTER' with enhanced color, contrast and clarity. Clean dividing line, aligned features across both halves, modern sans-serif labels, subtle drop shadow on the divider.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-48-before-after-split-compare.webp"
+  },
+  {
+    "id": "i2i-49-line-drawing-sketch-on-notebook",
+    "category": "illustration-3d",
+    "title": "Line Drawing Sketch on Notebook",
+    "description": "Originally curated as an img2img prompt for nano-banana-2. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Create a photo-style line drawing / ink sketch of the face from the reference image, keeping every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate fine line detailing on a notebook-page background with faint ruled lines. Show a right hand holding a pen and an eraser near the sketch as if the artist is still working.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-49-line-drawing-sketch-on-notebook.webp"
+  },
+  {
+    "id": "i2i-50-fantasy-magic-effect-aura",
+    "category": "illustration-3d",
+    "title": "Fantasy Magic Effect Aura",
+    "description": "Originally curated as an img2img prompt for nano-banana-pro, seedream-4. Here rendered as pure text-to-image with gpt-image-2 (no reference photo).",
+    "prompt": "Add glowing magical particles orbiting the reference subject, mystical aura emanating from the hands and eyes, swirling energy ribbons, mysterious dark forest background with bokeh light spheres, theatrical dramatic side lighting, fantasy art aesthetic. Slight wind blowing the hair and clothing. Keep the subject's facial identity unchanged.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/i2i-50-fantasy-magic-effect-aura.webp"
+  },
+  {
+    "id": "img2-01-multilingual-vintage-travel-poster-kyoto",
+    "category": "poster-flyer",
+    "title": "Multilingual Vintage Travel Poster — Kyoto",
+    "description": "A vintage travel poster for Kyoto in spring, advertising \"BLOSSOM // KYOTO 2026\".",
+    "prompt": "A vintage travel poster for Kyoto in spring, advertising \"BLOSSOM // KYOTO 2026\". Top half: a stylized art-deco illustration of Mount Fuji silhouetted behind cascading cherry blossoms in pink, peach and cream tones. Bottom half: clean off-white panel with the headline \"BLOSSOM\" in tall serif uppercase, set kerned wide. Below it, a smaller line in elegant Japanese kanji reading \"京都の春\" (Kyoto no Haru — Kyoto Spring), perfectly legible. Tiny tagline beneath in lowercase: \"april — may // shinkansen lines now open\". Slight halftone print texture, faded edges, like a 1960s JNR rail poster.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-01-multilingual-vintage-travel-poster-kyoto.webp"
+  },
+  {
+    "id": "img2-02-boston-spring-2026-city-poster",
+    "category": "poster-flyer",
+    "title": "Boston Spring 2026 City Poster",
+    "description": "Striking Spring 2026 city poster for Boston with elegant celebratory mood and bold contemporary design.",
+    "prompt": "Striking Spring 2026 city poster for Boston with elegant celebratory mood and bold contemporary design. On clean off-white textured background with generous negative space, place a miniature single sculler in the lower-right corner rowing across a narrow ribbon of reflective water. Let the wake curve upward and gradually transform into the Charles River, then into a dreamlike hand-painted panorama of Boston featuring the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, the Zakim Bridge, harbor ferries, and historic brick architecture. Add soft morning fog, golden spring light, subtle crimson and gold festive accents, layered depth, and premium editorial typography reading \"SPRING 2026\" with a vertical slogan \"BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION\". Vertical poster ratio, polished graphic-design finish.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-02-boston-spring-2026-city-poster.webp"
+  },
+  {
+    "id": "img2-03-build-2026-tech-conference-banner",
+    "category": "poster-flyer",
+    "title": "BUILD 2026 Tech Conference Banner",
+    "description": "A digital event banner for a tech conference called \"BUILD 2026\".",
+    "prompt": "A digital event banner for a tech conference called \"BUILD 2026\". Dark grey background with a subtle geometric grid pattern, faint scan lines and a soft cyan glow in the top-right. Title \"BUILD 2026\" in oversized white bold sans-serif, left-aligned, 60% of the banner width. Subtitle \"THE FUTURE OF AGENTIC SOFTWARE\" in thin uppercase, kerned wide, in cyan. Lower-right: dates \"OCT 14 – 16 · SAN FRANCISCO\" and a small registration QR code. 16:9 aspect ratio. Crisp text, no logo drift.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-03-build-2026-tech-conference-banner.webp"
+  },
+  {
+    "id": "img2-04-coffee-shop-a2-qr-poster",
+    "category": "poster-flyer",
+    "title": "Coffee Shop A2 QR Poster",
+    "description": "A modern minimalist coffee shop poster, A2 portrait.",
+    "prompt": "A modern minimalist coffee shop poster, A2 portrait. Cream background, single hand-drawn line illustration of a pour-over kettle and dripper centered upper third. Headline \"SLOW POUR / SLOW MORNING\" in mixed serif and italic, two lines. Mid-poster body text in small sans: \"Single origin Ethiopia Yirgacheffe — bright, floral, citrus. Brewed every morning from 7:30.\" Bottom-right corner: a real scannable QR code labeled \"MENU\". Subtle paper grain. No watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-04-coffee-shop-a2-qr-poster.webp"
+  },
+  {
+    "id": "img2-05-detective-investigation-board",
+    "category": "poster-flyer",
+    "title": "Detective Investigation Board",
+    "description": "A cinematic photograph of a 1970s detective's investigation board pinned to a dim office wall.",
+    "prompt": "A cinematic photograph of a 1970s detective's investigation board pinned to a dim office wall. Cork board, red and black yarn connecting Polaroid photos of suspects, handwritten index cards reading \"MOTIVE?\", \"ALIBI 22:14\", \"GREEN SEDAN\", a folded newspaper headline \"TOWN SHAKEN BY MURDER\", a coffee-stained map of the city with a circled location, a desk lamp casting harsh side light, smoke drifting from an ashtray, shallow depth of field. Slight film grain, warm tungsten color cast. All handwritten text legible.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-05-detective-investigation-board.webp"
+  },
+  {
+    "id": "img2-06-crypto-trading-dashboard-mockup",
+    "category": "ui-app-mockup",
+    "title": "Crypto Trading Dashboard Mockup",
+    "description": "A photorealistic screenshot mockup of a dark-mode crypto trading dashboard at 1440p.",
+    "prompt": "A photorealistic screenshot mockup of a dark-mode crypto trading dashboard at 1440p. Left sidebar with 8 navigation items (\"Dashboard\", \"Markets\", \"Portfolio\", \"Orders\", \"Funding\", \"Pro\", \"News\", \"Settings\"), each with a small monochrome icon. Top header: search bar, BTC ticker showing \"$74,218.40 +2.13%\", account avatar. Main panel: candlestick chart \"BTC / USDT — 1h\" with green/red wicks, volume bars below, technical overlays (EMA 50, EMA 200), order book on the right with bids in green and asks in red, recent trades feed at the bottom. All numbers consistent. Crisp UI typography, real shadows, no logo drift.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-06-crypto-trading-dashboard-mockup.webp"
+  },
+  {
+    "id": "img2-07-personal-finance-app-luma",
+    "category": "ui-app-mockup",
+    "title": "Personal Finance App — Luma",
+    "description": "A mobile UI mockup of a personal finance iOS app called \"Luma\", shown inside an iPhone 15 device frame.",
+    "prompt": "A mobile UI mockup of a personal finance iOS app called \"Luma\", shown inside an iPhone 15 device frame. Status bar 9:41, full battery, 5G. Top: greeting \"Good morning, Maya\" with a small profile pill. Hero card with rounded corners showing \"Total Balance · $12,840.27\" and a subtle gradient. Below: a 7-day spending sparkline. Three quick-action chips: \"Transfer\", \"Pay\", \"Invest\". Section \"Recent activity\" listing 4 realistic transactions (e.g. \"Whole Foods · -$48.12\", \"Spotify · -$10.99\", \"Stripe Payout · +$1,200.00\"). Bottom tab bar: Home / Transactions / Cards / Goals / Profile. Soft drop shadows, system font, generous whitespace.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-07-personal-finance-app-luma.webp"
+  },
+  {
+    "id": "img2-08-e-commerce-analytics-dashboard",
+    "category": "ui-app-mockup",
+    "title": "E-commerce Analytics Dashboard",
+    "description": "A photorealistic screenshot of a SaaS e-commerce analytics dashboard in light mode at 1440p.",
+    "prompt": "A photorealistic screenshot of a SaaS e-commerce analytics dashboard in light mode at 1440p. Top KPI row of four cards: \"Revenue · $84,210 · +12.4%\", \"Orders · 1,238 · +8.1%\", \"Avg Order · $68.02\", \"Conversion · 3.42%\". Center: a smooth multi-line area chart titled \"Revenue, last 30 days\" with two series (this period, previous period) and a tooltip pinned on a peak. Right column: \"Top products\" table with thumbnails, names, units sold and revenue. Bottom: traffic source donut chart with legend (Direct, Organic, Paid, Email, Social). Inter typeface, subtle shadows, 8px grid alignment.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-08-e-commerce-analytics-dashboard.webp"
+  },
+  {
+    "id": "img2-09-hi-fi-chinese-e-commerce-app-home",
+    "category": "social-media",
+    "title": "Hi-Fi Chinese E-commerce App Home",
+    "description": "Generate a high-fidelity mobile e-commerce app homepage screenshot inspired by mainstream Chinese e-commerce apps in 2026.",
+    "prompt": "Generate a high-fidelity mobile e-commerce app homepage screenshot inspired by mainstream Chinese e-commerce apps in 2026. Status bar with 9:41, 5G, full battery. Top bar: city selector \"杭州\" on the left, rounded search box centered with placeholder \"搜索耳机、咖啡机、运动鞋\", message and scan icons on the right. Horizontal category tabs: \"推荐 数码 家电 服饰 美妆 食品 运动 家居\". Top promo carousel with the banner \"618 预售开启\" and a tag \"每满300减50\". 10-icon function grid with labels \"超市 百亿补贴 秒杀 直播 充值中心 到家 领券 品牌馆 全球购 排行榜\". Flash-sale module \"限时秒杀\" with a countdown 02:14:36 and three product cards. \"猜你喜欢\" two-column waterfall with 6 product cards (image, title, price, sales tag). Bottom tab bar: \"首页 分类 购物车 消息 我的\". All Chinese text crisp and readable, realistic spacing, shadows and dividers.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-09-hi-fi-chinese-e-commerce-app-home.webp"
+  },
+  {
+    "id": "img2-10-museum-style-hanfu-infographic",
+    "category": "social-media",
+    "title": "Museum-Style Hanfu Infographic",
+    "description": "请根据「汉服」生成一张博物馆图鉴式中文拆解信息图。整张图要兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。整体风格为国家博物馆展板、历史服饰图鉴、文博专题信息图。背景采用米白与绢纸白质感。版式固定为：顶部中文主标题「汉服」加副标题「中华传统服饰图鉴」；左侧结构拆解区，中文引线标注关键部件（交领、广袖、襦、裙、腰带、蔽膝）；右上材质与工艺区（蚕丝、织锦、刺绣）；右",
+    "prompt": "请根据「汉服」生成一张博物馆图鉴式中文拆解信息图。整张图要兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。整体风格为国家博物馆展板、历史服饰图鉴、文博专题信息图。背景采用米白与绢纸白质感。版式固定为：顶部中文主标题「汉服」加副标题「中华传统服饰图鉴」；左侧结构拆解区，中文引线标注关键部件（交领、广袖、襦、裙、腰带、蔽膝）；右上材质与工艺区（蚕丝、织锦、刺绣）；右中纹样、色彩与寓意区；底部穿着顺序流程图。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字。",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-10-museum-style-hanfu-infographic.webp"
+  },
+  {
+    "id": "img2-11-wechat-public-account-cover",
+    "category": "social-media",
+    "title": "WeChat Public Account Cover",
+    "description": "生成一张微信公众号封面图，主题是「AI Agent 实战指南」。画面为现代科技风格，背景有 AI 芯片轮廓、聊天气泡、代码片段，蓝紫色渐变光效。图片中必须清晰出现中文主标题：「AI Agent 实战指南」字号最大、居中偏左；副标题：「从零到上线，30 天让 LLM 真正干活」位于主标题下方；右下角小字「公众号 · 智能体周刊」。字体干净、清晰、无错别字、无乱码，适合公众号封面，留白合理，高级感强。",
+    "prompt": "生成一张微信公众号封面图，主题是「AI Agent 实战指南」。画面为现代科技风格，背景有 AI 芯片轮廓、聊天气泡、代码片段，蓝紫色渐变光效。图片中必须清晰出现中文主标题：「AI Agent 实战指南」字号最大、居中偏左；副标题：「从零到上线，30 天让 LLM 真正干活」位于主标题下方；右下角小字「公众号 · 智能体周刊」。字体干净、清晰、无错别字、无乱码，适合公众号封面，留白合理，高级感强。",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-11-wechat-public-account-cover.webp"
+  },
+  {
+    "id": "img2-12-618-e-commerce-white-background-hero",
+    "category": "social-media",
+    "title": "618 E-commerce White Background Hero",
+    "description": "随手拍一个无线降噪耳机充电盒，帮我做成白底电商主图，重新打光，产品更精致。背景纯白，柔光，阴影自然且短而锐利，产品主体居中，反光高光提亮，材质质感明显提升。左上角添加一个红色圆形角标，里面写「618 直降」和小字「立省 ¥300」。右下角加一行小字「现货 · 顺丰发货」。整体符合天猫/京东主图规范，无水印，无多余装饰。",
+    "prompt": "随手拍一个无线降噪耳机充电盒，帮我做成白底电商主图，重新打光，产品更精致。背景纯白，柔光，阴影自然且短而锐利，产品主体居中，反光高光提亮，材质质感明显提升。左上角添加一个红色圆形角标，里面写「618 直降」和小字「立省 ¥300」。右下角加一行小字「现货 · 顺丰发货」。整体符合天猫/京东主图规范，无水印，无多余装饰。",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-12-618-e-commerce-white-background-hero.webp"
+  },
+  {
+    "id": "img2-13-holographic-trading-card",
+    "category": "illustration-3d",
+    "title": "Holographic Trading Card",
+    "description": "A premium holographic trading card, vertical 3:4 layout.",
+    "prompt": "A premium holographic trading card, vertical 3:4 layout. Center: a cyberpunk samurai in a dynamic forward-leaning pose, vibrant cinematic backlighting in cyan and magenta. Border: ornate gold filigree with rune-like icons in the four corners. Top banner reads \"LEGENDARY\" in bold serif caps. Bottom panel: name plate \"REI · NIGHTBLADE\", three small stat icons (Power 92 / Speed 88 / Magic 71) with numeric values. Holographic foil effect with iridescent rainbow streaks, slight grain, soft studio backdrop. Crisp text, no logo drift.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-13-holographic-trading-card.webp"
+  },
+  {
+    "id": "img2-14-action-figure-blister-pack",
+    "category": "illustration-3d",
+    "title": "Action Figure Blister Pack",
+    "description": "A stylized 6-inch action figure of a young female astronaut, sealed inside a premium plastic blister pack, photographed straight-on.",
+    "prompt": "A stylized 6-inch action figure of a young female astronaut, sealed inside a premium plastic blister pack, photographed straight-on. The figure stands in a confident pose with a cracked helmet under one arm and a small flag in the other hand. Cardboard backing with the headline \"COSMIC EXPLORERS · WAVE 02\" in retro space-age font, character name plaque \"CDR. NOVA\" in the lower band, three accessory cutouts on the right (helmet, flag, mini rover). Studio softbox lighting, high-detail plastic texture, glossy bubble reflections, clean white background.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-14-action-figure-blister-pack.webp"
+  },
+  {
+    "id": "img2-15-isometric-miniature-workshop",
+    "category": "illustration-3d",
+    "title": "Isometric Miniature Workshop",
+    "description": "A 45° top-down isometric miniature 3D scene of a tiny indie-developer workshop diorama on a wooden display base.",
+    "prompt": "A 45° top-down isometric miniature 3D scene of a tiny indie-developer workshop diorama on a wooden display base. Soft refined PBR textures, realistic materials, clean unified composition, minimalist aesthetic. Tiny props integrated into the architecture: a glowing laptop with a deploy progress bar, a stack of books labelled \"AGENTS\", \"SDK\" and \"DESIGN\", a coffee mug, a plant. Studio softbox lighting, subtle ambient occlusion, pastel palette dominated by sage green and warm cream. Square 1:1 frame, centered subject, plenty of negative space.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-15-isometric-miniature-workshop.webp"
+  },
+  {
+    "id": "img2-16-6-panel-retro-superhero-comic",
+    "category": "illustration-3d",
+    "title": "6-Panel Retro Superhero Comic",
+    "description": "A 6-panel retro American superhero comic page in a 2×3 grid, drawn in 1980s Marvel/DC style: bold black outlines, flat primary colors (red, blue, yellow), Ben-Day halftone shading, slight aged paper t",
+    "prompt": "A 6-panel retro American superhero comic page in a 2×3 grid, drawn in 1980s Marvel/DC style: bold black outlines, flat primary colors (red, blue, yellow), Ben-Day halftone shading, slight aged paper texture, thin black panel borders with white gutters. Panel 1: female hero STARDUST in red cape and blue suit stands heroically. Caption: \"METRO CITY — DUSK.\" Speech: \"Trouble in the East District… time to fly!\" Panel 2: villain PROFESSOR GRIM beside a glowing doomsday device. Caption: \"MEANWHILE…\" Speech: \"In sixty seconds, this city will BOW to me!\" Panel 3: Stardust bursts through a window. Large SFX: \"KRA-KOOM!\" Panel 4: Stardust punches the villain. Speech: \"Not on my watch, Professor!\" Panel 5: villain tied up, small robot dog beside Stardust. Speech: \"Looks like class is dismissed, Doc.\" Panel 6: Stardust on a skyscraper overlooking the city. Caption: \"CONTINUED NEXT ISSUE!\" Consistent character design, classic all-caps comic lettering, vibrant inks. 16:9. No watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-16-6-panel-retro-superhero-comic.webp"
+  },
+  {
+    "id": "img2-17-cyberpunk-noir-manga-page",
+    "category": "illustration-3d",
+    "title": "Cyberpunk Noir Manga Page",
+    "description": "A 2x2 black-and-white manga page in the style of late-90s seinen noir, screen-tone shading, sharp ink linework, dramatic angles.",
+    "prompt": "A 2x2 black-and-white manga page in the style of late-90s seinen noir, screen-tone shading, sharp ink linework, dramatic angles. Panel 1 (wide top): rain-soaked neon-lit alley, lone detective in a long coat, narration box \"Tokyo, 03:14. The case wasn't supposed to find me.\" Panel 2: close-up of detective's eyes under a wet brim hat, speech bubble \"…So why is it on my desk?\". Panel 3: he kicks open a metal door, SFX \"DON!\". Panel 4 (wide bottom): silhouette of a corporate suit at a window overlooking a megacity, speech bubble \"You should have stayed asleep, detective.\" Right-to-left reading order, vertical sound effects in katakana, deep blacks, fine halftone.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-17-cyberpunk-noir-manga-page.webp"
+  },
+  {
+    "id": "img2-18-hitman-in-openai-hq",
+    "category": "gaming-ui",
+    "title": "Hitman in OpenAI HQ",
+    "description": "An in-game screenshot from a Hitman-style stealth game.",
+    "prompt": "An in-game screenshot from a Hitman-style stealth game. The level is set inside the OpenAI HQ in San Francisco, sleek glass walls, exposed concrete, branded meeting rooms named \"GPT-6\", \"Sora\", \"Voice\". Agent 47 in a dark suit and red tie is hiding behind a meeting room glass partition watching two engineers walk past with laptops. Top-left HUD: minimap, mission objective \"STEAL GPT-6 WEIGHTS · NO WITNESSES\", suspicion meter low. Bottom-right: silenced pistol icon, fiber wire icon. Cinematic teal-and-orange grade, depth of field on the foreground plant, console-game look.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-18-hitman-in-openai-hq.webp"
+  },
+  {
+    "id": "img2-19-gta-6-beach-walk-screenshot",
+    "category": "gaming-ui",
+    "title": "GTA 6 Beach Walk Screenshot",
+    "description": "GTA 6 in-game footage, very detailed, very realistic.",
+    "prompt": "GTA 6 in-game footage, very detailed, very realistic. Close-up tracking shot taken from a stationary 4K monitor of a young woman in a tank top and shorts walking along a Vice City beach with her golden retriever on a leash. Bright morning light, palm trees, neon hotel signs in the soft-focus background, jet-skis in the bay. Top-left HUD: minimap, health bar, weapon wheel hint. Bottom-right ammo counter \"9mm · 12/120\". Subtle film grain, faint chromatic aberration, modern open-world realism.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-19-gta-6-beach-walk-screenshot.webp"
+  },
+  {
+    "id": "img2-20-black-myth-wukong-battle-frame",
+    "category": "gaming-ui",
+    "title": "Black Myth Wukong Battle Frame",
+    "description": "Generate a Black Myth: Wukong in-game cinematic frame.",
+    "prompt": "Generate a Black Myth: Wukong in-game cinematic frame. The Destined One (孙悟空) is mid-air, just knocked back by 二郎神's three-pointed double-edged spear. Sparks and shattered stone debris fly in all directions, golden Buddhist seals dissolving around the impact. Cliffside Tang-dynasty ruined temple in the background, swirling mist, deep red dusk sky. Lower HUD: stamina bar, health bar at 23%, focus orbs ×3, two skill icons on cooldown. Heavy cinematic motion blur, anamorphic flare, ultra-realistic Chinese mythological art direction.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-20-black-myth-wukong-battle-frame.webp"
+  },
+  {
+    "id": "img2-21-sam-altman-skatepark-snapshot",
+    "category": "portraits-photography",
+    "title": "Sam Altman Skatepark Snapshot",
+    "description": "Sam Altman on a skateboard at an empty skatepark, late afternoon.",
+    "prompt": "Sam Altman on a skateboard at an empty skatepark, late afternoon. Casual dad-vibe outfit: gray hoodie, blue jeans, white sneakers. Mid-roll on a mellow ramp, slightly off-balance, half-grin. Shot with an iPhone, slight motion blur, no people in the background, harsh sun shadows. Looks like a real candid photo someone took on the way home, not a posed editorial.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-21-sam-altman-skatepark-snapshot.webp"
+  },
+  {
+    "id": "img2-22-tim-cook-apple-park-crowd-shot",
+    "category": "portraits-photography",
+    "title": "Tim Cook Apple Park Crowd Shot",
+    "description": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook on the Steve Jobs Theater stage in front of a giant title slide reading \"INTRODUCING IPHONE 20\".",
+    "prompt": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook on the Steve Jobs Theater stage in front of a giant title slide reading \"INTRODUCING IPHONE 20\". Shot from the middle of the crowd at a distance, slightly tilted, raised hands and other phones in the foreground partially blocking the view. Dim auditorium, bright stage, slight glare on the lens, jpeg compression artifacts. No professional staging.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-22-tim-cook-apple-park-crowd-shot.webp"
+  },
+  {
+    "id": "img2-23-raw-iphone-subway-blur",
+    "category": "portraits-photography",
+    "title": "RAW iPhone Subway Blur",
+    "description": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality.",
+    "prompt": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in NYC, a momentary motion blur as the train enters. In front of the train, an elderly woman and an elderly man waiting near the yellow line, both wearing winter coats. Tile walls, fluorescent overhead lights, faint reflections on the platform floor. No HDR pop, no AI sharpening, just an honest snapshot.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-23-raw-iphone-subway-blur.webp"
+  },
+  {
+    "id": "img2-24-2003-digital-camera-family-snapshot",
+    "category": "portraits-photography",
+    "title": "2003 Digital Camera Family Snapshot",
+    "description": "Generate a photo from 2003, shot with a low-resolution digital camera, of a five-year-old child with their mom and dad in the courtyard of a residential compound in China.",
+    "prompt": "Generate a photo from 2003, shot with a low-resolution digital camera, of a five-year-old child with their mom and dad in the courtyard of a residential compound in China. Slight overexposure, harsh on-camera flash, red-eye effect, low dynamic range, bottom-right yellow date stamp \"2003 07 18\". Clothing typical of early-2000s mainland China: father in a polo shirt, mother in a floral blouse, child in shorts holding a popsicle. Concrete buildings, parked bicycles, a green tarp shade in the back.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-24-2003-digital-camera-family-snapshot.webp"
+  },
+  {
+    "id": "img2-25-90s-point-and-shoot-bedroom",
+    "category": "portraits-photography",
+    "title": "90s Point-and-Shoot Bedroom",
+    "description": "A 1990s point-and-shoot 35mm film snapshot of a teenage girl sitting on her bed, holding a portable CD player, headphones around her neck.",
+    "prompt": "A 1990s point-and-shoot 35mm film snapshot of a teenage girl sitting on her bed, holding a portable CD player, headphones around her neck. Posters of indie bands taped to the wall, a stack of magazines, fairy lights. Direct on-camera flash with hard shadow against the wall, slight red-eye, soft yellow-cyan color cast, heavy film grain, a small white date stamp \"08 14 99\" in the bottom-right corner. Composition slightly off-center, like a real personal photo.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-25-90s-point-and-shoot-bedroom.webp"
+  },
+  {
+    "id": "img2-26-convenience-store-night-group",
+    "category": "portraits-photography",
+    "title": "Convenience Store Night Group",
+    "description": "Create an ultra-realistic urban street group photo at a convenience store entrance at 10 PM, summer night.",
+    "prompt": "Create an ultra-realistic urban street group photo at a convenience store entrance at 10 PM, summer night. 3-4 young people briefly chatting, one holding a drink, one sitting on a plastic chair, one looking at their phone. Bright cool white light streaming through the glass doors and windows, warm yellow streetlights and distant car headlights outside. Everyday clothes: T-shirts, shorts, jeans, sneakers — no influencer styling. Faces and postures must look like real pedestrians, not overly polished. Real convenience-store details: freezer stickers, promo posters, a trash can, an entrance mat, glass reflections, a shared bike on the curb, water droplets from cold drink bottles on the ground. Looks like a candid photographer's slice-of-life shot.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-26-convenience-store-night-group.webp"
+  },
+  {
+    "id": "img2-27-35mm-cafe-window-portrait",
+    "category": "portraits-photography",
+    "title": "35mm Cafe Window Portrait",
+    "description": "A young woman by a rain-streaked café window at dusk, reading a worn paperback.",
+    "prompt": "A young woman by a rain-streaked café window at dusk, reading a worn paperback. 35mm film aesthetic, soft window light from the left, warm tungsten fill from the café interior, rain droplets in sharp focus on the glass, the city outside in soft bokeh with red and amber bus lights. Quiet, contemplative mood. Visible film grain, slight halation in highlights, gentle desaturation in shadows. No phones, no logos.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-27-35mm-cafe-window-portrait.webp"
+  },
+  {
+    "id": "img2-28-tokyo-yellow-raincoat-night",
+    "category": "portraits-photography",
+    "title": "Tokyo Yellow Raincoat Night",
+    "description": "A cinematic photograph of a single figure in a bright yellow vinyl raincoat, hood up, walking down a narrow Tokyo alley at night.",
+    "prompt": "A cinematic photograph of a single figure in a bright yellow vinyl raincoat, hood up, walking down a narrow Tokyo alley at night. Wet asphalt mirror-reflects the neon signs in Japanese kanji and katakana on either side — \"居酒屋\", \"カラオケ\", \"24時間\". Steam rising from a vent, distant red lantern glow, anamorphic lens flare around the brightest sign. Shot on a 35mm anamorphic, slight grain, deep teal shadows, saturated highlights.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-28-tokyo-yellow-raincoat-night.webp"
+  },
+  {
+    "id": "img2-29-hands-kneading-bread-dough",
+    "category": "portraits-photography",
+    "title": "Hands Kneading Bread Dough",
+    "description": "A close-up photograph of weathered hands kneading bread dough on a floured wooden surface.",
+    "prompt": "A close-up photograph of weathered hands kneading bread dough on a floured wooden surface. Soft directional window light from the upper-left, fine flour dust caught in the beam, visible skin texture and small flour smears, dough showing realistic stretch and surface tension. Background slightly out of focus showing a linen towel and a vintage scale. Warm earthy tones, shallow depth of field, square 1:1 crop, editorial cookbook feel.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-29-hands-kneading-bread-dough.webp"
+  },
+  {
+    "id": "img2-30-rice-grain-micro-typography",
+    "category": "portraits-photography",
+    "title": "Rice Grain Micro Typography",
+    "description": "A massive pile of white rice grains, photographed with extreme macro lens at f/8.",
+    "prompt": "A massive pile of white rice grains, photographed with extreme macro lens at f/8. Shallow depth of field on a single grain near the center which has tiny, perfectly legible black engraved text reading \"wOw\". Soft daylight from above, gentle shadows between grains, no other text or markings on any other grain. Clean, almost scientific look. Aspect ratio 1:1.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-30-rice-grain-micro-typography.webp"
+  },
+  {
+    "id": "img2-31-caustic-whiskey-glass-study",
+    "category": "product-photography",
+    "title": "Caustic Whiskey Glass Study",
+    "description": "A cinematic still-life photograph of a cut-crystal whiskey tumbler with two ice cubes and amber whiskey, sitting on a polished black walnut surface.",
+    "prompt": "A cinematic still-life photograph of a cut-crystal whiskey tumbler with two ice cubes and amber whiskey, sitting on a polished black walnut surface. A single hard backlight produces sharp caustic light patterns through the crystal onto the wood. Tiny condensation droplets cling to the glass exterior, one slow drip running down. Dark moody background, slight smoke drifting through the beam. 100mm macro lens, f/5.6, no logos, no text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-31-caustic-whiskey-glass-study.webp"
+  },
+  {
+    "id": "img2-32-floating-sneaker-hero-shot",
+    "category": "product-photography",
+    "title": "Floating Sneaker Hero Shot",
+    "description": "A high-end sneaker (clean white runner with mint accents) photographed floating in front of a deep matte black background.",
+    "prompt": "A high-end sneaker (clean white runner with mint accents) photographed floating in front of a deep matte black background. Hard rim light from the upper-right outlining the silhouette, soft fill from below, realistic suspended shadow on an invisible surface. Tiny dust particles drifting in the light. Glossy laces with realistic tension and individual fiber detail. Subtle motion-blur drag on a shoelace tip. Studio commercial look, no brand logos.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-32-floating-sneaker-hero-shot.webp"
+  },
+  {
+    "id": "img2-33-artisan-honey-jar-label",
+    "category": "product-photography",
+    "title": "Artisan Honey Jar Label",
+    "description": "Product photography of a single artisan honey jar on a soft cream paper background with a faint linen texture.",
+    "prompt": "Product photography of a single artisan honey jar on a soft cream paper background with a faint linen texture. The jar has a hexagonal silhouette, raw cork lid, twine wrap, and a label that reads \"WILDFLOWER HONEY\" in serif uppercase, beneath it \"Harvest 2026 · 340g · raw / unfiltered\" in small italic. Subtle illustration of a honeycomb and a single bee on the label. Slow honey drip down the side, soft top-down side light, gentle shadow on the right. No other text, label perfectly aligned and legible.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-33-artisan-honey-jar-label.webp"
+  },
+  {
+    "id": "img2-34-watch-on-navy-velvet-macro",
+    "category": "product-photography",
+    "title": "Watch on Navy Velvet Macro",
+    "description": "A close-up macro photograph of a luxury automatic watch resting on dark navy velvet.",
+    "prompt": "A close-up macro photograph of a luxury automatic watch resting on dark navy velvet. Stainless steel case with brushed and polished surfaces, blue sunburst dial, applied silver indices, slim sword hands at 10:08. Shallow depth of field on the crown, fine fabric texture of the velvet, soft directional reflection on the polished bezel, faint warm reflection on the sapphire crystal. No brand logo on the dial — keep dial center clean. 100mm macro, f/4.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-34-watch-on-navy-velvet-macro.webp"
+  },
+  {
+    "id": "img2-35-solar-panel-infographic",
+    "category": "infographic-educational",
+    "title": "Solar Panel Infographic",
+    "description": "A clean editorial infographic titled \"HOW SOLAR PANELS WORK\" with five labeled horizontal flow steps from left to right, each in its own rounded card with a simple line icon: 1) \"SUNLIGHT HITS PANEL\" ",
+    "prompt": "A clean editorial infographic titled \"HOW SOLAR PANELS WORK\" with five labeled horizontal flow steps from left to right, each in its own rounded card with a simple line icon: 1) \"SUNLIGHT HITS PANEL\" (sun + panel icon), 2) \"PHOTONS EXCITE ELECTRONS\" (atom icon), 3) \"DC ELECTRICITY GENERATED\" (battery icon), 4) \"INVERTER CONVERTS TO AC\" (wave icon), 5) \"POWERS YOUR HOME / GRID\" (house icon). Soft pastel palette: sage, sand, cream, soft yellow. Light off-white background, thin connecting arrows, small footnote text \"Source: U.S. DOE, 2025\". Crisp readable typography, no watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-35-solar-panel-infographic.webp"
+  },
+  {
+    "id": "img2-36-earth-layers-educational-diagram",
+    "category": "infographic-educational",
+    "title": "Earth Layers Educational Diagram",
+    "description": "A clean educational diagram of Earth's interior layers shown as a quartered cross-section.",
+    "prompt": "A clean educational diagram of Earth's interior layers shown as a quartered cross-section. From outside in: \"CRUST\" (thin grey-brown), \"UPPER MANTLE\" (warm orange), \"LOWER MANTLE\" (deep red-orange), \"OUTER CORE\" (bright molten yellow), \"INNER CORE\" (white-hot). Each layer labeled with its name, depth range in km (e.g. \"0–35 km\", \"35–660 km\", \"660–2900 km\", \"2900–5150 km\", \"5150–6371 km\") and a one-line description. Thin leader lines, soft pastel sky background, sans-serif labels, textbook style, all numbers correct.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-36-earth-layers-educational-diagram.webp"
+  },
+  {
+    "id": "img2-37-cell-structure-bilingual-diagram",
+    "category": "infographic-educational",
+    "title": "Cell Structure Bilingual Diagram",
+    "description": "细胞结构示意图，包含细胞核（Nucleus）、线粒体（Mitochondria）、内质网（Endoplasmic Reticulum）、高尔基体（Golgi Apparatus）、核糖体、细胞膜、溶酶体。每个结构带中英文双语标注，使用细引线箭头清晰指示，各结构分层、配色柔和（淡蓝、柠黄、薄荷、玫瑰），白色背景，简洁生物教材风格，文字清晰无错别字，不要乱码。",
+    "prompt": "细胞结构示意图，包含细胞核（Nucleus）、线粒体（Mitochondria）、内质网（Endoplasmic Reticulum）、高尔基体（Golgi Apparatus）、核糖体、细胞膜、溶酶体。每个结构带中英文双语标注，使用细引线箭头清晰指示，各结构分层、配色柔和（淡蓝、柠黄、薄荷、玫瑰），白色背景，简洁生物教材风格，文字清晰无错别字，不要乱码。",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-37-cell-structure-bilingual-diagram.webp"
+  },
+  {
+    "id": "img2-38-coffee-vs-tea-comparison",
+    "category": "infographic-educational",
+    "title": "Coffee vs Tea Comparison",
+    "description": "A two-column comparison infographic titled \"COFFEE vs TEA\".",
+    "prompt": "A two-column comparison infographic titled \"COFFEE vs TEA\". Left column header \"COFFEE\" in espresso brown with a steaming cup icon. Right column \"TEA\" in matcha green with a teacup icon. Six metric rows, each with an icon and clear values for both sides: \"CAFFEINE (mg / 8oz)\" 95 vs 47, \"ANTIOXIDANTS\" High vs Very High, \"AVG SERVE TIME\" 4 min vs 3 min, \"GLOBAL CONSUMERS\" 1.0B vs 2.0B, \"BEST PAIRS WITH\" Croissant vs Mochi, \"MOOD\" Sharp focus vs Calm focus. Off-white background, thin dividers, friendly rounded sans-serif, small footnote \"Illustrative figures, 2026\".",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-38-coffee-vs-tea-comparison.webp"
+  },
+  {
+    "id": "img2-39-orin-coffee-brand-logo-set",
+    "category": "poster-flyer",
+    "title": "ORIN Coffee Brand Logo Set",
+    "description": "A logo system for a specialty coffee brand called \"ORIN\" presented on a single off-white sheet.",
+    "prompt": "A logo system for a specialty coffee brand called \"ORIN\" presented on a single off-white sheet. Top-left: primary wordmark — \"ORIN\" in a confident geometric sans-serif, the letter O subtly formed by an abstract flame-leaf curl. Top-right: secondary monogram — just the stylized O on its own. Bottom-left: monochrome version (deep espresso brown). Bottom-right: small tagline lockup \"ORIN — slow roasted, slow lived.\" Hairline grid guidelines barely visible. Crisp vector look, no watermark, no other extra text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-39-orin-coffee-brand-logo-set.webp"
+  },
+  {
+    "id": "img2-40-ridge-outdoor-brand-mark",
+    "category": "poster-flyer",
+    "title": "RIDGE Outdoor Brand Mark",
+    "description": "A circular badge logo for an outdoor adventure brand called \"RIDGE\".",
+    "prompt": "A circular badge logo for an outdoor adventure brand called \"RIDGE\". Inside the circle: a stylized two-mountain silhouette with a small pine row at the base and a thin sunrise arc behind the peaks. Around the inside of the circle border, the text \"RIDGE · ESTABLISHED 2026 · WANDER WELL\" set in confident uppercase serif, kerned widely so it reads cleanly. Color: deep forest green on cream. Subtle linen paper texture beneath. No other elements, no watermark.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-40-ridge-outdoor-brand-mark.webp"
+  },
+  {
+    "id": "img2-41-premium-water-bottle-hiking-ad",
+    "category": "social-media",
+    "title": "Premium Water Bottle Hiking Ad",
+    "description": "A premium lifestyle ad for an insulated stainless-steel water bottle.",
+    "prompt": "A premium lifestyle ad for an insulated stainless-steel water bottle. A young woman hikes along a high-alpine ridge at golden hour, mountains receding into haze behind her, holding the bottle naturally at her side. The bottle is matte sage green with no visible logos. Top of frame: bold serif headline \"BUILT FOR THE LONG WAY\". Bottom: small sans-serif tagline \"Hydration that goes the distance. — Vessel Co.\" and a small product shot in the corner with the line \"24oz · 24h cold · 12h hot\". Cinematic warm color grade, slight grain. 4:5 aspect.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-41-premium-water-bottle-hiking-ad.webp"
+  },
+  {
+    "id": "img2-42-skincare-minimal-square-ad",
+    "category": "social-media",
+    "title": "Skincare Minimal Square Ad",
+    "description": "A square minimalist skincare ad.",
+    "prompt": "A square minimalist skincare ad. Pale blush pink background with a soft top-down shadow, a single frosted-glass serum bottle centered with a subtle dropper. Top-third headline in modern serif: \"YOUR SKIN. SIMPLIFIED.\" Below it in thin uppercase sans: \"ONE BOTTLE · FIVE STEPS REPLACED\". Bottom-right small product info \"30ml · niacinamide · hyaluronic acid · ceramides\" and a tiny brand mark \"AERA\". Crisp legible text, ample whitespace, magazine-grade composition.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-42-skincare-minimal-square-ad.webp"
+  },
+  {
+    "id": "img2-43-summer-sale-social-graphic",
+    "category": "social-media",
+    "title": "Summer Sale Social Graphic",
+    "description": "A vibrant summer sale Instagram graphic.",
+    "prompt": "A vibrant summer sale Instagram graphic. Sunset gradient background (peach to coral), giant playful display headline \"UP TO 50% OFF\" in chunky rounded sans, slight bouncing baseline. Below in tighter sans: \"SUMMER SALE — ENDS JULY 31\". Three floating product cutouts (sunglasses, straw hat, tote bag) casting soft realistic shadows. Bottom-left CTA pill button: \"SHOP NOW →\". Bottom-right small handle: \"@solstice.studio\". Crisp text, square 1:1.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-43-summer-sale-social-graphic.webp"
+  },
+  {
+    "id": "img2-44-surreal-koi-nebula",
+    "category": "illustration-3d",
+    "title": "Surreal Koi Nebula",
+    "description": "A surrealist digital illustration with a low-angle upward perspective.",
+    "prompt": "A surrealist digital illustration with a low-angle upward perspective. A giant translucent koi fish with iridescent scales swims through a dreamlike nebula, surrounded by vivid star clusters, drifting bubbles and faint orbital rings. A tiny silhouette of a human figure stands on a calm reflective water surface in the lower third, gazing up at the massive koi looming overhead. Soft watercolor blending into painterly digital brushwork, deep indigo to magenta sky, warm golden highlights on the koi. Vertical 9:16 composition, awe-inspiring scale, no text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-44-surreal-koi-nebula.webp"
+  },
+  {
+    "id": "img2-45-watercolor-editorial-illustration",
+    "category": "illustration-3d",
+    "title": "Watercolor Editorial Illustration",
+    "description": "A dreamy watercolor illustration of a young woman walking a long-haired dog along a quiet European canal in autumn.",
+    "prompt": "A dreamy watercolor illustration of a young woman walking a long-haired dog along a quiet European canal in autumn. Light impressionist aesthetic, loose visible brushstrokes and translucent washes in tones of dusty teal, ochre and faded rose. Soft blur on the edges, delicate morning light, falling leaves, minimalist approach with deliberate empty space. No text, no watermark. 3:4 portrait.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-45-watercolor-editorial-illustration.webp"
+  },
+  {
+    "id": "img2-46-epic-silhouette-world-poster",
+    "category": "poster-flyer",
+    "title": "Epic Silhouette World Poster",
+    "description": "Collectible epic poster featuring a young swordsman's side-profile silhouette as the main canvas.",
+    "prompt": "Collectible epic poster featuring a young swordsman's side-profile silhouette as the main canvas. Inside the silhouette grows a complete fantasy world: floating islands, a winding river, distant temple ruins, drifting cherry blossoms, a small dragon coiled in the eye, and the swordsman's allies as tiny figures along the cheekbone path. Outside the silhouette: a deep indigo sky with constellations and ink-wash clouds. Cinematic poster meets dreamlike watercolor illustration, high-density detail, strong chiaroscuro, sacred-yet-ominous mood. Bottom: title \"THE LAST INK\" in elegant serif and a small tagline \"a story drawn in one breath\".",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-46-epic-silhouette-world-poster.webp"
+  },
+  {
+    "id": "img2-47-impossible-escher-library",
+    "category": "illustration-3d",
+    "title": "Impossible Escher Library",
+    "description": "A surreal architectural illustration of an impossible library inspired by M.C.",
+    "prompt": "A surreal architectural illustration of an impossible library inspired by M.C. Escher: staircases that connect at right angles defying gravity, bookshelves on every plane including the ceiling, tiny robed figures climbing in multiple impossible orientations, soft warm lantern light from countless reading nooks, deep shadows in the unreachable corners. Subtle pencil-line architectural overlays, sepia and ink palette, fine cross-hatching, surreal but mathematically convincing perspective. Square format, no text.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-47-impossible-escher-library.webp"
+  },
+  {
+    "id": "img2-48-korean-idol-3-3-grid-portrait",
+    "category": "portraits-photography",
+    "title": "Korean Idol 3×3 Grid Portrait",
+    "description": "9:16 vertical, Korean idol portrait photoshoot, 3×3 grid (nine frames) of the same young woman, perfectly consistent facial features, hairstyle and styling across all nine frames.",
+    "prompt": "9:16 vertical, Korean idol portrait photoshoot, 3×3 grid (nine frames) of the same young woman, perfectly consistent facial features, hairstyle and styling across all nine frames. Soft black-mist filter effect, slightly lowered contrast, blooming highlights, gentle film grain. Each frame has a distinct pose: looking down, side profile, hand near jaw, looking up, candid laugh, hair flip, soft smile, eyes closed, direct gaze. Outfit: cream knit cardigan over thin white tee. Studio with off-white seamless backdrop. Thin black frame separators between cells. No watermark, no text on the image.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-48-korean-idol-3-3-grid-portrait.webp"
+  },
+  {
+    "id": "img2-49-ccd-flash-candid-snapshot",
+    "category": "portraits-photography",
+    "title": "CCD Flash Candid Snapshot",
+    "description": "Mobile phone photo using a digital CCD camera aesthetic.",
+    "prompt": "Mobile phone photo using a digital CCD camera aesthetic. Harsh on-camera flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, slightly green-yellow color cast typical of early-2000s CCD sensors. Subject: a young Asian woman mid-laugh holding a slice of pizza, sitting on the floor of a crowded apartment party with mismatched furniture and string lights. Date stamp \"2025 11 04\" small in the bottom-right. Looks like a real friend's phone photo, not editorial.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-49-ccd-flash-candid-snapshot.webp"
+  },
+  {
+    "id": "img2-50-detective-s-investigation-slide-deck",
+    "category": "ui-app-mockup",
+    "title": "Detective's Investigation Slide Deck",
+    "description": "A professional boardroom presentation slide rendered as if shown on a 16:9 monitor.",
+    "prompt": "A professional boardroom presentation slide rendered as if shown on a 16:9 monitor. Slide title in bold sans: \"FY2026 MARKET OUTLOOK — AI INFRASTRUCTURE\". Three KPI tiles across the top: \"TAM · $42B\", \"SAM · $8.7B\", \"SOM · $340M\". Below: a clean bar chart titled \"Market growth 2021–2026\" with subtle upward trend, value labels on top of each bar (3.1B, 6.4B, 11.2B, 18.9B, 28.4B, 42.0B), Y-axis labelled \"USD (B)\", X-axis years. To the right of the chart, three short bullet takeaways. Bottom-left footnote: \"Source: AGI Research, 2026\". Bottom-right slide number \"04 / 22\". Calm corporate palette of navy, white and amber. Crisp legible text, accurate numbers.",
+    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-50-detective-s-investigation-slide-deck.webp"
+  }
+]
