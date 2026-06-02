@@ -1004,7 +1004,7 @@
     "category": "poster-flyer",
     "title": "Multilingual Vintage Travel Poster — Kyoto",
     "description": "A vintage travel poster for Kyoto in spring, advertising \"BLOSSOM // KYOTO 2026\".",
-    "prompt": "A vintage travel poster for Kyoto in spring, advertising \"BLOSSOM // KYOTO 2026\". Top half: a stylized art-deco illustration of Mount Fuji silhouetted behind cascading cherry blossoms in pink, peach and cream tones. Bottom half: clean off-white panel with the headline \"BLOSSOM\" in tall serif uppercase, set kerned wide. Below it, a smaller line in elegant Japanese kanji reading \"京都の春\" (Kyoto no Haru — Kyoto Spring), perfectly legible. Tiny tagline beneath in lowercase: \"april — may // shinkansen lines now open\". Slight halftone print texture, faded edges, like a 1960s JNR rail poster.",
+    "prompt": "A vintage travel poster for Kyoto in spring, advertising \"BLOSSOM // KYOTO 2026\". Top half: a stylized art-deco illustration of Mount Fuji silhouetted behind cascading cherry blossoms in pink, peach and cream tones. Bottom half: clean off-white panel with the headline \"BLOSSOM\" in tall serif uppercase, set kerned wide. Below it, a smaller line in elegant Japanese kanji reading \"Kyoto no Haru\" (Kyoto Spring), perfectly legible. Tiny tagline beneath in lowercase: \"april — may // shinkansen lines now open\". Slight halftone print texture, faded edges, like a 1960s JNR rail poster.",
     "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-01-multilingual-vintage-travel-poster-kyoto.webp"
   },
   {
@@ -1062,38 +1062,6 @@
     "description": "A photorealistic screenshot of a SaaS e-commerce analytics dashboard in light mode at 1440p.",
     "prompt": "A photorealistic screenshot of a SaaS e-commerce analytics dashboard in light mode at 1440p. Top KPI row of four cards: \"Revenue · $84,210 · +12.4%\", \"Orders · 1,238 · +8.1%\", \"Avg Order · $68.02\", \"Conversion · 3.42%\". Center: a smooth multi-line area chart titled \"Revenue, last 30 days\" with two series (this period, previous period) and a tooltip pinned on a peak. Right column: \"Top products\" table with thumbnails, names, units sold and revenue. Bottom: traffic source donut chart with legend (Direct, Organic, Paid, Email, Social). Inter typeface, subtle shadows, 8px grid alignment.",
     "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-08-e-commerce-analytics-dashboard.webp"
-  },
-  {
-    "id": "img2-09-hi-fi-chinese-e-commerce-app-home",
-    "category": "social-media",
-    "title": "Hi-Fi Chinese E-commerce App Home",
-    "description": "Generate a high-fidelity mobile e-commerce app homepage screenshot inspired by mainstream Chinese e-commerce apps in 2026.",
-    "prompt": "Generate a high-fidelity mobile e-commerce app homepage screenshot inspired by mainstream Chinese e-commerce apps in 2026. Status bar with 9:41, 5G, full battery. Top bar: city selector \"杭州\" on the left, rounded search box centered with placeholder \"搜索耳机、咖啡机、运动鞋\", message and scan icons on the right. Horizontal category tabs: \"推荐 数码 家电 服饰 美妆 食品 运动 家居\". Top promo carousel with the banner \"618 预售开启\" and a tag \"每满300减50\". 10-icon function grid with labels \"超市 百亿补贴 秒杀 直播 充值中心 到家 领券 品牌馆 全球购 排行榜\". Flash-sale module \"限时秒杀\" with a countdown 02:14:36 and three product cards. \"猜你喜欢\" two-column waterfall with 6 product cards (image, title, price, sales tag). Bottom tab bar: \"首页 分类 购物车 消息 我的\". All Chinese text crisp and readable, realistic spacing, shadows and dividers.",
-    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-09-hi-fi-chinese-e-commerce-app-home.webp"
-  },
-  {
-    "id": "img2-10-museum-style-hanfu-infographic",
-    "category": "social-media",
-    "title": "Museum-Style Hanfu Infographic",
-    "description": "请根据「汉服」生成一张博物馆图鉴式中文拆解信息图。整张图要兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。整体风格为国家博物馆展板、历史服饰图鉴、文博专题信息图。背景采用米白与绢纸白质感。版式固定为：顶部中文主标题「汉服」加副标题「中华传统服饰图鉴」；左侧结构拆解区，中文引线标注关键部件（交领、广袖、襦、裙、腰带、蔽膝）；右上材质与工艺区（蚕丝、织锦、刺绣）；右",
-    "prompt": "请根据「汉服」生成一张博物馆图鉴式中文拆解信息图。整张图要兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。整体风格为国家博物馆展板、历史服饰图鉴、文博专题信息图。背景采用米白与绢纸白质感。版式固定为：顶部中文主标题「汉服」加副标题「中华传统服饰图鉴」；左侧结构拆解区，中文引线标注关键部件（交领、广袖、襦、裙、腰带、蔽膝）；右上材质与工艺区（蚕丝、织锦、刺绣）；右中纹样、色彩与寓意区；底部穿着顺序流程图。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字。",
-    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-10-museum-style-hanfu-infographic.webp"
-  },
-  {
-    "id": "img2-11-wechat-public-account-cover",
-    "category": "social-media",
-    "title": "WeChat Public Account Cover",
-    "description": "生成一张微信公众号封面图，主题是「AI Agent 实战指南」。画面为现代科技风格，背景有 AI 芯片轮廓、聊天气泡、代码片段，蓝紫色渐变光效。图片中必须清晰出现中文主标题：「AI Agent 实战指南」字号最大、居中偏左；副标题：「从零到上线，30 天让 LLM 真正干活」位于主标题下方；右下角小字「公众号 · 智能体周刊」。字体干净、清晰、无错别字、无乱码，适合公众号封面，留白合理，高级感强。",
-    "prompt": "生成一张微信公众号封面图，主题是「AI Agent 实战指南」。画面为现代科技风格，背景有 AI 芯片轮廓、聊天气泡、代码片段，蓝紫色渐变光效。图片中必须清晰出现中文主标题：「AI Agent 实战指南」字号最大、居中偏左；副标题：「从零到上线，30 天让 LLM 真正干活」位于主标题下方；右下角小字「公众号 · 智能体周刊」。字体干净、清晰、无错别字、无乱码，适合公众号封面，留白合理，高级感强。",
-    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-11-wechat-public-account-cover.webp"
-  },
-  {
-    "id": "img2-12-618-e-commerce-white-background-hero",
-    "category": "social-media",
-    "title": "618 E-commerce White Background Hero",
-    "description": "随手拍一个无线降噪耳机充电盒，帮我做成白底电商主图，重新打光，产品更精致。背景纯白，柔光，阴影自然且短而锐利，产品主体居中，反光高光提亮，材质质感明显提升。左上角添加一个红色圆形角标，里面写「618 直降」和小字「立省 ¥300」。右下角加一行小字「现货 · 顺丰发货」。整体符合天猫/京东主图规范，无水印，无多余装饰。",
-    "prompt": "随手拍一个无线降噪耳机充电盒，帮我做成白底电商主图，重新打光，产品更精致。背景纯白，柔光，阴影自然且短而锐利，产品主体居中，反光高光提亮，材质质感明显提升。左上角添加一个红色圆形角标，里面写「618 直降」和小字「立省 ¥300」。右下角加一行小字「现货 · 顺丰发货」。整体符合天猫/京东主图规范，无水印，无多余装饰。",
-    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-12-618-e-commerce-white-background-hero.webp"
   },
   {
     "id": "img2-13-holographic-trading-card",
@@ -1156,7 +1124,7 @@
     "category": "gaming-ui",
     "title": "Black Myth Wukong Battle Frame",
     "description": "Generate a Black Myth: Wukong in-game cinematic frame.",
-    "prompt": "Generate a Black Myth: Wukong in-game cinematic frame. The Destined One (孙悟空) is mid-air, just knocked back by 二郎神's three-pointed double-edged spear. Sparks and shattered stone debris fly in all directions, golden Buddhist seals dissolving around the impact. Cliffside Tang-dynasty ruined temple in the background, swirling mist, deep red dusk sky. Lower HUD: stamina bar, health bar at 23%, focus orbs ×3, two skill icons on cooldown. Heavy cinematic motion blur, anamorphic flare, ultra-realistic Chinese mythological art direction.",
+    "prompt": "Generate a Black Myth: Wukong in-game cinematic frame. The Destined One (Sun Wukong) is mid-air, just knocked back by Erlang Shen's three-pointed double-edged spear. Sparks and shattered stone debris fly in all directions, golden Buddhist seals dissolving around the impact. Cliffside Tang-dynasty ruined temple in the background, swirling mist, deep red dusk sky. Lower HUD: stamina bar, health bar at 23%, focus orbs ×3, two skill icons on cooldown. Heavy cinematic motion blur, anamorphic flare, ultra-realistic Chinese mythological art direction.",
     "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-20-black-myth-wukong-battle-frame.webp"
   },
   {
@@ -1220,7 +1188,7 @@
     "category": "portraits-photography",
     "title": "Tokyo Yellow Raincoat Night",
     "description": "A cinematic photograph of a single figure in a bright yellow vinyl raincoat, hood up, walking down a narrow Tokyo alley at night.",
-    "prompt": "A cinematic photograph of a single figure in a bright yellow vinyl raincoat, hood up, walking down a narrow Tokyo alley at night. Wet asphalt mirror-reflects the neon signs in Japanese kanji and katakana on either side — \"居酒屋\", \"カラオケ\", \"24時間\". Steam rising from a vent, distant red lantern glow, anamorphic lens flare around the brightest sign. Shot on a 35mm anamorphic, slight grain, deep teal shadows, saturated highlights.",
+    "prompt": "A cinematic photograph of a single figure in a bright yellow vinyl raincoat, hood up, walking down a narrow Tokyo alley at night. Wet asphalt mirror-reflects the neon signs in Japanese kanji and katakana on either side — \"izakaya\", \"karaoke\", \"24-hour\". Steam rising from a vent, distant red lantern glow, anamorphic lens flare around the brightest sign. Shot on a 35mm anamorphic, slight grain, deep teal shadows, saturated highlights.",
     "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-28-tokyo-yellow-raincoat-night.webp"
   },
   {
@@ -1286,14 +1254,6 @@
     "description": "A clean educational diagram of Earth's interior layers shown as a quartered cross-section.",
     "prompt": "A clean educational diagram of Earth's interior layers shown as a quartered cross-section. From outside in: \"CRUST\" (thin grey-brown), \"UPPER MANTLE\" (warm orange), \"LOWER MANTLE\" (deep red-orange), \"OUTER CORE\" (bright molten yellow), \"INNER CORE\" (white-hot). Each layer labeled with its name, depth range in km (e.g. \"0–35 km\", \"35–660 km\", \"660–2900 km\", \"2900–5150 km\", \"5150–6371 km\") and a one-line description. Thin leader lines, soft pastel sky background, sans-serif labels, textbook style, all numbers correct.",
     "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-36-earth-layers-educational-diagram.webp"
-  },
-  {
-    "id": "img2-37-cell-structure-bilingual-diagram",
-    "category": "infographic-educational",
-    "title": "Cell Structure Bilingual Diagram",
-    "description": "细胞结构示意图，包含细胞核（Nucleus）、线粒体（Mitochondria）、内质网（Endoplasmic Reticulum）、高尔基体（Golgi Apparatus）、核糖体、细胞膜、溶酶体。每个结构带中英文双语标注，使用细引线箭头清晰指示，各结构分层、配色柔和（淡蓝、柠黄、薄荷、玫瑰），白色背景，简洁生物教材风格，文字清晰无错别字，不要乱码。",
-    "prompt": "细胞结构示意图，包含细胞核（Nucleus）、线粒体（Mitochondria）、内质网（Endoplasmic Reticulum）、高尔基体（Golgi Apparatus）、核糖体、细胞膜、溶酶体。每个结构带中英文双语标注，使用细引线箭头清晰指示，各结构分层、配色柔和（淡蓝、柠黄、薄荷、玫瑰），白色背景，简洁生物教材风格，文字清晰无错别字，不要乱码。",
-    "preview_image_url": "https://storage.res-capy.com/img-prompt/img2-37-cell-structure-bilingual-diagram.webp"
   },
   {
     "id": "img2-38-coffee-vs-tea-comparison",
