@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "description": "Image URLs only, keyed by id. Maps 1:1 with prompts-text.json.",
-  "generated_at": "2026-05-19T06:40:10Z",
-  "count": 65,
+  "generated_at": "2026-06-02T06:20:33Z",
+  "count": 115,
   "items": {
     "convenience-store-neon-portrait": {
       "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png",
@@ -383,6 +383,306 @@
       "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-50-fantasy-magic-effect-aura.png",
       "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-50-fantasy-magic-effect-aura.png",
       "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a"
+    },
+    "img2-01-multilingual-vintage-travel-poster-kyoto": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-01-multilingual-vintage-travel-poster-kyoto.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-01-multilingual-vintage-travel-poster-kyoto.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-01-multilingual-vintage-travel-poster-kyoto.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-02-boston-spring-2026-city-poster": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-02-boston-spring-2026-city-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-02-boston-spring-2026-city-poster.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-02-boston-spring-2026-city-poster.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-03-build-2026-tech-conference-banner": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-03-build-2026-tech-conference-banner.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-03-build-2026-tech-conference-banner.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-03-build-2026-tech-conference-banner.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-04-coffee-shop-a2-qr-poster": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-04-coffee-shop-a2-qr-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-04-coffee-shop-a2-qr-poster.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-04-coffee-shop-a2-qr-poster.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-05-detective-investigation-board": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-05-detective-investigation-board.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-05-detective-investigation-board.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-05-detective-investigation-board.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-06-crypto-trading-dashboard-mockup": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-06-crypto-trading-dashboard-mockup.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-06-crypto-trading-dashboard-mockup.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-06-crypto-trading-dashboard-mockup.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-07-personal-finance-app-luma": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-07-personal-finance-app-luma.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-07-personal-finance-app-luma.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-07-personal-finance-app-luma.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-08-e-commerce-analytics-dashboard": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-08-e-commerce-analytics-dashboard.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-08-e-commerce-analytics-dashboard.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-08-e-commerce-analytics-dashboard.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-09-hi-fi-chinese-e-commerce-app-home": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-09-hi-fi-chinese-e-commerce-app-home.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-09-hi-fi-chinese-e-commerce-app-home.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-09-hi-fi-chinese-e-commerce-app-home.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-10-museum-style-hanfu-infographic": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-10-museum-style-hanfu-infographic.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-10-museum-style-hanfu-infographic.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-10-museum-style-hanfu-infographic.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-11-wechat-public-account-cover": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-11-wechat-public-account-cover.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-11-wechat-public-account-cover.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-11-wechat-public-account-cover.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-12-618-e-commerce-white-background-hero": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-12-618-e-commerce-white-background-hero.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-12-618-e-commerce-white-background-hero.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-12-618-e-commerce-white-background-hero.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-13-holographic-trading-card": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-13-holographic-trading-card.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-13-holographic-trading-card.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-13-holographic-trading-card.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-14-action-figure-blister-pack": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-14-action-figure-blister-pack.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-14-action-figure-blister-pack.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-14-action-figure-blister-pack.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-15-isometric-miniature-workshop": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-15-isometric-miniature-workshop.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-15-isometric-miniature-workshop.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-15-isometric-miniature-workshop.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-16-6-panel-retro-superhero-comic": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-16-6-panel-retro-superhero-comic.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-16-6-panel-retro-superhero-comic.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-16-6-panel-retro-superhero-comic.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-17-cyberpunk-noir-manga-page": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-17-cyberpunk-noir-manga-page.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-17-cyberpunk-noir-manga-page.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-17-cyberpunk-noir-manga-page.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-18-hitman-in-openai-hq": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-18-hitman-in-openai-hq.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-18-hitman-in-openai-hq.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-18-hitman-in-openai-hq.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-19-gta-6-beach-walk-screenshot": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-19-gta-6-beach-walk-screenshot.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-19-gta-6-beach-walk-screenshot.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-19-gta-6-beach-walk-screenshot.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-20-black-myth-wukong-battle-frame": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-20-black-myth-wukong-battle-frame.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-20-black-myth-wukong-battle-frame.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-20-black-myth-wukong-battle-frame.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-21-sam-altman-skatepark-snapshot": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-21-sam-altman-skatepark-snapshot.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-21-sam-altman-skatepark-snapshot.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-21-sam-altman-skatepark-snapshot.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-22-tim-cook-apple-park-crowd-shot": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-22-tim-cook-apple-park-crowd-shot.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-22-tim-cook-apple-park-crowd-shot.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-22-tim-cook-apple-park-crowd-shot.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-23-raw-iphone-subway-blur": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-23-raw-iphone-subway-blur.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-23-raw-iphone-subway-blur.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-23-raw-iphone-subway-blur.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-24-2003-digital-camera-family-snapshot": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-24-2003-digital-camera-family-snapshot.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-24-2003-digital-camera-family-snapshot.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-24-2003-digital-camera-family-snapshot.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-25-90s-point-and-shoot-bedroom": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-25-90s-point-and-shoot-bedroom.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-25-90s-point-and-shoot-bedroom.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-25-90s-point-and-shoot-bedroom.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-26-convenience-store-night-group": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-26-convenience-store-night-group.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-26-convenience-store-night-group.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-26-convenience-store-night-group.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-27-35mm-cafe-window-portrait": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-27-35mm-cafe-window-portrait.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-27-35mm-cafe-window-portrait.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-27-35mm-cafe-window-portrait.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-28-tokyo-yellow-raincoat-night": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-28-tokyo-yellow-raincoat-night.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-28-tokyo-yellow-raincoat-night.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-28-tokyo-yellow-raincoat-night.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-29-hands-kneading-bread-dough": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-29-hands-kneading-bread-dough.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-29-hands-kneading-bread-dough.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-29-hands-kneading-bread-dough.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-30-rice-grain-micro-typography": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-30-rice-grain-micro-typography.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-30-rice-grain-micro-typography.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-30-rice-grain-micro-typography.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-31-caustic-whiskey-glass-study": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-31-caustic-whiskey-glass-study.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-31-caustic-whiskey-glass-study.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-31-caustic-whiskey-glass-study.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-32-floating-sneaker-hero-shot": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-32-floating-sneaker-hero-shot.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-32-floating-sneaker-hero-shot.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-32-floating-sneaker-hero-shot.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-33-artisan-honey-jar-label": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-33-artisan-honey-jar-label.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-33-artisan-honey-jar-label.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-33-artisan-honey-jar-label.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-34-watch-on-navy-velvet-macro": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-34-watch-on-navy-velvet-macro.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-34-watch-on-navy-velvet-macro.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-34-watch-on-navy-velvet-macro.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-35-solar-panel-infographic": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-35-solar-panel-infographic.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-35-solar-panel-infographic.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-35-solar-panel-infographic.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-36-earth-layers-educational-diagram": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-36-earth-layers-educational-diagram.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-36-earth-layers-educational-diagram.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-36-earth-layers-educational-diagram.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-37-cell-structure-bilingual-diagram": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-37-cell-structure-bilingual-diagram.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-37-cell-structure-bilingual-diagram.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-37-cell-structure-bilingual-diagram.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-38-coffee-vs-tea-comparison": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-38-coffee-vs-tea-comparison.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-38-coffee-vs-tea-comparison.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-38-coffee-vs-tea-comparison.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-39-orin-coffee-brand-logo-set": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-39-orin-coffee-brand-logo-set.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-39-orin-coffee-brand-logo-set.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-39-orin-coffee-brand-logo-set.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-40-ridge-outdoor-brand-mark": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-40-ridge-outdoor-brand-mark.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-40-ridge-outdoor-brand-mark.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-40-ridge-outdoor-brand-mark.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-41-premium-water-bottle-hiking-ad": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-41-premium-water-bottle-hiking-ad.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-41-premium-water-bottle-hiking-ad.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-41-premium-water-bottle-hiking-ad.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-42-skincare-minimal-square-ad": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-42-skincare-minimal-square-ad.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-42-skincare-minimal-square-ad.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-42-skincare-minimal-square-ad.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-43-summer-sale-social-graphic": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-43-summer-sale-social-graphic.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-43-summer-sale-social-graphic.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-43-summer-sale-social-graphic.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-44-surreal-koi-nebula": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-44-surreal-koi-nebula.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-44-surreal-koi-nebula.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-44-surreal-koi-nebula.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-45-watercolor-editorial-illustration": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-45-watercolor-editorial-illustration.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-45-watercolor-editorial-illustration.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-45-watercolor-editorial-illustration.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-46-epic-silhouette-world-poster": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-46-epic-silhouette-world-poster.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-46-epic-silhouette-world-poster.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-46-epic-silhouette-world-poster.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-47-impossible-escher-library": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-47-impossible-escher-library.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-47-impossible-escher-library.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-47-impossible-escher-library.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-48-korean-idol-3-3-grid-portrait": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-48-korean-idol-3-3-grid-portrait.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-48-korean-idol-3-3-grid-portrait.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-48-korean-idol-3-3-grid-portrait.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-49-ccd-flash-candid-snapshot": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-49-ccd-flash-candid-snapshot.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-49-ccd-flash-candid-snapshot.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-49-ccd-flash-candid-snapshot.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+    },
+    "img2-50-detective-s-investigation-slide-deck": {
+      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-50-detective-s-investigation-slide-deck.png",
+      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-50-detective-s-investigation-slide-deck.png",
+      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-50-detective-s-investigation-slide-deck.png",
+      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
     }
   }
 }
