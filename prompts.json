@@ -1308,7 +1308,7 @@
       "aspect_ratio": "9:16",
       "prompt": "35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s woman with ultra-realistic delicate features, seductive almond-shaped eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, long dark hair in a messy high ponytail with loose strands falling around face, wearing an oversized white button-up shirt loosely tied at the waist, paired with a tiny black pleated mini skirt, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior in background, authentic 35mm film color grading, no plastic skin, no watermark, no text",
       "negative_prompt": "no plastic skin, no watermark, no text",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png",
+      "preview_image": "https://storage.res-capy.com/case-images/convenience-store-neon-portrait.png",
       "color_palette": [
         "#0a0a0a",
         "#ff6fb4",
@@ -1339,8 +1339,6 @@
         "ok": true,
         "duration_sec": 174.3
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/convenience-store-neon-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/convenience-store-neon-portrait.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -1367,7 +1365,7 @@
       "aspect_ratio": "9:16",
       "prompt": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city's waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads 'SPRING 2026' with a vertical slogan 'BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION', text clear and beautifully composed, premium graphic design, 9:16",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png",
+      "preview_image": "https://storage.res-capy.com/case-images/boston-spring-2026-city-poster.png",
       "color_palette": [
         "#f5efe6",
         "#a01c2b",
@@ -1397,8 +1395,6 @@
         "ok": true,
         "duration_sec": 184.2
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/boston-spring-2026-city-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/boston-spring-2026-city-poster.png",
       "usage_category": "marketing",
       "primary_style": "poster",
       "tagline_en": "Eye-catching typographic poster for events and campaigns.",
@@ -1425,7 +1421,7 @@
       "aspect_ratio": "3:4",
       "prompt": "Modern pencil illustration of a vintage travel poster depicting the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style with loose strokes and defined contours. High-contrast color palette, contemporary and decorative aesthetic.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png",
+      "preview_image": "https://storage.res-capy.com/case-images/amalfi-coast-vintage-travel-poster.png",
       "color_palette": [
         "#f8d44a",
         "#1f5fa8",
@@ -1455,8 +1451,6 @@
         "ok": true,
         "duration_sec": 153.7
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/amalfi-coast-vintage-travel-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/amalfi-coast-vintage-travel-poster.png",
       "usage_category": "marketing",
       "primary_style": "poster",
       "tagline_en": "Eye-catching typographic poster for events and campaigns.",
@@ -1482,7 +1476,7 @@
       "aspect_ratio": "16:9",
       "prompt": "Create a detailed character design sheet for Lira, a young female explorer-mechanic-inventor in her early 20s. Include front, side, and back turnaround views in T-pose. She wears an olive-green fur-lined parka with copper buckles, a golden hand-knit scarf, leather utility belt with brass tools and small gears, weathered cargo trousers, and worn brown leather boots. Add an array of six expressive facial expressions in a top row (curious, determined, surprised, thoughtful, mischievous, proud). Include an equipment breakdown panel: brass goggles, leather-bound journal, hand-cranked lantern, and a compact mechanical wing-pack. Bottom corner: small thumbnail of a snowy mountain village at dusk where she lives. Clean off-white parchment background with pencil grid guidelines, soft watercolor wash, refined ink linework, character sheet typography labels in elegant serif, professional concept art style, 16:9.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png",
+      "preview_image": "https://storage.res-capy.com/case-images/adventure-character-design-sheet.png",
       "color_palette": [
         "#f3eadc",
         "#5d6e3f",
@@ -1512,8 +1506,6 @@
         "ok": true,
         "duration_sec": 223.9
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/adventure-character-design-sheet.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/adventure-character-design-sheet.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Original character concept ready for game, animation, or fiction.",
@@ -1539,7 +1531,7 @@
       "aspect_ratio": "3:4",
       "prompt": "Product advertising photo, seasonal summer product, carbonated beverage, name='Summer Citrus SODA', shape=500ml plastic bottle, research 2025 high-CTR drink ad designs and generate accordingly, aspect ratio 3:4",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png",
+      "preview_image": "https://storage.res-capy.com/case-images/summer-citrus-soda-ad.png",
       "color_palette": [
         "#ffb12d",
         "#ff5b3a",
@@ -1569,8 +1561,6 @@
         "ok": true,
         "duration_sec": 59.2
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/summer-citrus-soda-ad.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/summer-citrus-soda-ad.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -1597,7 +1587,7 @@
       "aspect_ratio": "16:9",
       "prompt": "A SaaS analytics dashboard in dark mode. Charcoal background (#1a1a2e) with cards showing: a line chart of monthly revenue in gradient green, a donut chart of traffic sources, a data table of top products, and KPI cards with up/down trend arrows. Sidebar navigation on the left with icons. Subtle glass-morphism effect on cards, Inter font, 8px border radius throughout. High-fidelity UI mockup, pixel-clean rendering, accurate typography, 16:9.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png",
+      "preview_image": "https://storage.res-capy.com/case-images/saas-dashboard-dark-mode.png",
       "color_palette": [
         "#1a1a2e",
         "#22c58a",
@@ -1627,8 +1617,6 @@
         "ok": true,
         "duration_sec": 80.4
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/saas-dashboard-dark-mode.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/saas-dashboard-dark-mode.png",
       "usage_category": "business",
       "primary_style": "minimal",
       "tagline_en": "Production-ready app or website screen for product showcases.",
@@ -1654,7 +1642,7 @@
       "aspect_ratio": "9:16",
       "prompt": "A mobile app onboarding screen design for a meditation app. Clean, calming layout with a large illustration of a person meditating on a cloud at the top half. Below: a headline 'Find Your Inner Peace', a brief description in light gray text, pagination dots showing screen 2 of 4, and a rounded 'Continue' button in soft lavender. White background, ample whitespace, Inter font. Pixel-perfect mobile UI mockup, 9:16, iPhone 15 Pro device frame optional.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png",
+      "preview_image": "https://storage.res-capy.com/case-images/meditation-app-onboarding.png",
       "color_palette": [
         "#ffffff",
         "#bfa6ff",
@@ -1683,8 +1671,6 @@
         "ok": true,
         "duration_sec": 57.8
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/meditation-app-onboarding.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/meditation-app-onboarding.png",
       "usage_category": "business",
       "primary_style": "minimal",
       "tagline_en": "Production-ready app or website screen for product showcases.",
@@ -1710,7 +1696,7 @@
       "aspect_ratio": "4:3",
       "prompt": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA at night, a beautiful young woman in a long black coat standing near the closing doors looking at her phone, slight motion blur, fluorescent ceiling lights, mild lens flare, natural skin tones, no beauty filter, candid composition, slight handheld tilt, authentic everyday atmosphere, 4:3.",
       "negative_prompt": "no beauty filter, no over-saturation, no professional lighting",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png",
+      "preview_image": "https://storage.res-capy.com/case-images/subway-candid-iphone.png",
       "color_palette": [
         "#1f2230",
         "#d8c6a8",
@@ -1741,8 +1727,6 @@
         "ok": true,
         "duration_sec": 58.5
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/subway-candid-iphone.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/subway-candid-iphone.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -1768,7 +1752,7 @@
       "aspect_ratio": "1:1",
       "prompt": "A near-future sci-fi version of a mandala — intricate geometric patterns mixed with holographic and cyberpunk aesthetics, glowing neon lines in cyan, magenta, and electric violet, deep starfield background with subtle nebula, ultra-detailed symmetrical design, fine line precision, faint hexagonal grid overlay, sacred-geometry-meets-tech feel, premium digital art, 1:1.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png",
+      "preview_image": "https://storage.res-capy.com/case-images/futuristic-mandala-cyberpunk.png",
       "color_palette": [
         "#0b0820",
         "#22d3ee",
@@ -1798,8 +1782,6 @@
         "ok": true,
         "duration_sec": 83.7
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/futuristic-mandala-cyberpunk.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/futuristic-mandala-cyberpunk.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Distinctive illustrated artwork for editorial and content use.",
@@ -1825,7 +1807,7 @@
       "aspect_ratio": "16:9",
       "prompt": "Create a cinematic sci-fi movie teaser poster in 16:9 landscape format. A lone woman stands in silhouette at the edge of an enormous cubic chamber filled with hundreds of glowing holographic data screens that float in concentric rings around her. Cool cyan and amber rim light. A faint particle haze drifts through the air. Title 'INVENTOR' in wide-spaced uppercase serif typography across the top, with a tagline 'DISCOVERY IS JUST THE BEGINNING' below in small letter-spaced sans-serif. Bottom credits block in tiny condensed type. Premium movie-poster grading, deep blacks, cinematic key art quality, 16:9.",
       "negative_prompt": null,
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png",
+      "preview_image": "https://storage.res-capy.com/case-images/scifi-inventor-teaser-poster.png",
       "color_palette": [
         "#05070d",
         "#22d3ee",
@@ -1855,8 +1837,6 @@
         "ok": true,
         "duration_sec": 173.1
       },
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/scifi-inventor-teaser-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e180f6836e6f60d175de47e48a82d162b99e7a80/case-images/scifi-inventor-teaser-poster.png",
       "usage_category": "marketing",
       "primary_style": "poster",
       "tagline_en": "Eye-catching typographic poster for events and campaigns.",
@@ -1911,10 +1891,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/vintage-tokyo-jazz-club-poster.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "preview_image": "https://storage.res-capy.com/case-images/vintage-tokyo-jazz-club-poster.png",
       "usage_category": "marketing",
       "primary_style": "poster",
       "tagline_en": "Eye-catching typographic poster for events and campaigns.",
@@ -1969,10 +1946,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/minimalist-skincare-bottle-marble.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "preview_image": "https://storage.res-capy.com/case-images/minimalist-skincare-bottle-marble.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -2027,10 +2001,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/isometric-cozy-coffee-shop-3d.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "preview_image": "https://storage.res-capy.com/case-images/isometric-cozy-coffee-shop-3d.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Distinctive illustrated artwork for editorial and content use.",
@@ -2085,10 +2056,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/cyberpunk-mech-pilot-character-sheet.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "preview_image": "https://storage.res-capy.com/case-images/cyberpunk-mech-pilot-character-sheet.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Original character concept ready for game, animation, or fiction.",
@@ -2143,10 +2111,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/e11255eeeaca19ea5f56b43ebde68f6dec8bfa40/case-images/crypto-trading-app-dark-mode-ui.png",
-      "preview_image_pinned_sha": "e11255eeeaca19ea5f56b43ebde68f6dec8bfa40",
+      "preview_image": "https://storage.res-capy.com/case-images/crypto-trading-app-dark-mode-ui.png",
       "usage_category": "business",
       "primary_style": "minimal",
       "tagline_en": "Production-ready app or website screen for product showcases.",
@@ -2184,10 +2149,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-01-linkedin-executive-headshot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-01-linkedin-executive-headshot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-01-linkedin-executive-headshot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-01-linkedin-executive-headshot.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2225,10 +2187,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-02-silicon-valley-founder-portrait.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-02-silicon-valley-founder-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-02-silicon-valley-founder-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-02-silicon-valley-founder-portrait.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2266,10 +2225,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-03-korean-haima-studio-portrait.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-03-korean-haima-studio-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-03-korean-haima-studio-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-03-korean-haima-studio-portrait.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2307,10 +2263,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-04-sporty-girlfriend-photoshoot.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2348,10 +2301,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-05-times-square-night-portrait.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-05-times-square-night-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-05-times-square-night-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-05-times-square-night-portrait.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2389,10 +2339,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-06-rainy-city-noir.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-06-rainy-city-noir.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-06-rainy-city-noir.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-06-rainy-city-noir.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2430,10 +2377,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-07-paris-fashion-week-runway.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-07-paris-fashion-week-runway.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-07-paris-fashion-week-runway.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-07-paris-fashion-week-runway.png",
       "usage_category": "marketing",
       "primary_style": "realistic",
       "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
@@ -2471,10 +2415,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-08-70s-polaroid-family-photo.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-08-70s-polaroid-family-photo.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-08-70s-polaroid-family-photo.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-08-70s-polaroid-family-photo.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2512,10 +2453,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-09-1990s-magazine-cover-look.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-09-1990s-magazine-cover-look.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-09-1990s-magazine-cover-look.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-09-1990s-magazine-cover-look.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2553,10 +2491,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-10-y2k-bedroom-mirror-selfie.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2594,10 +2529,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-11-victorian-daguerreotype-ghost.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-11-victorian-daguerreotype-ghost.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-11-victorian-daguerreotype-ghost.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-11-victorian-daguerreotype-ghost.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2635,10 +2567,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-12-1980s-arcade-hall-scene.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-12-1980s-arcade-hall-scene.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-12-1980s-arcade-hall-scene.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-12-1980s-arcade-hall-scene.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Magazine-grade portrait for headshots, profiles, and lifestyle.",
@@ -2676,10 +2605,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-13-1-7-scale-collectible-figure.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-13-1-7-scale-collectible-figure.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-13-1-7-scale-collectible-figure.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-13-1-7-scale-collectible-figure.png",
       "usage_category": "business",
       "primary_style": "3d_render",
       "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
@@ -2717,10 +2643,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-14-knitted-plush-toy.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-14-knitted-plush-toy.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-14-knitted-plush-toy.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-14-knitted-plush-toy.png",
       "usage_category": "business",
       "primary_style": "3d_render",
       "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
@@ -2758,10 +2681,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-15-bronze-trophy-statue.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-15-bronze-trophy-statue.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-15-bronze-trophy-statue.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-15-bronze-trophy-statue.png",
       "usage_category": "business",
       "primary_style": "3d_render",
       "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
@@ -2799,10 +2719,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-16-marble-renaissance-sculpture.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-16-marble-renaissance-sculpture.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-16-marble-renaissance-sculpture.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-16-marble-renaissance-sculpture.png",
       "usage_category": "business",
       "primary_style": "3d_render",
       "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
@@ -2840,10 +2757,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-17-3d-q-version-app-icon.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-17-3d-q-version-app-icon.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-17-3d-q-version-app-icon.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-17-3d-q-version-app-icon.png",
       "usage_category": "business",
       "primary_style": "3d_render",
       "tagline_en": "Production-grade 3D render for product, merch, or visualization.",
@@ -2881,10 +2795,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-18-studio-ghibli-anime-style.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-18-studio-ghibli-anime-style.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-18-studio-ghibli-anime-style.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-18-studio-ghibli-anime-style.png",
       "usage_category": "personal",
       "primary_style": "illustration",
       "tagline_en": "Transform any photo into a distinctive artistic style.",
@@ -2922,10 +2833,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-19-origami-paper-sculpture.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-19-origami-paper-sculpture.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-19-origami-paper-sculpture.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-19-origami-paper-sculpture.png",
       "usage_category": "personal",
       "primary_style": "illustration",
       "tagline_en": "Transform any photo into a distinctive artistic style.",
@@ -2963,10 +2871,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-20-street-graffiti-mural.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-20-street-graffiti-mural.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-20-street-graffiti-mural.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-20-street-graffiti-mural.png",
       "usage_category": "personal",
       "primary_style": "illustration",
       "tagline_en": "Transform any photo into a distinctive artistic style.",
@@ -3004,10 +2909,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-21-holographic-y2k-effect.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-21-holographic-y2k-effect.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-21-holographic-y2k-effect.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-21-holographic-y2k-effect.png",
       "usage_category": "personal",
       "primary_style": "illustration",
       "tagline_en": "Transform any photo into a distinctive artistic style.",
@@ -3045,10 +2947,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-22-architecture-cardboard-model.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-22-architecture-cardboard-model.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-22-architecture-cardboard-model.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-22-architecture-cardboard-model.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
@@ -3086,10 +2985,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-23-phone-screen-3d-illusion.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-23-phone-screen-3d-illusion.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-23-phone-screen-3d-illusion.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-23-phone-screen-3d-illusion.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
@@ -3127,10 +3023,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-24-worm-s-eye-group-selfie.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-24-worm-s-eye-group-selfie.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-24-worm-s-eye-group-selfie.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-24-worm-s-eye-group-selfie.png",
       "usage_category": "content",
       "primary_style": "realistic",
       "tagline_en": "Scroll-stopping visual designed to perform on social media.",
@@ -3168,10 +3061,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-25-music-player-ui-overlay.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-25-music-player-ui-overlay.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-25-music-player-ui-overlay.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-25-music-player-ui-overlay.png",
       "usage_category": "content",
       "primary_style": "realistic",
       "tagline_en": "Scroll-stopping visual designed to perform on social media.",
@@ -3209,10 +3099,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-26-cartoon-sticker-self.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-26-cartoon-sticker-self.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-26-cartoon-sticker-self.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-26-cartoon-sticker-self.png",
       "usage_category": "content",
       "primary_style": "realistic",
       "tagline_en": "Scroll-stopping visual designed to perform on social media.",
@@ -3250,10 +3137,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-27-shop-window-cartoon-reflection.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-27-shop-window-cartoon-reflection.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-27-shop-window-cartoon-reflection.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-27-shop-window-cartoon-reflection.png",
       "usage_category": "content",
       "primary_style": "realistic",
       "tagline_en": "Scroll-stopping visual designed to perform on social media.",
@@ -3291,10 +3175,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-28-outfit-swap-from-reference-photo-2.png",
       "usage_category": "marketing",
       "primary_style": "realistic",
       "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
@@ -3332,10 +3213,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-29-vogue-editorial-fashion.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-29-vogue-editorial-fashion.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-29-vogue-editorial-fashion.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-29-vogue-editorial-fashion.png",
       "usage_category": "marketing",
       "primary_style": "realistic",
       "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
@@ -3373,10 +3251,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-30-tailored-business-suit-swap.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-30-tailored-business-suit-swap.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-30-tailored-business-suit-swap.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-30-tailored-business-suit-swap.png",
       "usage_category": "marketing",
       "primary_style": "realistic",
       "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
@@ -3414,10 +3289,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-31-beach-wave-hair-transformation.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-31-beach-wave-hair-transformation.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-31-beach-wave-hair-transformation.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-31-beach-wave-hair-transformation.png",
       "usage_category": "marketing",
       "primary_style": "realistic",
       "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
@@ -3455,10 +3327,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-32-streetwear-style-conversion.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-32-streetwear-style-conversion.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-32-streetwear-style-conversion.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-32-streetwear-style-conversion.png",
       "usage_category": "marketing",
       "primary_style": "realistic",
       "tagline_en": "Editorial fashion visual ready for campaigns and lookbooks.",
@@ -3496,10 +3365,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-33-beach-jewelry-display.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-33-beach-jewelry-display.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-33-beach-jewelry-display.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-33-beach-jewelry-display.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3537,10 +3403,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-34-boho-tote-bag-lifestyle.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-34-boho-tote-bag-lifestyle.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-34-boho-tote-bag-lifestyle.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-34-boho-tote-bag-lifestyle.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3578,10 +3441,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-35-premium-3d-podium-product-shot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-35-premium-3d-podium-product-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-35-premium-3d-podium-product-shot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-35-premium-3d-podium-product-shot.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3619,10 +3479,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-36-underwater-bottle-shot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-36-underwater-bottle-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-36-underwater-bottle-shot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-36-underwater-bottle-shot.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3660,10 +3517,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-37-marble-countertop-skincare.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-37-marble-countertop-skincare.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-37-marble-countertop-skincare.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-37-marble-countertop-skincare.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3701,10 +3555,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-38-ecommerce-white-background.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-38-ecommerce-white-background.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-38-ecommerce-white-background.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-38-ecommerce-white-background.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3742,10 +3593,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-39-floating-hero-lipstick-shot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-39-floating-hero-lipstick-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-39-floating-hero-lipstick-shot.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-39-floating-hero-lipstick-shot.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3783,10 +3631,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-40-flatlay-kitchen-knife.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-40-flatlay-kitchen-knife.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-40-flatlay-kitchen-knife.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-40-flatlay-kitchen-knife.png",
       "usage_category": "business",
       "primary_style": "realistic",
       "tagline_en": "E-commerce-ready product shot with crisp lighting and clean composition.",
@@ -3824,10 +3669,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-41-background-replacement-sunset-city.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-41-background-replacement-sunset-city.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-41-background-replacement-sunset-city.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-41-background-replacement-sunset-city.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -3865,10 +3707,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-42-pure-white-studio-replace.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-42-pure-white-studio-replace.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-42-pure-white-studio-replace.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-42-pure-white-studio-replace.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -3904,10 +3743,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-43-object-removal-cleanup.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-43-object-removal-cleanup.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-43-object-removal-cleanup.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-43-object-removal-cleanup.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -3945,10 +3781,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-44-cinematic-teal-orange-grade.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-44-cinematic-teal-orange-grade.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-44-cinematic-teal-orange-grade.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-44-cinematic-teal-orange-grade.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -3986,10 +3819,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-45-portrait-skin-eye-enhance.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-45-portrait-skin-eye-enhance.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-45-portrait-skin-eye-enhance.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-45-portrait-skin-eye-enhance.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -4027,10 +3857,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-46-movie-poster-treatment.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-46-movie-poster-treatment.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-46-movie-poster-treatment.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-46-movie-poster-treatment.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -4068,10 +3895,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-47-high-contrast-b-w-portrait.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-47-high-contrast-b-w-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-47-high-contrast-b-w-portrait.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-47-high-contrast-b-w-portrait.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -4109,10 +3933,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-48-before-after-split-compare.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-48-before-after-split-compare.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-48-before-after-split-compare.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-48-before-after-split-compare.png",
       "usage_category": "personal",
       "primary_style": "realistic",
       "tagline_en": "Pro-grade photo enhancement and retouching for everyday photos.",
@@ -4150,10 +3971,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-49-line-drawing-sketch-on-notebook.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
@@ -4191,10 +4009,7 @@
       "language": "en",
       "mode": "text-to-image",
       "model": "openai/gpt-image-2",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-50-fantasy-magic-effect-aura.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/i2i-50-fantasy-magic-effect-aura.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a/case-images/i2i-50-fantasy-magic-effect-aura.png",
-      "preview_image_pinned_sha": "2c08803f5b7a078ee7121b7dc5b5cc7fff4af19a",
+      "preview_image": "https://storage.res-capy.com/case-images/i2i-50-fantasy-magic-effect-aura.png",
       "usage_category": "content",
       "primary_style": "illustration",
       "tagline_en": "Imaginative visual for storytelling, content, or social posts.",
@@ -4238,10 +4053,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-01-multilingual-vintage-travel-poster-kyoto.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-01-multilingual-vintage-travel-poster-kyoto.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-01-multilingual-vintage-travel-poster-kyoto.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-01-multilingual-vintage-travel-poster-kyoto.png"
     },
     {
       "id": "img2-02-boston-spring-2026-city-poster",
@@ -4279,10 +4091,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-02-boston-spring-2026-city-poster.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-02-boston-spring-2026-city-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-02-boston-spring-2026-city-poster.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-02-boston-spring-2026-city-poster.png"
     },
     {
       "id": "img2-03-build-2026-tech-conference-banner",
@@ -4320,10 +4129,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-03-build-2026-tech-conference-banner.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-03-build-2026-tech-conference-banner.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-03-build-2026-tech-conference-banner.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-03-build-2026-tech-conference-banner.png"
     },
     {
       "id": "img2-04-coffee-shop-a2-qr-poster",
@@ -4361,10 +4167,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-04-coffee-shop-a2-qr-poster.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-04-coffee-shop-a2-qr-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-04-coffee-shop-a2-qr-poster.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-04-coffee-shop-a2-qr-poster.png"
     },
     {
       "id": "img2-05-detective-investigation-board",
@@ -4402,10 +4205,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-05-detective-investigation-board.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-05-detective-investigation-board.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-05-detective-investigation-board.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-05-detective-investigation-board.png"
     },
     {
       "id": "img2-06-crypto-trading-dashboard-mockup",
@@ -4443,10 +4243,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-06-crypto-trading-dashboard-mockup.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-06-crypto-trading-dashboard-mockup.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-06-crypto-trading-dashboard-mockup.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-06-crypto-trading-dashboard-mockup.png"
     },
     {
       "id": "img2-07-personal-finance-app-luma",
@@ -4484,10 +4281,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-07-personal-finance-app-luma.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-07-personal-finance-app-luma.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-07-personal-finance-app-luma.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-07-personal-finance-app-luma.png"
     },
     {
       "id": "img2-08-e-commerce-analytics-dashboard",
@@ -4525,10 +4319,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-08-e-commerce-analytics-dashboard.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-08-e-commerce-analytics-dashboard.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-08-e-commerce-analytics-dashboard.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-08-e-commerce-analytics-dashboard.png"
     },
     {
       "id": "img2-09-hi-fi-chinese-e-commerce-app-home",
@@ -4566,10 +4357,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-09-hi-fi-chinese-e-commerce-app-home.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-09-hi-fi-chinese-e-commerce-app-home.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-09-hi-fi-chinese-e-commerce-app-home.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-09-hi-fi-chinese-e-commerce-app-home.png"
     },
     {
       "id": "img2-10-museum-style-hanfu-infographic",
@@ -4607,10 +4395,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-10-museum-style-hanfu-infographic.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-10-museum-style-hanfu-infographic.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-10-museum-style-hanfu-infographic.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-10-museum-style-hanfu-infographic.png"
     },
     {
       "id": "img2-11-wechat-public-account-cover",
@@ -4648,10 +4433,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-11-wechat-public-account-cover.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-11-wechat-public-account-cover.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-11-wechat-public-account-cover.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-11-wechat-public-account-cover.png"
     },
     {
       "id": "img2-12-618-e-commerce-white-background-hero",
@@ -4689,10 +4471,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-12-618-e-commerce-white-background-hero.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-12-618-e-commerce-white-background-hero.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-12-618-e-commerce-white-background-hero.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-12-618-e-commerce-white-background-hero.png"
     },
     {
       "id": "img2-13-holographic-trading-card",
@@ -4730,10 +4509,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-13-holographic-trading-card.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-13-holographic-trading-card.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-13-holographic-trading-card.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-13-holographic-trading-card.png"
     },
     {
       "id": "img2-14-action-figure-blister-pack",
@@ -4771,10 +4547,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-14-action-figure-blister-pack.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-14-action-figure-blister-pack.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-14-action-figure-blister-pack.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-14-action-figure-blister-pack.png"
     },
     {
       "id": "img2-15-isometric-miniature-workshop",
@@ -4812,10 +4585,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-15-isometric-miniature-workshop.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-15-isometric-miniature-workshop.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-15-isometric-miniature-workshop.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-15-isometric-miniature-workshop.png"
     },
     {
       "id": "img2-16-6-panel-retro-superhero-comic",
@@ -4853,10 +4623,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-16-6-panel-retro-superhero-comic.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-16-6-panel-retro-superhero-comic.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-16-6-panel-retro-superhero-comic.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-16-6-panel-retro-superhero-comic.png"
     },
     {
       "id": "img2-17-cyberpunk-noir-manga-page",
@@ -4894,10 +4661,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-17-cyberpunk-noir-manga-page.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-17-cyberpunk-noir-manga-page.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-17-cyberpunk-noir-manga-page.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-17-cyberpunk-noir-manga-page.png"
     },
     {
       "id": "img2-18-hitman-in-openai-hq",
@@ -4935,10 +4699,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-18-hitman-in-openai-hq.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-18-hitman-in-openai-hq.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-18-hitman-in-openai-hq.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-18-hitman-in-openai-hq.png"
     },
     {
       "id": "img2-19-gta-6-beach-walk-screenshot",
@@ -4976,10 +4737,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-19-gta-6-beach-walk-screenshot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-19-gta-6-beach-walk-screenshot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-19-gta-6-beach-walk-screenshot.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-19-gta-6-beach-walk-screenshot.png"
     },
     {
       "id": "img2-20-black-myth-wukong-battle-frame",
@@ -5017,10 +4775,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-20-black-myth-wukong-battle-frame.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-20-black-myth-wukong-battle-frame.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-20-black-myth-wukong-battle-frame.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-20-black-myth-wukong-battle-frame.png"
     },
     {
       "id": "img2-21-sam-altman-skatepark-snapshot",
@@ -5058,10 +4813,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-21-sam-altman-skatepark-snapshot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-21-sam-altman-skatepark-snapshot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-21-sam-altman-skatepark-snapshot.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-21-sam-altman-skatepark-snapshot.png"
     },
     {
       "id": "img2-22-tim-cook-apple-park-crowd-shot",
@@ -5099,10 +4851,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-22-tim-cook-apple-park-crowd-shot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-22-tim-cook-apple-park-crowd-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-22-tim-cook-apple-park-crowd-shot.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-22-tim-cook-apple-park-crowd-shot.png"
     },
     {
       "id": "img2-23-raw-iphone-subway-blur",
@@ -5140,10 +4889,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-23-raw-iphone-subway-blur.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-23-raw-iphone-subway-blur.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-23-raw-iphone-subway-blur.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-23-raw-iphone-subway-blur.png"
     },
     {
       "id": "img2-24-2003-digital-camera-family-snapshot",
@@ -5181,10 +4927,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-24-2003-digital-camera-family-snapshot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-24-2003-digital-camera-family-snapshot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-24-2003-digital-camera-family-snapshot.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-24-2003-digital-camera-family-snapshot.png"
     },
     {
       "id": "img2-25-90s-point-and-shoot-bedroom",
@@ -5222,10 +4965,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-25-90s-point-and-shoot-bedroom.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-25-90s-point-and-shoot-bedroom.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-25-90s-point-and-shoot-bedroom.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-25-90s-point-and-shoot-bedroom.png"
     },
     {
       "id": "img2-26-convenience-store-night-group",
@@ -5263,10 +5003,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-26-convenience-store-night-group.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-26-convenience-store-night-group.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-26-convenience-store-night-group.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-26-convenience-store-night-group.png"
     },
     {
       "id": "img2-27-35mm-cafe-window-portrait",
@@ -5304,10 +5041,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-27-35mm-cafe-window-portrait.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-27-35mm-cafe-window-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-27-35mm-cafe-window-portrait.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-27-35mm-cafe-window-portrait.png"
     },
     {
       "id": "img2-28-tokyo-yellow-raincoat-night",
@@ -5345,10 +5079,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-28-tokyo-yellow-raincoat-night.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-28-tokyo-yellow-raincoat-night.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-28-tokyo-yellow-raincoat-night.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-28-tokyo-yellow-raincoat-night.png"
     },
     {
       "id": "img2-29-hands-kneading-bread-dough",
@@ -5386,10 +5117,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-29-hands-kneading-bread-dough.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-29-hands-kneading-bread-dough.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-29-hands-kneading-bread-dough.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-29-hands-kneading-bread-dough.png"
     },
     {
       "id": "img2-30-rice-grain-micro-typography",
@@ -5427,10 +5155,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-30-rice-grain-micro-typography.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-30-rice-grain-micro-typography.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-30-rice-grain-micro-typography.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-30-rice-grain-micro-typography.png"
     },
     {
       "id": "img2-31-caustic-whiskey-glass-study",
@@ -5468,10 +5193,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-31-caustic-whiskey-glass-study.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-31-caustic-whiskey-glass-study.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-31-caustic-whiskey-glass-study.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-31-caustic-whiskey-glass-study.png"
     },
     {
       "id": "img2-32-floating-sneaker-hero-shot",
@@ -5509,10 +5231,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-32-floating-sneaker-hero-shot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-32-floating-sneaker-hero-shot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-32-floating-sneaker-hero-shot.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-32-floating-sneaker-hero-shot.png"
     },
     {
       "id": "img2-33-artisan-honey-jar-label",
@@ -5550,10 +5269,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-33-artisan-honey-jar-label.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-33-artisan-honey-jar-label.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-33-artisan-honey-jar-label.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-33-artisan-honey-jar-label.png"
     },
     {
       "id": "img2-34-watch-on-navy-velvet-macro",
@@ -5591,10 +5307,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-34-watch-on-navy-velvet-macro.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-34-watch-on-navy-velvet-macro.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-34-watch-on-navy-velvet-macro.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-34-watch-on-navy-velvet-macro.png"
     },
     {
       "id": "img2-35-solar-panel-infographic",
@@ -5632,10 +5345,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-35-solar-panel-infographic.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-35-solar-panel-infographic.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-35-solar-panel-infographic.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-35-solar-panel-infographic.png"
     },
     {
       "id": "img2-36-earth-layers-educational-diagram",
@@ -5673,10 +5383,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-36-earth-layers-educational-diagram.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-36-earth-layers-educational-diagram.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-36-earth-layers-educational-diagram.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-36-earth-layers-educational-diagram.png"
     },
     {
       "id": "img2-37-cell-structure-bilingual-diagram",
@@ -5714,10 +5421,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-37-cell-structure-bilingual-diagram.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-37-cell-structure-bilingual-diagram.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-37-cell-structure-bilingual-diagram.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-37-cell-structure-bilingual-diagram.png"
     },
     {
       "id": "img2-38-coffee-vs-tea-comparison",
@@ -5755,10 +5459,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-38-coffee-vs-tea-comparison.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-38-coffee-vs-tea-comparison.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-38-coffee-vs-tea-comparison.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-38-coffee-vs-tea-comparison.png"
     },
     {
       "id": "img2-39-orin-coffee-brand-logo-set",
@@ -5796,10 +5497,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-39-orin-coffee-brand-logo-set.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-39-orin-coffee-brand-logo-set.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-39-orin-coffee-brand-logo-set.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-39-orin-coffee-brand-logo-set.png"
     },
     {
       "id": "img2-40-ridge-outdoor-brand-mark",
@@ -5837,10 +5535,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-40-ridge-outdoor-brand-mark.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-40-ridge-outdoor-brand-mark.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-40-ridge-outdoor-brand-mark.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-40-ridge-outdoor-brand-mark.png"
     },
     {
       "id": "img2-41-premium-water-bottle-hiking-ad",
@@ -5878,10 +5573,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-41-premium-water-bottle-hiking-ad.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-41-premium-water-bottle-hiking-ad.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-41-premium-water-bottle-hiking-ad.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-41-premium-water-bottle-hiking-ad.png"
     },
     {
       "id": "img2-42-skincare-minimal-square-ad",
@@ -5919,10 +5611,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-42-skincare-minimal-square-ad.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-42-skincare-minimal-square-ad.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-42-skincare-minimal-square-ad.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-42-skincare-minimal-square-ad.png"
     },
     {
       "id": "img2-43-summer-sale-social-graphic",
@@ -5960,10 +5649,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-43-summer-sale-social-graphic.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-43-summer-sale-social-graphic.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-43-summer-sale-social-graphic.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-43-summer-sale-social-graphic.png"
     },
     {
       "id": "img2-44-surreal-koi-nebula",
@@ -6001,10 +5687,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-44-surreal-koi-nebula.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-44-surreal-koi-nebula.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-44-surreal-koi-nebula.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-44-surreal-koi-nebula.png"
     },
     {
       "id": "img2-45-watercolor-editorial-illustration",
@@ -6042,10 +5725,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-45-watercolor-editorial-illustration.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-45-watercolor-editorial-illustration.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-45-watercolor-editorial-illustration.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-45-watercolor-editorial-illustration.png"
     },
     {
       "id": "img2-46-epic-silhouette-world-poster",
@@ -6083,10 +5763,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-46-epic-silhouette-world-poster.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-46-epic-silhouette-world-poster.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-46-epic-silhouette-world-poster.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-46-epic-silhouette-world-poster.png"
     },
     {
       "id": "img2-47-impossible-escher-library",
@@ -6124,10 +5801,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-47-impossible-escher-library.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-47-impossible-escher-library.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-47-impossible-escher-library.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-47-impossible-escher-library.png"
     },
     {
       "id": "img2-48-korean-idol-3-3-grid-portrait",
@@ -6165,10 +5839,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-48-korean-idol-3-3-grid-portrait.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-48-korean-idol-3-3-grid-portrait.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-48-korean-idol-3-3-grid-portrait.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-48-korean-idol-3-3-grid-portrait.png"
     },
     {
       "id": "img2-49-ccd-flash-candid-snapshot",
@@ -6206,10 +5877,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-49-ccd-flash-candid-snapshot.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-49-ccd-flash-candid-snapshot.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-49-ccd-flash-candid-snapshot.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-49-ccd-flash-candid-snapshot.png"
     },
     {
       "id": "img2-50-detective-s-investigation-slide-deck",
@@ -6247,10 +5915,7 @@
       "primary_style": "realistic",
       "tagline_en": "",
       "tagline_zh": "",
-      "preview_image": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-50-detective-s-investigation-slide-deck.png",
-      "preview_image_latest": "https://cdn.jsdelivr.net/gh/SHUJILAI/gpt-image-2-prompts-cdn@assets/case-images/img2-50-detective-s-investigation-slide-deck.png",
-      "preview_image_raw": "https://raw.githubusercontent.com/SHUJILAI/gpt-image-2-prompts-cdn/465e7671b1b13978b9bf03a515b44b19a065f383/case-images/img2-50-detective-s-investigation-slide-deck.png",
-      "preview_image_pinned_sha": "465e7671b1b13978b9bf03a515b44b19a065f383"
+      "preview_image": "https://storage.res-capy.com/case-images/img2-50-detective-s-investigation-slide-deck.png"
     }
   ],
   "image_host": {
